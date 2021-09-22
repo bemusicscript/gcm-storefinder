@@ -1,0 +1,101 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Game Center Map</title>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"></script>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.css" />
+        <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.Default.css" />
+        <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+        <script src="https://unpkg.com/leaflet.markercluster@1.3.0/dist/leaflet.markercluster.js"></script>
+        <style>
+            * {
+                border:0;
+                margin: 0;
+            }
+            body {
+                height: 100%;
+                width: 100%;
+            }
+            #map {
+                position: absolute;
+                top: 0;
+                left: 0;
+                width: 100%;
+                height: 100%;
+            }
+            #search-box {
+                text-align: right;
+                position: fixed;
+                top: 10px;
+                right: 30px;
+                z-index: 1000 !important;
+                padding: 10px;
+            }
+            #search-box select {
+                border: solid black;
+                border-width: 0 1px 1px 0;
+                border: 1px solid #EEE;
+                border-radius: .25rem;
+                padding: .5rem 1.5rem .5rem .5rem;
+                font-size: 20px;
+            }
+            #search-box #last-modified {
+                font-size: 20px;
+                line-height: 2em;
+            }
+        </style>
+    </head>
+    <body>
+        <div id="search-box">
+            <span id="last-modified"></span><Br>
+            <select onchange="choose_game(this.value);">
+                <option value="duplicate">3-in-one</option>
+                <option value="ongeki">オンゲキ</option>
+                <option value="chunithm">CHUNITHM</option>
+                <option value="maimai">maimai</option>
+            </select>
+        </div>
+        <div id="map"></div>
+        <script defer>
+            var map = L.map('map', {preferCanvas: true}).setView([36, 138], 6);
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+            }).addTo(map);
+            var markers = L.markerClusterGroup();
+            var location_icon = new L.Icon({
+                iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-green.png',
+                shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
+                iconSize: [25, 41],
+                iconAnchor: [12, 41],
+                popupAnchor: [1, -34],
+                shadowSize: [41, 41]
+            });
+
+            function choose_game(game_name){
+                markers.clearLayers();
+                fetch(`./json/${game_name}.json`).then(r => {
+                    document.querySelector("#last-modified").innerHTML = r.headers.get("Last-Modified");
+                    return r.json()
+                }).then(stores => {
+                    for (i in stores){
+                        let marker = L.marker(stores[i].location, {icon: location_icon});
+                        marker.bindPopup(`
+                            <div class="notranslate">
+                                <font size=4><b>${stores[i].name}</b></font>
+                                <br><br>
+                                <font size=3>${stores[i].address}</font>
+                                <br><br>
+                                <font size=3><a href="https://maps.google.com/maps?q=${stores[i].name}@${stores[i].location.join(",")}&zoom=16&hl=en">Google Maps</a></font>
+                            </div>`).openPopup();
+                        markers.addLayer(marker);
+                    }
+                    map.addLayer(markers);
+                });
+            }
+
+            document.addEventListener('DOMContentLoaded', function(){
+                choose_game("duplicate");
+            });
+        </script>
+    </body>
+</html>
