@@ -82,5 +82,5 @@ def crawl_stores():
     return True
 
 if __name__ == "__main__":
-    list_stores()
+    crawl_stores()
     dupe_stores()
