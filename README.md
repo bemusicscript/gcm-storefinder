@@ -6,7 +6,7 @@ https://location.am-all.net からデータをクローリングして地図を�
 
 # DEMO
 
-https://bemusicscript.github.io/storefinder/
+https://bemusicscript.github.io/gcm-storefinder/
 
 # Crawler Update & Push
 
