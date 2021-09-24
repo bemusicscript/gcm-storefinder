@@ -39,6 +39,7 @@
                 border-radius: .25rem;
                 padding: .5rem 1.5rem .5rem .5rem;
                 font-size: 20px;
+                margin-bottom: 10px;
             }
             #search-box #last-modified {
                 font-family: sans-serif;
@@ -49,13 +50,16 @@
     </head>
     <body>
         <div id="search-box">
-            <span id="last-modified"></span><Br>
+            <span id="last-modified"></span>
+            <br>
             <select onchange="choose_game(this.value);">
-                <option value="duplicate">3-in-one</option>
+                <option value="duplicate">all-in-one</option>
                 <option value="ongeki">オンゲキ</option>
                 <option value="chunithm">CHUNITHM</option>
                 <option value="maimai">maimai</option>
             </select>
+            <br>
+            <iframe src="https://ghbtns.com/github-btn.html?user=bemusicscript&repo=storefinder&type=star&count=true&size=large" frameborder="0" scrolling="0" width="110" height="30" title="GitHub"></iframe>
         </div>
         <div id="map"></div>
         <script defer>
@@ -101,3 +105,4 @@
         </script>
     </body>
 </html>
+
