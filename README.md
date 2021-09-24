@@ -7,13 +7,3 @@ https://location.am-all.net からデータをクローリングして地図を�
 # DEMO
 
 https://bemusicscript.github.io/gcm-storefinder/
-
-# Crawler Update & Push
-
-```sh
-
-$ python3 storemap.py
-$ git add ./json/
-$ git commit -m "JSON Update $(date '+%Y-%m-%d %H:%M:%S')"
-$ git push origin master
-```
