@@ -14,7 +14,7 @@ import requests
 
 STORES = {
     "ongeki": "https://location.am-all.net/alm/location?gm=88&at={prefecture}&ct=1000",
-    "chunithm": "https://location.am-all.net/alm/location?gm=58&lang=en&ct=1000&at={prefecture}",
+    "chunithm": "https://location.am-all.net/alm/location?gm=109&lang=en&ct=1000&at={prefecture}",
     "maimai": "https://location.am-all.net/alm/location?gm=96&lang=en&ct=1000&at={prefecture}",
 }
 
