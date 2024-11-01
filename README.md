@@ -1,8 +1,9 @@
 # gcm-storefinder
 
-https://location.am-all.net からデータをクローリングして地図を作りました。
+https://location.am-all.net からデータをクローリングして作った地図。
+全ての機器が一緒に設置されているゲーセンを簡単に見ることができます。
 
-全ての機器が一緒に設置されているゲーセン地図がないので作りました。
+2024-11-2: now supports global stores.
 
 # DEMO
 
