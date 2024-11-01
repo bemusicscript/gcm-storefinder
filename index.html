@@ -2,131 +2,38 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>storemap</title>
+        <title>SEGA Storemap (セガ店舗マップ)</title>
         <meta name="viewport" content="initial-scale=1, user-scalable=0">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"></script>
         <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
         <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
         <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
         <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
-        <style type="text/css">
-            * {
-                border:0;
-                margin: 0;
-            }
-            body {
-                height: 100%;
-                width: 100%;
-            }
-            #map {
-                position: absolute;
-                top: 0;
-                left: 0;
-                width: 100%;
-                height: 100%;
-            }
-            #search-box {
-                text-align: right;
-                position: fixed;
-                top: 10px;
-                right: 30px;
-                z-index: 1000 !important;
-                padding: 10px;
-            }
-            #search-box select {
-                border: solid black;
-                border-width: 0 1px 1px 0;
-                border: 1px solid #EEE;
-                border-radius: .25rem;
-                padding: .5rem 1.5rem .5rem .5rem;
-                font-size: 20px;
-                margin-bottom: 10px;
-            }
-            #search-box #last-modified {
-                font-family: sans-serif;
-                font-size: 11px;
-                line-height: 2em;
-            }
-
-            .store-info ul {
-                padding-left: 10px;
-            }
-        </style>
+        <meta name="keywords" content="sega, tenpo, map, セガ, 店舗, マップ, 音ゲー, オンゲキ, maimai, CHUNITHM">
+        <meta name="google" content="notranslate">
+        <meta name="theme-color" content="#333333">
+        <meta name="referrer" content="no-referrer">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=5.0">
+        <meta name="description" content="Harold Kim: stypr">
+        <link rel="shortcut icon" href="./static/favicon.ico">
+        <link rel="apple-touch-icon" href="./static/icon_iphone.png">
+        <link rel="stylesheet" href="./static/main.css">
     </head>
     <body>
         <div id="search-box">
             <span id="last-modified"></span>
             <br>
-            <select onchange="choose_game(this.value);">
+            <select onchange="chooseGame(this.value);">
                 <option value="duplicate">all-in-one</option>
                 <option value="ongeki">オンゲキ</option>
                 <option value="chunithm">CHUNITHM</option>
                 <option value="maimai">maimai</option>
             </select>
             <br>
-            <iframe src="https://ghbtns.com/github-btn.html?user=bemusicscript&repo=storefinder&type=star&count=true&size=large" frameborder="0" scrolling="0" width="110" height="30" title="GitHub"></iframe>
+            <iframe src="https://ghbtns.com/github-btn.html?user=bemusicscript&repo=storefinder&type=star&count=false&size=large" frameborder="0" scrolling="0" width="75" height="30" title="GitHub"></iframe>
         </div>
         <div id="map"></div>
-        <script defer>
-            const getLastMod = (dateString) => {
-                const pad = num => String(num).padStart(2, '0');
-                const date = new Date(Date.parse(dateString));
-                const year = date.getFullYear();
-                const month = pad(date.getMonth() + 1);
-                const day = pad(date.getDate());
-                const hour = pad(date.getHours());
-                const min = pad(date.getMinutes());
-                const sec = pad(date.getSeconds());
-                return `${year}/${month}/${day} ${hour}:${min}:${sec}`;
-            }
-
-            const map = L.map('map', {preferCanvas: true}).setView([36, 138], 6);
-            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-            }).addTo(map);
-            const markers = L.markerClusterGroup();
-            const locationIcon = new L.Icon({
-                iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-green.png',
-                shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
-                iconSize: [25, 41],
-                iconAnchor: [12, 41],
-                popupAnchor: [1, -34],
-                shadowSize: [41, 41]
-            });
-
-            const chooseGame = async (gameName) => {
-                markers.clearLayers();
-                const response = await fetch(`./json/${gameName}.json`);
-                
-                const lastModified = document.querySelector("#last-modified");
-                lastModified.innerHTML = `Database: ${getLastMod(response.headers.get("Last-Modified"))}`;
-                
-                const stores = await response.json();
-                stores.forEach(store => {
-                    const marker = L.marker(store.location, { icon: locationIcon });
-                    marker.bindPopup(`
-                        <div class="notranslate store-info">
-                            <font size="4"><b>${store.name}</b></font>
-                            <br><br>
-                            <font size="3">${store.address}</font>
-                            <br><br>
-                            <ul>
-                                <li>
-                                    <font size="3"><a target="_new" href="https://maps.google.com/maps?q=${store.name}@${store.location.join(",")}&zoom=16&hl=en">Google Maps</a></font>
-                                </li>
-                                <li>
-                                    <font size="3"><a target="_new" href="https://map.yahoo.co.jp/search?q=${store.name}&lat=${store.location[0]}&lng=${store.location[1]}&zoom=16&hl=en">Yahoo Maps (JP)</a></font>
-                                </li>
-                            </ul>
-                        </div>
-                    `).openPopup();
-                    markers.addLayer(marker);
-                });
-                map.addLayer(markers);
-            };
-
-            document.addEventListener('DOMContentLoaded', () => chooseGame("duplicate"));
-        </script>
+        <script defer src="/static/maps.js"></script>
     </body>
 </html>
 
