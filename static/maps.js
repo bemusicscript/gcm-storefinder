@@ -9,7 +9,7 @@ const getLastMod = (dateString) => {
     const sec = pad(date.getSeconds());
     return `${year}/${month}/${day} ${hour}:${min}:${sec}`;
 }
-
+const revision = "1"
 const map = L.map('map', {preferCanvas: true}).setView([36, 138], 6);
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
@@ -26,7 +26,7 @@ const locationIcon = new L.Icon({
 
 const chooseGame = async (gameName) => {
     markers.clearLayers();
-    const response = await fetch(`./json/${gameName}.json`);
+    const response = await fetch(`./json/${gameName}.json?${revision}`);
     const lastModified = document.querySelector("#last-modified");
     lastModified.innerHTML = `Database: ${getLastMod(response.headers.get("Last-Modified"))}`;
     

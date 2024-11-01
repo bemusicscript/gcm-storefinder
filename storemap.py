@@ -27,6 +27,20 @@ STORES = {
     },
 }
 
+UNKNOWN_LOCATION = {
+    # not defined
+    "TOM'S WORLD (E-SQUARE@KEELUNG)": [25.1301738,121.7406039],
+    "TOM'S WORLD(SHANG-SHUN WORLD@MIAOLI)": [24.6890502,120.9014187],
+    "GiGO MITSUI OUTLET PARK Lin Kou": [25.0706472,121.364833],
+    "QUANTUM GREENHILLS": [14.6025933,121.0494889],
+    "QUANTUM SM FAIRVIEW": [14.7342227,121.0548111],
+    "PALO Sunway Velocity Mall": [3.1278768,101.722265],
+    "PALO Imago": [5.9708238,116.0611211],
+    "FUNHOUSE SUNNYBANK": [-27.5710502,153.0606721],
+    # wrong location
+    "TOM'S WORLD (HAIDIAN-LI@TAINAN))": [23.026179,120.190815],
+    "ROBOT AMUSEMENT": [16.7832939,96.1714648],
+}
 
 def find_duplicate_store(store_a, store_b):
     """ (list of dict, list of dict) -> list of dict
@@ -62,6 +76,8 @@ def dupe_stores():
 
         tmp = filter_country(stores[available_games[0]], country)
         for game_type in available_games:
+            if game_type == available_games[0]:
+                continue
             tmp = find_duplicate_store(tmp, filter_country(stores[game_type], country))
         result.extend(tmp)
 
@@ -71,6 +87,29 @@ def dupe_stores():
     return True
 
 
+def parse_location(response, country):
+    """
+    Parse URLs, get addresses
+    """
+    result = []
+    store_location = re.findall(r'//maps.google.com/maps\?q=(.*)\&zoom', response)
+    store_address = re.findall(r'<span class="store_address">(.*)</span>', response)
+    for i, _raw in enumerate(store_location):
+        store_name, store_location = _raw.rsplit("@", 1)
+        store_location = [float(i) for i in store_location.split(",")]
+
+        if store_name in UNKNOWN_LOCATION:
+            store_location = UNKNOWN_LOCATION[store_name]
+
+        result.append({
+            'name': store_name,
+            'address': store_address[i],
+            'location': store_location,
+            'country': country
+        })
+    return result
+
+
 def crawl_location(store_urls):
     """ (str) -> json
 
@@ -78,38 +117,23 @@ def crawl_location(store_urls):
     """
     result = []
 
-    # Grab all prefectures (JP)
-    if store_urls.get("JP"):
-        for prefecture in range(47):
-            # Parse URLs, get addresses
-            response = requests.get(store_urls["JP"].format(prefecture=prefecture)).text
-            store_location = re.findall(r'//maps.google.com/maps\?q=(.*)\&zoom', response)
-            store_address = re.findall(r'<span class="store_address">(.*)</span>', response)
-            for i, _raw in enumerate(store_location):
-                store_name, store_location = _raw.split("@")
-                store_location = [float(i) for i in store_location.split(",")]
-                result.append({
-                    'name': store_name,
-                    'address': store_address[i],
-                    'location': store_location,
-                    'country': 'JP'
-                })
+    for country in ["JP", "EN"]:
+        if country == "JP":
+            # Grab all prefectures (JP)
+            if not store_urls.get("JP"):
+                break
+            for prefecture in range(47):
+                response = requests.get(store_urls["JP"].format(prefecture=prefecture)).text
+                result.extend(parse_location(response, country))
 
-    # Grab all countries (EN)
-    if store_urls.get("EN"):
-        for country in range(1000, 1020):
-            response = requests.get(store_urls["EN"].format(country=country)).text
-            store_location = re.findall(r'//maps.google.com/maps\?q=(.*)\&zoom', response)
-            store_address = re.findall(r'<span class="store_address">(.*)</span>', response)
-            for i, _raw in enumerate(store_location):
-                store_name, store_location = _raw.rsplit("@", 1)
-                store_location = [float(i) for i in store_location.split(",")]
-                result.append({
-                    'name': store_name,
-                    'address': store_address[i],
-                    'location': store_location,
-                    'country': 'EN'
-                })
+        elif country == "EN":
+            # Grab all countries (EN)
+            if not store_urls.get("EN"):
+                break
+            for country_id in range(1000, 1020):
+                response = requests.get(store_urls["EN"].format(country=country_id)).text
+                result.extend(parse_location(response, country))
+
     return result
 
 
