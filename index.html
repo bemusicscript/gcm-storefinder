@@ -1,13 +1,14 @@
 <!doctype html>
 <html>
     <head>
+        <meta charset="utf-8">
         <title>storemap</title>
         <meta name="viewport" content="initial-scale=1, user-scalable=0">
-        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"></script>
-        <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.css" />
-        <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.3.0/dist/MarkerCluster.Default.css" />
-        <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
-        <script src="https://unpkg.com/leaflet.markercluster@1.3.0/dist/leaflet.markercluster.js"></script>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"></script>
+        <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+        <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+        <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+        <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
         <style type="text/css">
             * {
                 border:0;
@@ -43,8 +44,12 @@
             }
             #search-box #last-modified {
                 font-family: sans-serif;
-                font-size: 15px;
+                font-size: 11px;
                 line-height: 2em;
+            }
+
+            .store-info ul {
+                padding-left: 10px;
             }
         </style>
     </head>
@@ -63,12 +68,24 @@
         </div>
         <div id="map"></div>
         <script defer>
-            var map = L.map('map', {preferCanvas: true}).setView([36, 138], 6);
+            const getLastMod = (dateString) => {
+                const pad = num => String(num).padStart(2, '0');
+                const date = new Date(Date.parse(dateString));
+                const year = date.getFullYear();
+                const month = pad(date.getMonth() + 1);
+                const day = pad(date.getDate());
+                const hour = pad(date.getHours());
+                const min = pad(date.getMinutes());
+                const sec = pad(date.getSeconds());
+                return `${year}/${month}/${day} ${hour}:${min}:${sec}`;
+            }
+
+            const map = L.map('map', {preferCanvas: true}).setView([36, 138], 6);
             L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
                 attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
             }).addTo(map);
-            var markers = L.markerClusterGroup();
-            var location_icon = new L.Icon({
+            const markers = L.markerClusterGroup();
+            const locationIcon = new L.Icon({
                 iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-green.png',
                 shadowUrl: 'https://cdnjs.cloudflare.com/ajax/libs/leaflet/0.7.7/images/marker-shadow.png',
                 iconSize: [25, 41],
@@ -77,31 +94,38 @@
                 shadowSize: [41, 41]
             });
 
-            function choose_game(game_name){
+            const chooseGame = async (gameName) => {
                 markers.clearLayers();
-                fetch(`./json/${game_name}.json`).then(r => {
-                    document.querySelector("#last-modified").innerHTML = r.headers.get("Last-Modified");
-                    return r.json()
-                }).then(stores => {
-                    for (i in stores){
-                        let marker = L.marker(stores[i].location, {icon: location_icon});
-                        marker.bindPopup(`
-                            <div class="notranslate">
-                                <font size=4><b>${stores[i].name}</b></font>
-                                <br><br>
-                                <font size=3>${stores[i].address}</font>
-                                <br><br>
-                                <font size=3><a href="https://maps.google.com/maps?q=${stores[i].name}@${stores[i].location.join(",")}&zoom=16&hl=en">Google Maps</a></font>
-                            </div>`).openPopup();
-                        markers.addLayer(marker);
-                    }
-                    map.addLayer(markers);
+                const response = await fetch(`./json/${gameName}.json`);
+                
+                const lastModified = document.querySelector("#last-modified");
+                lastModified.innerHTML = `Database: ${getLastMod(response.headers.get("Last-Modified"))}`;
+                
+                const stores = await response.json();
+                stores.forEach(store => {
+                    const marker = L.marker(store.location, { icon: locationIcon });
+                    marker.bindPopup(`
+                        <div class="notranslate store-info">
+                            <font size="4"><b>${store.name}</b></font>
+                            <br><br>
+                            <font size="3">${store.address}</font>
+                            <br><br>
+                            <ul>
+                                <li>
+                                    <font size="3"><a target="_new" href="https://maps.google.com/maps?q=${store.name}@${store.location.join(",")}&zoom=16&hl=en">Google Maps</a></font>
+                                </li>
+                                <li>
+                                    <font size="3"><a target="_new" href="https://map.yahoo.co.jp/search?q=${store.name}&lat=${store.location[0]}&lng=${store.location[1]}&zoom=16&hl=en">Yahoo Maps (JP)</a></font>
+                                </li>
+                            </ul>
+                        </div>
+                    `).openPopup();
+                    markers.addLayer(marker);
                 });
-            }
+                map.addLayer(markers);
+            };
 
-            document.addEventListener('DOMContentLoaded', function(){
-                choose_game("duplicate");
-            });
+            document.addEventListener('DOMContentLoaded', () => chooseGame("duplicate"));
         </script>
     </body>
 </html>
