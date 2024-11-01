@@ -1,4 +1,3 @@
-
 const getLastMod = (dateString) => {
     const pad = num => String(num).padStart(2, '0');
     const date = new Date(Date.parse(dateString));
@@ -28,29 +27,29 @@ const locationIcon = new L.Icon({
 const chooseGame = async (gameName) => {
     markers.clearLayers();
     const response = await fetch(`./json/${gameName}.json`);
-    
     const lastModified = document.querySelector("#last-modified");
     lastModified.innerHTML = `Database: ${getLastMod(response.headers.get("Last-Modified"))}`;
     
     const stores = await response.json();
     stores.forEach(store => {
         const marker = L.marker(store.location, { icon: locationIcon });
-        marker.bindPopup(`
+        const markerContent = `
             <div class="notranslate store-info">
                 <font size="4"><b>${store.name}</b></font>
                 <br><br>
-                <font size="3">${store.address}</font>
+                <font size="3" style="line-break:anywhere;">${store.address}</font>
                 <br><br>
                 <ul>
                     <li>
-                        <font size="3"><a target="_new" href="https://maps.google.com/maps?q=${store.name}@${store.location.join(",")}&zoom=16&hl=en">Google Maps</a></font>
+                        <font size="3"><a target="_blank" href="https://maps.google.com/maps?q=${store.name}@${store.location.join(",")}&zoom=16&hl=en">Google Maps</a></font>
                     </li>
                     <li>
-                        <font size="3"><a target="_new" href="https://map.yahoo.co.jp/search?q=${store.name}&lat=${store.location[0]}&lng=${store.location[1]}&zoom=16&hl=en">Yahoo Maps (JP)</a></font>
+                        <font size="3"><a target="_blank" href="https://map.yahoo.co.jp/search?q=${store.name}&lat=${store.location[0]}&lng=${store.location[1]}&zoom=16&hl=en">Yahoo Maps (JP)</a></font>
                     </li>
                 </ul>
             </div>
-        `).openPopup();
+        `;
+        marker.bindPopup(markerContent).openPopup();
         markers.addLayer(marker);
     });
     map.addLayer(markers);
