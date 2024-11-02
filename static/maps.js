@@ -44,6 +44,9 @@ const chooseGame = async (gameName) => {
                         <font size="3"><a target="_blank" href="https://maps.google.com/maps?q=${store.name}@${store.location.join(",")}&zoom=16&hl=en">Google Maps</a></font>
                     </li>
                     <li>
+                        <font size="3"><a target="_blank" href="https://google.com/search?q=${store.name}">Google Search</a></font>
+                    </li>
+                    <li>
                         <font size="3"><a target="_blank" href="https://map.yahoo.co.jp/search?q=${store.name}&lat=${store.location[0]}&lng=${store.location[1]}&zoom=16&hl=en">Yahoo Maps (JP)</a></font>
                     </li>
                 </ul>

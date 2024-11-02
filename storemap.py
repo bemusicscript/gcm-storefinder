@@ -48,9 +48,15 @@ def find_duplicate_store(store_a, store_b):
     Find duplicate dictionaries in two lists of dictionaries
     """
     result = []
+    '''
     _tmp = set((_find['name'], tuple(_find['address'])) for _find in store_a)
     for _find in store_b:
         if (_find['name'], tuple(_find['address'])) in _tmp:
+            result.append(_find)
+    '''
+    _tmp = set((tuple(_find['address'])) for _find in store_a)
+    for _find in store_b:
+        if (tuple(_find['address'])) in _tmp:
             result.append(_find)
     return result
 
@@ -111,28 +117,28 @@ def parse_location(response, country):
 
 
 def crawl_location(store_urls):
-    """ (str) -> json
-
+    """ (dict) -> list
     Crawl from location.am-all.net
     """
     result = []
+    ranges = {
+        "JP": range(47),               # Prefectures range for JP
+        "EN": range(1000, 1020)        # Country IDs range for EN
+    }
 
-    for country in ["JP", "EN"]:
-        if country == "JP":
-            # Grab all prefectures (JP)
-            if not store_urls.get("JP"):
-                break
-            for prefecture in range(47):
-                response = requests.get(store_urls["JP"].format(prefecture=prefecture)).text
-                result.extend(parse_location(response, country))
+    for country, ids in ranges.items():
+        url_template = store_urls.get(country)
+        if not url_template:
+            continue  # Skip if URL for country is not provided
 
-        elif country == "EN":
-            # Grab all countries (EN)
-            if not store_urls.get("EN"):
-                break
-            for country_id in range(1000, 1020):
-                response = requests.get(store_urls["EN"].format(country=country_id)).text
+        for location_id in ids:
+            try:
+                response = requests.get(url_template.format(
+                    prefecture=location_id if country == "JP" else None,
+                    country=location_id if country == "EN" else None)).text
                 result.extend(parse_location(response, country))
+            except requests.RequestException as e:
+                print(f"Failed to fetch data for {country} with id {location_id}: {e}")
 
     return result
 
@@ -151,5 +157,5 @@ def crawl_stores():
 
 
 if __name__ == "__main__":
-    crawl_stores()
+    # crawl_stores()
     dupe_stores()
