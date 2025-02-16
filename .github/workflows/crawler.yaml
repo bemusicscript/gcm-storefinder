@@ -6,6 +6,7 @@ on:
 
 jobs:
   crawl-and-commit:
+    if: github.event.issue.author_association == 'OWNER' || github.event.issue.author_association == 'MEMBER'
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
