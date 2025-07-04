@@ -4,11 +4,14 @@
         <meta charset="utf-8">
         <title>SEGA Storemap (セガ店舗マップ)</title>
         <meta name="viewport" content="initial-scale=1, user-scalable=0">
+		<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=M+PLUS+1:400,700&display=swap" crossorigin="anonymous">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"></script>
         <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
         <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
         <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
         <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+		<script src="https://unpkg.com/maplibre-gl@5.6.1/dist/maplibre-gl.js"></script>
+		<script src="https://unpkg.com/@maplibre/maplibre-gl-leaflet@0.1.1/leaflet-maplibre-gl.js"></script>
         <meta name="keywords" content="sega, tenpo, map, セガ, 店舗, マップ, 音ゲー, オンゲキ, maimai, CHUNITHM">
         <meta name="google" content="notranslate">
         <meta name="theme-color" content="#333333">
@@ -24,7 +27,7 @@
             <span id="last-modified"></span>
             <br>
             <select onchange="chooseGame(this.value);">
-                <option value="duplicate">all-in-one</option>
+                <option value="duplicate">全機種対応 (all-in-one)</option>
                 <option value="ongeki">オンゲキ</option>
                 <option value="chunithm">CHUNITHM</option>
                 <option value="maimai">maimai</option>

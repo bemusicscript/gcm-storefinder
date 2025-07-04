@@ -9,11 +9,19 @@ const getLastMod = (dateString) => {
     const sec = pad(date.getSeconds());
     return `${year}/${month}/${day} ${hour}:${min}:${sec}`;
 }
+
 const revision = "1"
-const map = L.map('map', {preferCanvas: true}).setView([36, 138], 6);
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+const map = L.map('map', {
+    preferCanvas: true,
+    maxZoom: 19,
+}).setView([36, 138], 6);
+
+var gl = L.maplibreGL({
+    style: "https://tile.openstreetmap.jp/styles/openmaptiles/style.json",
+    attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> contributors',
 }).addTo(map);
+
+
 const markers = L.markerClusterGroup();
 const locationIcon = new L.Icon({
     iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-2x-green.png',
@@ -29,7 +37,7 @@ const chooseGame = async (gameName) => {
     const response = await fetch(`./json/${gameName}.json?${revision}`);
     const lastModified = document.querySelector("#last-modified");
     lastModified.innerHTML = `Database: ${getLastMod(response.headers.get("Last-Modified"))}`;
-    
+
     const stores = await response.json();
     stores.forEach(store => {
         const marker = L.marker(store.location, { icon: locationIcon });
@@ -37,17 +45,17 @@ const chooseGame = async (gameName) => {
             <div class="notranslate store-info">
                 <font size="4"><b>${store.name}</b></font>
                 <br><br>
-                <font size="3" style="line-break:anywhere;">${store.address}</font>
+                <font size="2.5" style="line-break:anywhere;">${store.address}</font>
                 <br><br>
                 <ul>
                     <li>
-                        <font size="3"><a target="_blank" href="https://maps.google.com/maps?q=${store.name}@${store.location.join(",")}&zoom=16&hl=en">Google Maps</a></font>
+                        <font size="3"><a target="_blank" href="https://www.google.com/maps/search/?api=1&query=${store.name}@${store.location.join(",")}&zoom=16&hl=en">Google Maps</a></font>
                     </li>
                     <li>
                         <font size="3"><a target="_blank" href="https://google.com/search?q=${store.name}">Google Search</a></font>
                     </li>
                     <li>
-                        <font size="3"><a target="_blank" href="https://map.yahoo.co.jp/search?q=${store.name}&lat=${store.location[0]}&lng=${store.location[1]}&zoom=16&hl=en">Yahoo Maps (JP)</a></font>
+                        <font size="3"><a target="_blank" href="https://map.yahoo.co.jp/search?q=${store.name}&lat=${store.location[0]}&lng=${store.location[1]}&zoom=16&hl=en">Yahoo Maps (日本語)</a></font>
                     </li>
                 </ul>
             </div>
