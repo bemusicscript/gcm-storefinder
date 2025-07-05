@@ -12,12 +12,13 @@ const getLastMod = (dateString) => {
 
 const revision = "1"
 const map = L.map('map', {
-    preferCanvas: true,
+//    preferCanvas: true,
+	minZoom: 3,
     maxZoom: 19,
 }).setView([36, 138], 6);
 
 var gl = L.maplibreGL({
-    style: "https://tile.openstreetmap.jp/styles/openmaptiles/style.json",
+    style: "./static/styles.json", //https://tile.openstreetmap.jp/styles/openmaptiles/style.json",
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> contributors',
 }).addTo(map);
 
@@ -48,16 +49,11 @@ const chooseGame = async (gameName) => {
                 <font size="2.5" style="line-break:anywhere;">${store.address}</font>
                 <br><br>
                 <ul>
-                    <li>
-                        <font size="3"><a target="_blank" href="https://www.google.com/maps/search/?api=1&query=${store.name}@${store.location.join(",")}&zoom=16&hl=en">Google Maps</a></font>
-                    </li>
-                    <li>
-                        <font size="3"><a target="_blank" href="https://google.com/search?q=${store.name}">Google Search</a></font>
-                    </li>
-                    <li>
-                        <font size="3"><a target="_blank" href="https://map.yahoo.co.jp/search?q=${store.name}&lat=${store.location[0]}&lng=${store.location[1]}&zoom=16&hl=en">Yahoo Maps (日本語)</a></font>
-                    </li>
+                    <li><font size="3"><a target="_blank" href="https://www.google.com/maps/search/?api=1&query=${store.name}&zoom=16&hl=en">Google Maps</a></font></li>
+                    ${store.country !== "JP" ? `<li><font size="3"><a target="_blank" href="https://google.com/search?q=${store.name}">Google Search</a></font></li>` : ''}
+					${store.country === "JP" ? `<li><font size="3"><a target="_blank" href="https://map.yahoo.co.jp/search?q=${store.name}&lat=${store.location[0]}&lng=${store.location[1]}&zoom=16&hl=en">Yahoo Maps (日本語)</a></font></li>` : ''}
                 </ul>
+				${store.country !== "JP" ? '<br><font size="2.5" color="red">Stores outside Japan may be inaccurate.<br>Use this data at your own risk!<br></font>': ''}
             </div>
         `;
         marker.bindPopup(markerContent).openPopup();
