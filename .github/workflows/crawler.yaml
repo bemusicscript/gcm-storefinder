@@ -3,14 +3,31 @@ name: Crawl upon new requests
 on:
   issues:
     types: [opened]
+  issue_comment:
+    types: [created]
+
+permissions:
+  contents: write
+  issues: read
 
 jobs:
   crawl-and-commit:
-    if: github.event.issue.author_association == 'OWNER' || github.event.issue.author_association == 'MEMBER'
+    if: >
+      (
+        github.event.issue.author_association == 'OWNER' ||
+        github.event.issue.author_association == 'MEMBER'
+      ) &&
+      (
+        github.event_name == 'issues' ||
+        contains(github.event.comment.body, '/crawl')
+      )
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
+        with:
+          ref: master
+          persist-credentials: true
 
       - name: Run Crawler
         run: |
