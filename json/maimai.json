@@ -576,15 +576,6 @@
     "country": "JP"
   },
   {
-    "name": "ゲームランドつがる柏店",
-    "address": "青森県つがる市柏稲盛幾世41イオンモールつがる柏2F",
-    "location": [
-      40.8026320651684,
-      140.41665451349184
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ＰＡＬＯ五所川原",
     "address": "青森県五所川原市大字唐笠柳字藤巻６４１番１　アクロスプラザ",
     "location": [
@@ -3213,15 +3204,6 @@
     "country": "JP"
   },
   {
-    "name": "東京レジャーランド池袋店",
-    "address": "東京都豊島区東池袋１−２９−１サントロペ池袋２階３階",
-    "location": [
-      35.73048868515159,
-      139.71644453012445
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ラウンドワン池袋店",
     "address": "東京都豊島区東池袋１−１４−１",
     "location": [
@@ -3249,6 +3231,15 @@
     "country": "JP"
   },
   {
+    "name": "東京レジャーランド池袋店",
+    "address": "東京都豊島区東池袋１−２９−１サントロペ池袋２階３階",
+    "location": [
+      35.73048868515159,
+      139.71644453012445
+    ],
+    "country": "JP"
+  },
+  {
     "name": "タイトーステーション 池袋西口店",
     "address": "東京都豊島区西池袋１−１５−９第一西池ビル",
     "location": [
@@ -3272,33 +3263,6 @@
     "location": [
       35.7292369543395,
       139.68287147665183
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "東京レジャーランド秋葉原店",
-    "address": "東京都千代田区外神田1-9-5",
-    "location": [
-      35.69874690738787,
-      139.77014704540363
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "東京レジャーランド秋葉原2号店",
-    "address": "東京都千代田区外神田4-3-3ミナミビル6F・7F",
-    "location": [
-      35.7008302,
-      139.7718494
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "ｎａｍｃｏ秋葉原店",
-    "address": "東京都千代田区外神田１丁目１５番９号",
-    "location": [
-      35.6980094,
-      139.7724164
     ],
     "country": "JP"
   },
@@ -3339,6 +3303,33 @@
     "country": "JP"
   },
   {
+    "name": "東京レジャーランド秋葉原店",
+    "address": "東京都千代田区外神田1-9-5",
+    "location": [
+      35.69874690738787,
+      139.77014704540363
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "東京レジャーランド秋葉原2号店",
+    "address": "東京都千代田区外神田4-3-3ミナミビル6F・7F",
+    "location": [
+      35.7008302,
+      139.7718494
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ｎａｍｃｏ秋葉原店",
+    "address": "東京都千代田区外神田１丁目１５番９号",
+    "location": [
+      35.6980094,
+      139.7724164
+    ],
+    "country": "JP"
+  },
+  {
     "name": "ＧｉＧＯ渋谷宮益坂",
     "address": "東京都渋谷区渋谷１−１４−１４ＥＳＴ１階・７階",
     "location": [
@@ -3353,6 +3344,15 @@
     "location": [
       35.65985204002188,
       139.70199283743432
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "アドアーズ渋谷",
+    "address": "東京都渋谷区宇田川町１３−１１　ＫＮ渋谷１ビル",
+    "location": [
+      35.661247098355716,
+      139.69823207116394
     ],
     "country": "JP"
   },
@@ -3375,15 +3375,6 @@
     "country": "JP"
   },
   {
-    "name": "タイトー新宿南口ゲームワールド店",
-    "address": "東京都新宿区新宿３−３５−８",
-    "location": [
-      35.68986596324073,
-      139.70225423802867
-    ],
-    "country": "JP"
-  },
-  {
     "name": "新宿スポーツランド本館",
     "address": "東京都新宿区新宿3-22-12",
     "location": [
@@ -3398,6 +3389,15 @@
     "location": [
       35.69328019150724,
       139.7015307668995
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "タイトー新宿南口ゲームワールド店",
+    "address": "東京都新宿区新宿３−３５−８",
+    "location": [
+      35.68986596324073,
+      139.70225423802867
     ],
     "country": "JP"
   },
@@ -3573,20 +3573,20 @@
     "country": "JP"
   },
   {
-    "name": "ＧｉＧＯ調布",
-    "address": "東京都調布市布田４丁目２ー４",
-    "location": [
-      35.6509849,
-      139.5442311
-    ],
-    "country": "JP"
-  },
-  {
     "name": "アミューズランドモナコ調布駅前店",
     "address": "東京都調布市布田４−２−２２",
     "location": [
       35.6512163258339,
       139.54435173558204
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ＧｉＧＯ調布",
+    "address": "東京都調布市布田４丁目２ー４",
+    "location": [
+      35.6509849,
+      139.5442311
     ],
     "country": "JP"
   },
@@ -3951,15 +3951,6 @@
     "country": "JP"
   },
   {
-    "name": "ラウンドワン吉祥寺店",
-    "address": "東京都武蔵野市吉祥寺本町1-11-22",
-    "location": [
-      35.706301998702415,
-      139.58077991055484
-    ],
-    "country": "JP"
-  },
-  {
     "name": "東京レジャーランド吉祥寺店",
     "address": "東京都武蔵野市吉祥寺本町1-3-7　YSビル地下１階〜4階",
     "location": [
@@ -3983,6 +3974,15 @@
     "location": [
       35.7041889,
       139.5795301
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ラウンドワン吉祥寺店",
+    "address": "東京都武蔵野市吉祥寺本町1-11-22",
+    "location": [
+      35.706301998702415,
+      139.58077991055484
     ],
     "country": "JP"
   },
@@ -10035,15 +10035,6 @@
     "country": "EN"
   },
   {
-    "name": "TOM'S WORLD(MITSUKOSHI@ZUOYING 2F)",
-    "address": "2F.No.123,GaotieRd.,Zuoying Dist.,KaohsiungCity81361",
-    "location": [
-      22.6877358,
-      120.2916524
-    ],
-    "country": "EN"
-  },
-  {
     "name": "TOM'S WORLD (HANSHIN@KAOHSIUNG)",
     "address": "6F.No.777, Bo'ai 2ndRd.ZuoyingDist.KaohsiungCity813603,Taiwan",
     "location": [
@@ -10062,20 +10053,20 @@
     "country": "EN"
   },
   {
+    "name": "TOM'S WORLD(MITSUKOSHI@ZUOYING 2F)",
+    "address": "2F.No.123,GaotieRd.,Zuoying Dist.,KaohsiungCity81361",
+    "location": [
+      22.6877358,
+      120.2916524
+    ],
+    "country": "EN"
+  },
+  {
     "name": "RHYTHM ARENA 2",
     "address": "2F No. 102, Tianxiang 1st Rd., Sanmin Dist",
     "location": [
       22.6675678,
       120.3202591
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "HAPPY100(DREAM MALL@KAOHSIUNG )",
-    "address": "9F., NO.789, ZHONGHUA 5TH RD.,QIANZHEN DIST., KAOHSIUNG CITY",
-    "location": [
-      22.59500628631977,
-      120.30778165033189
     ],
     "country": "EN"
   },
@@ -10103,6 +10094,15 @@
     "location": [
       22.5824875,
       120.3288911
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "HAPPY100(DREAM MALL@KAOHSIUNG )",
+    "address": "9F., NO.789, ZHONGHUA 5TH RD.,QIANZHEN DIST., KAOHSIUNG CITY",
+    "location": [
+      22.59500628631977,
+      120.30778165033189
     ],
     "country": "EN"
   },
@@ -10143,6 +10143,15 @@
     "country": "EN"
   },
   {
+    "name": "TOM'S WORLD(FENGSHAN@KAOHSIUNG)",
+    "address": "B1F.,NO.149,ZHONGSHAN RD.,FENGSHANG DIST., KAOHSIUNG,",
+    "location": [
+      22.622730810416055,
+      120.35804546073052
+    ],
+    "country": "EN"
+  },
+  {
     "name": "TOM'S WORLD(FE21 MEGA@KAOHSIUNG)",
     "address": "12/F,21 SANDUO 4TH RD.,LINGYA DIST.,KAOHSIUNG CITY,TAIWAN",
     "location": [
@@ -10179,20 +10188,20 @@
     "country": "EN"
   },
   {
-    "name": "TOM'S WORLD(MINSHENG@LOTONG)",
-    "address": "2F.,NO.6,MINSHENG RD.,LUODONG TOWNSHIP, YILAN COUNTY,",
-    "location": [
-      24.676720059988032,
-      121.77103105504762
-    ],
-    "country": "EN"
-  },
-  {
     "name": "TOM'S WORLD(LUNA PLAZA@YILAN)",
     "address": "4F.,NO.6, LANE38, SEC.2,MINQUANRD.,YILAN CITY,YILANCNTY",
     "location": [
       24.75446268183731,
       121.75071100000002
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "TOM'S WORLD(MINSHENG@LOTONG)",
+    "address": "2F.,NO.6,MINSHENG RD.,LUODONG TOWNSHIP, YILAN COUNTY,",
+    "location": [
+      24.676720059988032,
+      121.77103105504762
     ],
     "country": "EN"
   },
@@ -10931,6 +10940,15 @@
     "location": [
       2.9221743,
       101.6510948
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "NEXTGEN",
+    "address": "1 Utama Shopping Centre,CentralPark Avenue,Bandar Utama,47800",
+    "location": [
+      3.1489857,
+      101.6161328
     ],
     "country": "EN"
   },
@@ -11880,33 +11898,6 @@
     "country": "EN"
   },
   {
-    "name": "TIMEZONE LEVEL 21",
-    "address": "Level 21 Mall Lt. 1, Jl. Teuku Umar No. 1 Denpasar",
-    "location": [
-      -8.6696985,
-      115.2150664
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "TIMEZONE GALERIA BALI",
-    "address": "JI.RayaByPassIGustiNgurahRai,SimpangDewa Ruci,Kuta,Denpasar,Bali",
-    "location": [
-      -8.6985178,
-      115.1708974
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "TIMEZONE TRANS STUDIO MAL BALI",
-    "address": "JL. IMAM BONJOL NO.440 80361 DENPASAR BALI",
-    "location": [
-      -8.7018086,
-      115.1828021
-    ],
-    "country": "EN"
-  },
-  {
     "name": "TIMEZONE NIPAH",
     "address": "Jalan Urip Sumoharjo Km 5 Makassar, Sulawesi Selatan 90144",
     "location": [
@@ -11916,20 +11907,20 @@
     "country": "EN"
   },
   {
-    "name": "TIMEZONE MAL RATU INDAH",
-    "address": "Mamajang Luar,Mamajang,Kota Makassar,Sulawesi Selatan 90114",
-    "location": [
-      -5.146043,
-      119.4164813
-    ],
-    "country": "EN"
-  },
-  {
     "name": "TRANS STUDIO MALL MAKASSAR",
     "address": "Jl Metro, Tanjung Bunga No.28, Daerah Maccini Sombala, Tamalate",
     "location": [
       -5.1594883,
       119.3963915
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "TIMEZONE MAL RATU INDAH",
+    "address": "Mamajang Luar,Mamajang,Kota Makassar,Sulawesi Selatan 90114",
+    "location": [
+      -5.146043,
+      119.4164813
     ],
     "country": "EN"
   },
@@ -11988,6 +11979,15 @@
     "country": "EN"
   },
   {
+    "name": "TIMEZONE MEDAN FAIR LT.4 NEW",
+    "address": "Jl. Jend. Gatot Subroto, Medan, Sumatera Utara",
+    "location": [
+      3.581662,
+      98.62671
+    ],
+    "country": "EN"
+  },
+  {
     "name": "TIMEZONE SUN PLAZA LT.4",
     "address": "Jl. KH. Zainul Arifin No. 7, Medan, Sumatera Utara 20152",
     "location": [
@@ -12002,15 +12002,6 @@
     "location": [
       3.5916749,
       98.6810665
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "TIMEZONE MEDAN FAIR LT.4 NEW",
-    "address": "Jl. Jend. Gatot Subroto, Medan, Sumatera Utara",
-    "location": [
-      3.581662,
-      98.62671
     ],
     "country": "EN"
   },
@@ -13037,15 +13028,6 @@
     "location": [
       14.5511369,
       121.0264665
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "QUANTUM SM FAIRVIEW",
-    "address": "UGF/GF/FF, ANNEX 2, SM City Fairview",
-    "location": [
-      14.7342227,
-      121.0548111
     ],
     "country": "EN"
   },

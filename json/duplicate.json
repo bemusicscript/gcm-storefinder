@@ -414,15 +414,6 @@
     "country": "JP"
   },
   {
-    "name": "ゲームランドつがる柏店",
-    "address": "青森県つがる市柏稲盛幾世41イオンモールつがる柏2F",
-    "location": [
-      40.8026320651684,
-      140.41665451349184
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ＰＡＬＯ五所川原",
     "address": "青森県五所川原市大字唐笠柳字藤巻６４１番１　アクロスプラザ",
     "location": [
@@ -2457,15 +2448,6 @@
     "country": "JP"
   },
   {
-    "name": "東京レジャーランド池袋店",
-    "address": "東京都豊島区東池袋１−２９−１サントロペ池袋２階３階",
-    "location": [
-      35.73048868515159,
-      139.71644453012445
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ラウンドワン池袋店",
     "address": "東京都豊島区東池袋１−１４−１",
     "location": [
@@ -2484,29 +2466,20 @@
     "country": "JP"
   },
   {
+    "name": "東京レジャーランド池袋店",
+    "address": "東京都豊島区東池袋１−２９−１サントロペ池袋２階３階",
+    "location": [
+      35.73048868515159,
+      139.71644453012445
+    ],
+    "country": "JP"
+  },
+  {
     "name": "タイトーステーション 池袋西口店",
     "address": "東京都豊島区西池袋１−１５−９第一西池ビル",
     "location": [
       35.7305503,
       139.7097415
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "東京レジャーランド秋葉原店",
-    "address": "東京都千代田区外神田1-9-5",
-    "location": [
-      35.69874690738787,
-      139.77014704540363
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "東京レジャーランド秋葉原2号店",
-    "address": "東京都千代田区外神田4-3-3ミナミビル6F・7F",
-    "location": [
-      35.7008302,
-      139.7718494
     ],
     "country": "JP"
   },
@@ -2547,6 +2520,24 @@
     "country": "JP"
   },
   {
+    "name": "東京レジャーランド秋葉原店",
+    "address": "東京都千代田区外神田1-9-5",
+    "location": [
+      35.69874690738787,
+      139.77014704540363
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "東京レジャーランド秋葉原2号店",
+    "address": "東京都千代田区外神田4-3-3ミナミビル6F・7F",
+    "location": [
+      35.7008302,
+      139.7718494
+    ],
+    "country": "JP"
+  },
+  {
     "name": "ＧｉＧＯ渋谷宮益坂",
     "address": "東京都渋谷区渋谷１−１４−１４ＥＳＴ１階・７階",
     "location": [
@@ -2574,20 +2565,20 @@
     "country": "JP"
   },
   {
-    "name": "タイトー新宿南口ゲームワールド店",
-    "address": "東京都新宿区新宿３−３５−８",
-    "location": [
-      35.68986596324073,
-      139.70225423802867
-    ],
-    "country": "JP"
-  },
-  {
     "name": "新宿スポーツランド本館",
     "address": "東京都新宿区新宿3-22-12",
     "location": [
       35.693125966474724,
       139.70182948343245
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "タイトー新宿南口ゲームワールド店",
+    "address": "東京都新宿区新宿３−３５−８",
+    "location": [
+      35.68986596324073,
+      139.70225423802867
     ],
     "country": "JP"
   },
@@ -2718,20 +2709,20 @@
     "country": "JP"
   },
   {
-    "name": "ＧｉＧＯ調布",
-    "address": "東京都調布市布田４丁目２ー４",
-    "location": [
-      35.6509849,
-      139.5442311
-    ],
-    "country": "JP"
-  },
-  {
     "name": "アミューズランドモナコ調布駅前店",
     "address": "東京都調布市布田４−２−２２",
     "location": [
       35.6512163258339,
       139.54435173558204
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ＧｉＧＯ調布",
+    "address": "東京都調布市布田４丁目２ー４",
+    "location": [
+      35.6509849,
+      139.5442311
     ],
     "country": "JP"
   },
@@ -3015,20 +3006,20 @@
     "country": "JP"
   },
   {
-    "name": "ラウンドワン吉祥寺店",
-    "address": "東京都武蔵野市吉祥寺本町1-11-22",
-    "location": [
-      35.706301998702415,
-      139.58077991055484
-    ],
-    "country": "JP"
-  },
-  {
     "name": "東京レジャーランド吉祥寺店",
     "address": "東京都武蔵野市吉祥寺本町1-3-7　YSビル地下１階〜4階",
     "location": [
       35.703598,
       139.5787046
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ラウンドワン吉祥寺店",
+    "address": "東京都武蔵野市吉祥寺本町1-11-22",
+    "location": [
+      35.706301998702415,
+      139.58077991055484
     ],
     "country": "JP"
   },
@@ -7605,8 +7596,8 @@
     "country": "EN"
   },
   {
-    "name": "TOM'S WORLD(MITSUKOSHI@ZUOYING 2F)",
-    "address": "2F.No.123,GaotieRd.,Zuoying Dist.,KaohsiungCity81361",
+    "name": "TOM'S WORLD (HANSHIN@KAOHSIUNG)",
+    "address": "6F.No.777, Bo'ai 2ndRd.ZuoyingDist.KaohsiungCity813603,Taiwan",
     "location": [
       22.6877358,
       120.2916524
@@ -7614,8 +7605,8 @@
     "country": "EN"
   },
   {
-    "name": "TOM'S WORLD (HANSHIN@KAOHSIUNG)",
-    "address": "6F.No.777, Bo'ai 2ndRd.ZuoyingDist.KaohsiungCity813603,Taiwan",
+    "name": "TOM'S WORLD(MITSUKOSHI@ZUOYING 2F)",
+    "address": "2F.No.123,GaotieRd.,Zuoying Dist.,KaohsiungCity81361",
     "location": [
       22.6877358,
       120.2916524
@@ -7677,6 +7668,15 @@
     "country": "EN"
   },
   {
+    "name": "TOM'S WORLD(FENGSHAN@KAOHSIUNG)",
+    "address": "B1F.,NO.149,ZHONGSHAN RD.,FENGSHANG DIST., KAOHSIUNG,",
+    "location": [
+      22.622730810416055,
+      120.35804546073052
+    ],
+    "country": "EN"
+  },
+  {
     "name": "TOM'S WORLD(FE21 MEGA@KAOHSIUNG)",
     "address": "12/F,21 SANDUO 4TH RD.,LINGYA DIST.,KAOHSIUNG CITY,TAIWAN",
     "location": [
@@ -7695,20 +7695,20 @@
     "country": "EN"
   },
   {
-    "name": "TOM'S WORLD(MINSHENG@LOTONG)",
-    "address": "2F.,NO.6,MINSHENG RD.,LUODONG TOWNSHIP, YILAN COUNTY,",
-    "location": [
-      24.676720059988032,
-      121.77103105504762
-    ],
-    "country": "EN"
-  },
-  {
     "name": "TOM'S WORLD(LUNA PLAZA@YILAN)",
     "address": "4F.,NO.6, LANE38, SEC.2,MINQUANRD.,YILAN CITY,YILANCNTY",
     "location": [
       24.75446268183731,
       121.75071100000002
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "TOM'S WORLD(MINSHENG@LOTONG)",
+    "address": "2F.,NO.6,MINSHENG RD.,LUODONG TOWNSHIP, YILAN COUNTY,",
+    "location": [
+      24.676720059988032,
+      121.77103105504762
     ],
     "country": "EN"
   },
@@ -8069,6 +8069,15 @@
     "location": [
       3.072657,
       101.607496
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "NEXTGEN",
+    "address": "1 Utama Shopping Centre,CentralPark Avenue,Bandar Utama,47800",
+    "location": [
+      3.1489857,
+      101.6161328
     ],
     "country": "EN"
   },
