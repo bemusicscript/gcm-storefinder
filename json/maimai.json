@@ -1,10 +1,10 @@
 [
   {
-    "name": "ＧｉＧＯすすきの",
-    "address": "北海道札幌市中央区南３条西４丁目１ー１",
+    "name": "ラウンドワン札幌すすきの店",
+    "address": "北海道札幌市中央区南五条西3-6-1",
     "location": [
-      43.0564347,
-      141.3528307
+      43.0545356,
+      141.354524
     ],
     "country": "JP"
   },
@@ -18,6 +18,15 @@
     "country": "JP"
   },
   {
+    "name": "ＧｉＧＯすすきの",
+    "address": "北海道札幌市中央区南３条西４丁目１ー１",
+    "location": [
+      43.0564347,
+      141.3528307
+    ],
+    "country": "JP"
+  },
+  {
     "name": "東急百貨店さっぽろアミューズパーク",
     "address": "北海道札幌市中央区北４条西２ー１東急百貨店さっぽろ店９階",
     "location": [
@@ -27,11 +36,11 @@
     "country": "JP"
   },
   {
-    "name": "ラウンドワン札幌すすきの店",
-    "address": "北海道札幌市中央区南五条西3-6-1",
+    "name": "キャッツアイ新川店",
+    "address": "北海道札幌市北区新川二条７丁目１ー７",
     "location": [
-      43.0545356,
-      141.354524
+      43.1007366157603,
+      141.31029544418
     ],
     "country": "JP"
   },
@@ -41,15 +50,6 @@
     "location": [
       43.1406639428811,
       141.357210916568
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "キャッツアイ新川店",
-    "address": "北海道札幌市北区新川二条７丁目１ー７",
-    "location": [
-      43.1007366157603,
-      141.31029544418
     ],
     "country": "JP"
   },
@@ -126,6 +126,15 @@
     "country": "JP"
   },
   {
+    "name": "アドアーズ札幌北４２条",
+    "address": "北海道札幌市東区北４２条東７−１−１　嶋ビル２階",
+    "location": [
+      43.1119642935805,
+      141.355160212303
+    ],
+    "country": "JP"
+  },
+  {
     "name": "キャッツアイ東苗穂店",
     "address": "北海道札幌市東区東苗穂６条２丁目１−２５",
     "location": [
@@ -144,15 +153,6 @@
     "country": "JP"
   },
   {
-    "name": "アドアーズ札幌北４２条",
-    "address": "北海道札幌市東区北４２条東７−１−１　嶋ビル２階",
-    "location": [
-      43.1119642935805,
-      141.355160212303
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ラウンドワン札幌北２１条店",
     "address": "北海道札幌市東区北二十一条東１−１−２１",
     "location": [
@@ -162,20 +162,20 @@
     "country": "JP"
   },
   {
-    "name": "ＧｉＧＯイオン札幌手稲駅前ＳＣ",
-    "address": "北海道札幌市手稲区前田１条１１丁目３階",
-    "location": [
-      43.1205333116873,
-      141.245420483467
-    ],
-    "country": "JP"
-  },
-  {
     "name": "キャッツアイ宮の沢店",
     "address": "北海道札幌市手稲区西宮の沢５条２丁目１１−１５",
     "location": [
       43.0963919,
       141.2576566
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ＧｉＧＯイオン札幌手稲駅前ＳＣ",
+    "address": "北海道札幌市手稲区前田１条１１丁目３階",
+    "location": [
+      43.1205333116873,
+      141.245420483467
     ],
     "country": "JP"
   },
@@ -270,11 +270,11 @@
     "country": "JP"
   },
   {
-    "name": "ＢＩＧＢＡＮＧ北見店",
-    "address": "北海道北見市中央三輪7丁目４４６−１",
+    "name": "ファンタジープラザ苫小牧",
+    "address": "北海道苫小牧市木場町1-6-1MEGAドンキホーテ苫小牧2F",
     "location": [
-      43.7970711401074,
-      143.851401946627
+      42.6410419454199,
+      141.595285354492
     ],
     "country": "JP"
   },
@@ -284,15 +284,6 @@
     "location": [
       42.6417399,
       141.5976863
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "ファンタジープラザ苫小牧",
-    "address": "北海道苫小牧市木場町1-6-1MEGAドンキホーテ苫小牧2F",
-    "location": [
-      42.6410419454199,
-      141.595285354492
     ],
     "country": "JP"
   },
@@ -333,20 +324,20 @@
     "country": "JP"
   },
   {
-    "name": "ＭＥＧＡＧＥＴ釧路",
-    "address": "北海道釧路郡釧路町木場２丁目１ー１",
-    "location": [
-      43.0089189731705,
-      144.408003524606
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ＰＡＬＯ釧路",
     "address": "北海道釧路郡釧路町桂木１−１−７　イオン釧路店２F",
     "location": [
       43.0090999,
       144.4047521
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ＭＥＧＡＧＥＴ釧路",
+    "address": "北海道釧路郡釧路町木場２丁目１ー１",
+    "location": [
+      43.0089189731705,
+      144.408003524606
     ],
     "country": "JP"
   },
@@ -585,11 +576,11 @@
     "country": "JP"
   },
   {
-    "name": "ＰＡＬＯ五所川原",
-    "address": "青森県五所川原市大字唐笠柳字藤巻６４１番１　アクロスプラザ",
+    "name": "モーリーファンタジーつがる柏",
+    "address": "青森県つがる市柏稲盛幾世４１−１イオンつがる柏店１F",
     "location": [
-      40.8009418728416,
-      140.461400173016
+      40.8030949807203,
+      140.416364834918
     ],
     "country": "JP"
   },
@@ -1418,15 +1409,6 @@
     "location": [
       36.3694663,
       140.4745213
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "ピンクパンサー水戸赤塚店",
-    "address": "茨城県水戸市河和田1-1",
-    "location": [
-      36.3804416847452,
-      140.41375299577
     ],
     "country": "JP"
   },
@@ -3933,15 +3915,6 @@
     "country": "JP"
   },
   {
-    "name": "タイトーＦステーション吉祥寺ＪＯＹ店",
-    "address": "東京都武蔵野市吉祥寺本町１丁目８‐２３　河田ビル",
-    "location": [
-      35.7041889,
-      139.5795301
-    ],
-    "country": "JP"
-  },
-  {
     "name": "東京レジャーランド吉祥寺店",
     "address": "東京都武蔵野市吉祥寺本町1-3-7　YSビル地下１階&#12316;4階",
     "location": [
@@ -4329,20 +4302,20 @@
     "country": "JP"
   },
   {
-    "name": "ＧｉＧＯ相模大野",
-    "address": "神奈川県相模原市南区相模大野３−１３−２東和ビル２Ｆ・３Ｆ",
-    "location": [
-      35.5321942,
-      139.4358387
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ＧｉＧＯイトーヨーカドー古淵",
     "address": "神奈川県相模原市南区古淵３−１３−３３イトーヨーカドー３Ｆ",
     "location": [
       35.5530135,
       139.4186535
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ＧｉＧＯ相模大野",
+    "address": "神奈川県相模原市南区相模大野３−１３−２東和ビル２Ｆ・３Ｆ",
+    "location": [
+      35.5321942,
+      139.4358387
     ],
     "country": "JP"
   },
@@ -4383,6 +4356,15 @@
     "country": "JP"
   },
   {
+    "name": "アドアーズ横須賀",
+    "address": "神奈川県横須賀市本町３−２７横須賀ＡＰＴ１階",
+    "location": [
+      35.2806952941997,
+      139.662279349004
+    ],
+    "country": "JP"
+  },
+  {
     "name": "ｎａｍｃｏコースカベイサイドストアーズ",
     "address": "神奈川県横須賀市本町２−１−１２　コースカベイサイド５Ｆ",
     "location": [
@@ -4392,11 +4374,11 @@
     "country": "JP"
   },
   {
-    "name": "アドアーズ横須賀",
-    "address": "神奈川県横須賀市本町３−２７横須賀ＡＰＴ１階",
+    "name": "ラウンドワンさいか屋横須賀店",
+    "address": "神奈川県横須賀市大滝町１丁目１３番",
     "location": [
-      35.2806952941997,
-      139.662279349004
+      0.0,
+      0.0
     ],
     "country": "JP"
   },
@@ -4595,15 +4577,6 @@
     "location": [
       37.7605971339601,
       139.022213941833
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "モーリーファンタジーｆ新潟亀田インター",
-    "address": "新潟県新潟市江南区下早通柳田１−１−１　イオンモール２階",
-    "location": [
-      37.8760671,
-      139.0812391
     ],
     "country": "JP"
   },
@@ -5562,6 +5535,15 @@
     "country": "JP"
   },
   {
+    "name": "ラウンドワン鳴海店",
+    "address": "愛知県名古屋市緑区鳴海町杜若２８",
+    "location": [
+      35.0989113,
+      136.9527377
+    ],
+    "country": "JP"
+  },
+  {
     "name": "プラサカプコン徳重店",
     "address": "愛知県名古屋市緑区元徳重１丁目５０５ビルズウォーク徳重２階",
     "location": [
@@ -5580,24 +5562,6 @@
     "country": "JP"
   },
   {
-    "name": "ラウンドワン鳴海店",
-    "address": "愛知県名古屋市緑区鳴海町杜若２８",
-    "location": [
-      35.0989113,
-      136.9527377
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "SOYU BREMEN TOWN 鳴海店",
-    "address": "愛知県名古屋市緑区鳴海町字伝治山3-9　アピタ鳴海店2F",
-    "location": [
-      35.0941212637578,
-      136.95934499259
-    ],
-    "country": "JP"
-  },
-  {
     "name": "名古屋レジャーランド内田橋店",
     "address": "愛知県名古屋市南区内田橋2-26-22",
     "location": [
@@ -5607,38 +5571,11 @@
     "country": "JP"
   },
   {
-    "name": "モーリーファンタジーf 新瑞橋",
-    "address": "愛知県名古屋市南区菊住１丁目７−１０　イオンモール新瑞橋店３Ｆ",
-    "location": [
-      35.1147088,
-      136.93525
-    ],
-    "country": "JP"
-  },
-  {
     "name": "タイトーステーションフェドラ大須店",
     "address": "愛知県名古屋市中区大須３−３０−３１",
     "location": [
       35.1594771,
       136.9054347
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "ゲームパニック大須",
-    "address": "愛知県名古屋市中区大須3-30-93　メガタウンB1F",
-    "location": [
-      35.1600309,
-      136.9053767
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "アピナ名古屋栄店",
-    "address": "愛知県名古屋市中区錦３‐１７‐１５ドン・キホーテ栄本店Ｂ１",
-    "location": [
-      35.1702098,
-      136.9063906
     ],
     "country": "JP"
   },
@@ -5657,6 +5594,24 @@
     "location": [
       35.1439706,
       136.8999023
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ゲームパニック大須",
+    "address": "愛知県名古屋市中区大須3-30-93　メガタウンB1F",
+    "location": [
+      35.1600309,
+      136.9053767
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "アピナ名古屋栄店",
+    "address": "愛知県名古屋市中区錦３‐１７‐１５ドン・キホーテ栄本店Ｂ１",
+    "location": [
+      35.1702098,
+      136.9063906
     ],
     "country": "JP"
   },
@@ -5733,20 +5688,20 @@
     "country": "JP"
   },
   {
-    "name": "ＧｉＧＯイオンタウン名西",
-    "address": "愛知県名古屋市西区香呑町６−４９−１イオンタウン名西２Ｆ",
-    "location": [
-      35.2041270320315,
-      136.892598499445
-    ],
-    "country": "JP"
-  },
-  {
     "name": "バンダイナムコＣｒｏｓｓＳｔｏｒｅ名古屋",
     "address": "愛知県名古屋市西区二方町４０番本棟４階",
     "location": [
       35.2254187,
       136.8843421
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ＧｉＧＯイオンタウン名西",
+    "address": "愛知県名古屋市西区香呑町６−４９−１イオンタウン名西２Ｆ",
+    "location": [
+      35.2041270320315,
+      136.892598499445
     ],
     "country": "JP"
   },
@@ -6948,24 +6903,6 @@
     "country": "JP"
   },
   {
-    "name": "ソユーゲームフィールド泉南店",
-    "address": "大阪府泉南市りんくう南浜３番１２イオンモールりんくう泉南２Ｆ",
-    "location": [
-      34.3817902749917,
-      135.268921992096
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "ストライクス",
-    "address": "大阪府泉南市馬場778",
-    "location": [
-      34.3621331722435,
-      135.273786866795
-    ],
-    "country": "JP"
-  },
-  {
     "name": "タイトーFステーションりんくうシークル店",
     "address": "大阪府泉佐野市りんくう往来南３",
     "location": [
@@ -7673,15 +7610,6 @@
     "location": [
       34.3852255,
       132.4760186
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "アミパラ広島店",
-    "address": "広島県広島市西区西観音町3-17",
-    "location": [
-      34.3934345272249,
-      132.436402034359
     ],
     "country": "JP"
   },
@@ -8748,15 +8676,6 @@
     "country": "JP"
   },
   {
-    "name": "遊道楽時津店",
-    "address": "長崎県西彼杵郡時津町元村郷８６３−１０",
-    "location": [
-      32.8201499,
-      129.8473443
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ソニックワールド大村店",
     "address": "長崎県大村市古賀島町３８３−１",
     "location": [
@@ -9693,20 +9612,11 @@
     "country": "EN"
   },
   {
-    "name": "HALA PLANET(TAICHUNG YIZHONG)",
-    "address": "No.10, Taiping Rd., North Dist., Taichung City 404008, Taiwan",
+    "name": "TOM'S WORLD(CHIN CHIN@TAICHUNG)",
+    "address": "B1F.-2,NO.14, BEITUN RD.,NORTH DISTRICT,TAICHUNG CITY",
     "location": [
-      24.1476019,
-      120.6859621
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "SHIRONEKOYA(TAICHUNG)",
-    "address": "1F.,No.7,Ln. 6,Yucai St.,North Dist.,Taichung City,Taiwan",
-    "location": [
-      24.1502189,
-      120.6849391
+      24.1601922906738,
+      120.691991665929
     ],
     "country": "EN"
   },
@@ -9720,11 +9630,20 @@
     "country": "EN"
   },
   {
-    "name": "TOM'S WORLD(CHIN CHIN@TAICHUNG)",
-    "address": "B1F.-2,NO.14, BEITUN RD.,NORTH DISTRICT,TAICHUNG CITY",
+    "name": "SHIRONEKOYA(TAICHUNG)",
+    "address": "1F.,No.7,Ln. 6,Yucai St.,North Dist.,Taichung City,Taiwan",
     "location": [
-      24.1601922906738,
-      120.691991665929
+      24.1502189,
+      120.6849391
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "HALA PLANET(TAICHUNG YIZHONG)",
+    "address": "No.10, Taiping Rd., North Dist., Taichung City 404008, Taiwan",
+    "location": [
+      24.1476019,
+      120.6859621
     ],
     "country": "EN"
   },
@@ -9792,20 +9711,20 @@
     "country": "EN"
   },
   {
-    "name": "RED HAT ELEPHANT(SOGO@FENGYUAN)",
-    "address": "10F., NO.2, FUXING RD., FENGYUAN DIST.,TAICHUNG CITY 420, TAIWAN",
-    "location": [
-      24.250721,
-      120.720649
-    ],
-    "country": "EN"
-  },
-  {
     "name": "SIN YI CITY (ZHANQIAN)",
     "address": "NO.12,SANMIN RD.,FENGYUAN DIST.TAICHUNG CITY 420,TAIWAN",
     "location": [
       24.2513923,
       120.7210256
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "RED HAT ELEPHANT(SOGO@FENGYUAN)",
+    "address": "10F., NO.2, FUXING RD., FENGYUAN DIST.,TAICHUNG CITY 420, TAIWAN",
+    "location": [
+      24.250721,
+      120.720649
     ],
     "country": "EN"
   },
@@ -9864,6 +9783,15 @@
     "country": "EN"
   },
   {
+    "name": "TOM'S WORLD (T.S. MALL@TAINAN)",
+    "address": "B1,No.366,Sec.1,ZhonghuaE.Rd.EastDist.,TainanCity70155,Taiwan",
+    "location": [
+      22.998693,
+      120.234058
+    ],
+    "country": "EN"
+  },
+  {
     "name": "GUOBIN AMUSEMENT PARK",
     "address": "2F., No.66,Sec.1,Zhonghua E.Rd.East Dist.,TainanCity Taiwan",
     "location": [
@@ -9873,11 +9801,11 @@
     "country": "EN"
   },
   {
-    "name": "TOM'S WORLD (T.S. MALL@TAINAN)",
-    "address": "B1,No.366,Sec.1,ZhonghuaE.Rd.EastDist.,TainanCity70155,Taiwan",
+    "name": "TOM'S WORLD(JHENGUANG@TAINAN)",
+    "address": "1F., NO.236, SEC.2,JHONGHUAE.RD., TAINAN CITY",
     "location": [
-      22.998693,
-      120.234058
+      22.9819470535495,
+      120.229921589
     ],
     "country": "EN"
   },
@@ -9900,15 +9828,6 @@
     "country": "EN"
   },
   {
-    "name": "TOM'S WORLD (MITSUKOSHI@TAINAN )",
-    "address": "11F.No.162,ZhongshanRd.WestCentralDist.,TainanCity70043,Taiwan",
-    "location": [
-      22.9955009,
-      120.2098201
-    ],
-    "country": "EN"
-  },
-  {
     "name": "TOM'S WORLD (MITSUKOSHI@TAINAN)",
     "address": "6F.No.658,Sec.1,XimenRd.,West Central Dist.,TainanCity70051",
     "location": [
@@ -9918,11 +9837,11 @@
     "country": "EN"
   },
   {
-    "name": "TOM'S WORLD(JHENGUANG@TAINAN)",
-    "address": "1F., NO.236, SEC.2,JHONGHUAE.RD., TAINAN CITY",
+    "name": "TOM'S WORLD (MITSUKOSHI@TAINAN )",
+    "address": "11F.No.162,ZhongshanRd.WestCentralDist.,TainanCity70043,Taiwan",
     "location": [
-      22.9819470535495,
-      120.229921589
+      22.9955009,
+      120.2098201
     ],
     "country": "EN"
   },
@@ -9972,8 +9891,17 @@
     "country": "EN"
   },
   {
-    "name": "TOM'S WORLD (HANSHIN@KAOHSIUNG)",
-    "address": "6F.No.777, Bo'ai 2ndRd.ZuoyingDist.KaohsiungCity813603,Taiwan",
+    "name": "HAPPY100(E-DAMALL @KAOHSIUNG )",
+    "address": "3 F No.12, Sec.1, Xuecheng Rd, Dashu Dist, Kaohsiung City 840403",
+    "location": [
+      0.0,
+      0.0
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "TOM'S WORLD(MITSUKOSHI@ZUOYING 2F)",
+    "address": "2F.No.123,GaotieRd.,Zuoying Dist.,KaohsiungCity81361",
     "location": [
       22.6877358,
       120.2916524
@@ -9990,8 +9918,8 @@
     "country": "EN"
   },
   {
-    "name": "TOM'S WORLD(MITSUKOSHI@ZUOYING 2F)",
-    "address": "2F.No.123,GaotieRd.,Zuoying Dist.,KaohsiungCity81361",
+    "name": "TOM'S WORLD (HANSHIN@KAOHSIUNG)",
+    "address": "6F.No.777, Bo'ai 2ndRd.ZuoyingDist.KaohsiungCity813603,Taiwan",
     "location": [
       22.6877358,
       120.2916524
@@ -10017,11 +9945,11 @@
     "country": "EN"
   },
   {
-    "name": "TOM'S WORLD(SKM PARK@KAOHSIUNG 3F)",
-    "address": "NO.100,ZHONGSHAN4TH RD.,QIANZHENDIST.,KAOHSIUNG CITY806,TAIWAN",
+    "name": "HAPPY100(DREAM MALL@KAOHSIUNG )",
+    "address": "9F., NO.789, ZHONGHUA 5TH RD.,QIANZHEN DIST., KAOHSIUNG CITY",
     "location": [
-      22.5872135,
-      120.3232481
+      22.5950062863198,
+      120.307781650332
     ],
     "country": "EN"
   },
@@ -10035,11 +9963,11 @@
     "country": "EN"
   },
   {
-    "name": "HAPPY100(DREAM MALL@KAOHSIUNG )",
-    "address": "9F., NO.789, ZHONGHUA 5TH RD.,QIANZHEN DIST., KAOHSIUNG CITY",
+    "name": "TOM'S WORLD(SKM PARK@KAOHSIUNG 3F)",
+    "address": "NO.100,ZHONGSHAN4TH RD.,QIANZHENDIST.,KAOHSIUNG CITY806,TAIWAN",
     "location": [
-      22.5950062863198,
-      120.307781650332
+      22.5872135,
+      120.3232481
     ],
     "country": "EN"
   },
@@ -10386,6 +10314,15 @@
     "country": "EN"
   },
   {
+    "name": "COW PLAY COW MOO THOMSON PLAZA",
+    "address": "301 Upper Thomson Road 03-52/ 53 Singapore 574408",
+    "location": [
+      1.3548,
+      103.8308
+    ],
+    "country": "EN"
+  },
+  {
     "name": "PACO FUNWORLD i12",
     "address": "112 E Coast Rd, #04-23/24/25/26i12 Katong, Singapore 428802",
     "location": [
@@ -10418,6 +10355,15 @@
     "location": [
       1.3031579,
       103.9066474
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "BUNNYSIDE BASEMENT",
+    "address": "637 Balestier Road Singapore 329921",
+    "location": [
+      1.2997043,
+      103.8500107
     ],
     "country": "EN"
   },
@@ -10719,6 +10665,15 @@
     "country": "EN"
   },
   {
+    "name": "MOCITY COSMIC PARK",
+    "address": "PT434, PEKAN KLEBANG SEK II, 75200 MELAKA",
+    "location": [
+      2.2103401,
+      102.2165301
+    ],
+    "country": "EN"
+  },
+  {
     "name": "FUN SCAPE SEREMBAN",
     "address": "Lot F01 & F02,AEON Seremban 2,70300 Seremban, Negeri Sembian.",
     "location": [
@@ -10742,6 +10697,15 @@
     "location": [
       2.8182299,
       101.7883967
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "VISION CITY VIDEO GAMES PARK",
+    "address": "VisonCityVideoGamesPark,ResortsWorldGenting,69000,Pahang Darul M",
+    "location": [
+      3.423871,
+      101.792679
     ],
     "country": "EN"
   },
@@ -11178,15 +11142,6 @@
     "country": "EN"
   },
   {
-    "name": "YEONGDEUNGPO ACTION",
-    "address": "15,YEONGJUNG-RO,YEONGDEUNGPO-GU,SEOUL",
-    "location": [
-      37.517007,
-      126.9041419
-    ],
-    "country": "EN"
-  },
-  {
     "name": "G2ZONE YEONGDEUNGPO",
     "address": "16, Yeongjung-ro 4-gil, Yeongdeungpo-gu, Seoul, Korea",
     "location": [
@@ -11196,11 +11151,11 @@
     "country": "EN"
   },
   {
-    "name": "ZZANG ORAKSIL HONGDAE",
-    "address": "69, Eoulmadang-ro, Mapo-gu, Seoul",
+    "name": "YEONGDEUNGPO ACTION",
+    "address": "15,YEONGJUNG-RO,YEONGDEUNGPO-GU,SEOUL",
     "location": [
-      37.5512385,
-      126.9210941
+      37.517007,
+      126.9041419
     ],
     "country": "EN"
   },
@@ -11210,6 +11165,15 @@
     "location": [
       37.5491266,
       126.921008
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "ZZANG ORAKSIL HONGDAE",
+    "address": "69, Eoulmadang-ro, Mapo-gu, Seoul",
+    "location": [
+      37.5512385,
+      126.9210941
     ],
     "country": "EN"
   },
@@ -11336,6 +11300,15 @@
     "location": [
       35.1461042,
       126.9231228
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "GLITCH",
+    "address": "37, Unsu-ro, Imsil-eup, Imsil-gun, Jeonbuk-do",
+    "location": [
+      0.0,
+      0.0
     ],
     "country": "EN"
   },
@@ -11772,6 +11745,15 @@
     "country": "EN"
   },
   {
+    "name": "SEMARANG 23 ARKANA",
+    "address": "Jl.Kawasan POJCity (Pearl of Jav",
+    "location": [
+      0.0,
+      0.0
+    ],
+    "country": "EN"
+  },
+  {
     "name": "TIMEZONE DUTA PERTIWI",
     "address": "Jalan Pemuda No. 150, Semarang 50132",
     "location": [
@@ -12051,6 +12033,15 @@
     "country": "EN"
   },
   {
+    "name": "THE REC ROOM BRENTWOOD",
+    "address": "1920 wellington ave unit 21-06 Burnaby BC v5c 0k3",
+    "location": [
+      0.0,
+      0.0
+    ],
+    "country": "EN"
+  },
+  {
     "name": "ROUND1 MORENO VALLEY MALL",
     "address": "22500 Town Circle Suite 2030, Moreno Valley, CA 92553",
     "location": [
@@ -12123,20 +12114,20 @@
     "country": "EN"
   },
   {
-    "name": "ROSEVILLE GOLFLAND",
-    "address": "1893 Taylor Road Roseville, CA 95661",
-    "location": [
-      38.761245,
-      -121.2576292
-    ],
-    "country": "EN"
-  },
-  {
     "name": "ROUND1 ROSEVILLE MALL",
     "address": "1191 Galleria BL Suit 150, Roseville, CA 95678",
     "location": [
       38.7747318,
       -121.2700189
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "ROSEVILLE GOLFLAND",
+    "address": "1893 Taylor Road Roseville, CA 95661",
+    "location": [
+      38.761245,
+      -121.2576292
     ],
     "country": "EN"
   },
@@ -12168,20 +12159,20 @@
     "country": "EN"
   },
   {
-    "name": "ROUND1 STONESTOWN GALLERIA",
-    "address": "3251 20th Ave, San Francisco, CA 94132",
-    "location": [
-      37.7277303,
-      -122.4769749
-    ],
-    "country": "EN"
-  },
-  {
     "name": "SF JAPAN CENTER",
     "address": "1581 Webster St #225 San Francisco, CA 94115",
     "location": [
       37.7849544,
       -122.4317274
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "ROUND1 STONESTOWN GALLERIA",
+    "address": "3251 20th Ave, San Francisco, CA 94132",
+    "location": [
+      37.7277303,
+      -122.4769749
     ],
     "country": "EN"
   },
@@ -12290,6 +12281,15 @@
     "location": [
       28.4596379,
       -81.4683551
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "FUN FACTORY FF80",
+    "address": "8001 s orange blossem trail orlando fl 32809",
+    "location": [
+      0.0,
+      0.0
     ],
     "country": "EN"
   },
@@ -12438,20 +12438,20 @@
     "country": "EN"
   },
   {
-    "name": "XSCAPE",
-    "address": "342 East Broadway Bloomington, MN 55425",
-    "location": [
-      44.8540767,
-      -93.2402681
-    ],
-    "country": "EN"
-  },
-  {
     "name": "DUCK!",
     "address": "342 Central Parkway, Mall of America, Bloomington, MN 55425",
     "location": [
       44.8380806,
       -93.1702764
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "XSCAPE",
+    "address": "342 East Broadway Bloomington, MN 55425",
+    "location": [
+      44.8540767,
+      -93.2402681
     ],
     "country": "EN"
   },
@@ -12771,15 +12771,6 @@
     "country": "EN"
   },
   {
-    "name": "H MART AUSTIN",
-    "address": "11301 Lakeline Blvd suite 124, Austin, TX 78717",
-    "location": [
-      30.4796511,
-      -97.7993046
-    ],
-    "country": "EN"
-  },
-  {
     "name": "CIDERCADE AUSTIN",
     "address": "600 e riverside Dr Austin tx 78704",
     "location": [
@@ -12803,6 +12794,15 @@
     "location": [
       30.4610411,
       -97.6677476
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "DAVE & BUSTER'S SUGARLAND",
+    "address": "19892 southwest freeway Sugarland Tx 77479",
+    "location": [
+      0.0,
+      0.0
     ],
     "country": "EN"
   },
@@ -13635,6 +13635,15 @@
     "country": "EN"
   },
   {
+    "name": "FUNLAND BANKSTOWN CENTRAL",
+    "address": "MM022 Bankstown Central SC,North Terrace, Bankstown, NSW, 2200",
+    "location": [
+      -33.9164071,
+      151.0383754
+    ],
+    "country": "EN"
+  },
+  {
     "name": "ENTERTAINMENT PARK",
     "address": "361 Milperra Rd Bankstown NSW 2200",
     "location": [
@@ -13694,6 +13703,15 @@
     "location": [
       -33.9448896,
       151.2243238
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "TIMEZONE ERINA",
+    "address": "SHOP H09, Terrigal Dr, Erina NSW 2250",
+    "location": [
+      0.0,
+      0.0
     ],
     "country": "EN"
   },
