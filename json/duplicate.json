@@ -1,5 +1,14 @@
 [
   {
+    "name": "ＧｉＧＯすすきの",
+    "address": "北海道札幌市中央区南３条西４丁目１ー１",
+    "location": [
+      43.0564347,
+      141.3528307
+    ],
+    "country": "JP"
+  },
+  {
     "name": "ラウンドワン札幌すすきの店",
     "address": "北海道札幌市中央区南五条西3-6-1",
     "location": [
@@ -18,24 +27,6 @@
     "country": "JP"
   },
   {
-    "name": "ＧｉＧＯすすきの",
-    "address": "北海道札幌市中央区南３条西４丁目１ー１",
-    "location": [
-      43.0564347,
-      141.3528307
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "キャッツアイ新川店",
-    "address": "北海道札幌市北区新川二条７丁目１ー７",
-    "location": [
-      43.1007366157603,
-      141.31029544418
-    ],
-    "country": "JP"
-  },
-  {
     "name": "キャッツアイ篠路店",
     "address": "北海道札幌市北区篠路１条４丁目６ー３０",
     "location": [
@@ -50,6 +41,15 @@
     "location": [
       43.067531,
       141.3462795
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "キャッツアイ新川店",
+    "address": "北海道札幌市北区新川二条７丁目１ー７",
+    "location": [
+      43.1007366157603,
+      141.31029544418
     ],
     "country": "JP"
   },
@@ -194,6 +194,15 @@
     "location": [
       43.7640055901228,
       142.357115102377
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "東武イーストモールアミューズメントランド",
+    "address": "北海道北見市端野町３区５７２番地１",
+    "location": [
+      43.8414260884555,
+      143.928696419452
     ],
     "country": "JP"
   },
@@ -6489,15 +6498,6 @@
     "country": "JP"
   },
   {
-    "name": "ふぇすたらんど久留米店",
-    "address": "福岡県久留米市野中町1411-1",
-    "location": [
-      33.3031851,
-      130.5301183
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ハイパーメッセ",
     "address": "福岡県北九州市小倉南区北方４−６−７",
     "location": [
@@ -6516,20 +6516,20 @@
     "country": "JP"
   },
   {
-    "name": "Ｇ−ＳＴＡＧＥ小倉",
-    "address": "福岡県北九州市小倉北区浅野2-14-5あるあるCITY2階",
-    "location": [
-      33.8875419,
-      130.8847304
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ラウンドワン小倉店",
     "address": "福岡県北九州市小倉北区西港町15-65",
     "location": [
       33.8975963,
       130.8598416
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "Ｇ−ＳＴＡＧＥ小倉",
+    "address": "福岡県北九州市小倉北区浅野2-14-5あるあるCITY2階",
+    "location": [
+      33.8875419,
+      130.8847304
     ],
     "country": "JP"
   },
@@ -7101,20 +7101,20 @@
     "country": "EN"
   },
   {
-    "name": "HALA PLANET (XIMEN)",
-    "address": "No.11, Ln.144, Sec.1,Zhonghua Rd.Wanhua Dist., Taipei City 108",
-    "location": [
-      25.0436445,
-      121.508661
-    ],
-    "country": "EN"
-  },
-  {
     "name": "X50 MGS TAIPEI",
     "address": "No.49, Emei St., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
     "location": [
       25.0329694,
       121.5654177
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "HALA PLANET (XIMEN)",
+    "address": "No.11, Ln.144, Sec.1,Zhonghua Rd.Wanhua Dist., Taipei City 108",
+    "location": [
+      25.0436445,
+      121.508661
     ],
     "country": "EN"
   },
@@ -7182,11 +7182,11 @@
     "country": "EN"
   },
   {
-    "name": "HALA(XINYANG)",
-    "address": "1F., No.2, Xinyang St., Zhongzheng Dist., Taipei City 10047",
+    "name": "LIBAO COMPANY",
+    "address": "NO.50-1,SEC.1,ZHONGXIAO W.RD.,ZHONGZHENG DIST., TAIPEI CITY100",
     "location": [
-      25.0445923,
-      121.5167157
+      25.0677905,
+      121.4820754
     ],
     "country": "EN"
   },
@@ -7209,11 +7209,11 @@
     "country": "EN"
   },
   {
-    "name": "LIBAO COMPANY",
-    "address": "NO.50-1,SEC.1,ZHONGXIAO W.RD.,ZHONGZHENG DIST., TAIPEI CITY100",
+    "name": "HALA(XINYANG)",
+    "address": "1F., No.2, Xinyang St., Zhongzheng Dist., Taipei City 10047",
     "location": [
-      25.0677905,
-      121.4820754
+      25.0445923,
+      121.5167157
     ],
     "country": "EN"
   },
@@ -7281,11 +7281,11 @@
     "country": "EN"
   },
   {
-    "name": "NEW CITY(ZHONGLI)",
-    "address": "11F,NO.120,SEC.1,ZHONGYANG W.RD,ZHONGLI CITY, TAOYUAN",
+    "name": "GiGO METRO WALK",
+    "address": "4F,NO.501 ,SEC.2,JHONGYUAN RD,JHONGLICITY,TAOYUAN COUNTY",
     "location": [
-      24.9584889,
-      121.2203631
+      25.0013610040415,
+      121.228575054891
     ],
     "country": "EN"
   },
@@ -7308,11 +7308,11 @@
     "country": "EN"
   },
   {
-    "name": "GiGO METRO WALK",
-    "address": "4F,NO.501 ,SEC.2,JHONGYUAN RD,JHONGLICITY,TAOYUAN COUNTY",
+    "name": "NEW CITY(ZHONGLI)",
+    "address": "11F,NO.120,SEC.1,ZHONGYANG W.RD,ZHONGLI CITY, TAOYUAN",
     "location": [
-      25.0013610040415,
-      121.228575054891
+      24.9584889,
+      121.2203631
     ],
     "country": "EN"
   },
@@ -7767,6 +7767,15 @@
     "country": "EN"
   },
   {
+    "name": "BUNNYSIDE BASEMENT",
+    "address": "637 Balestier Road Singapore 329921",
+    "location": [
+      1.2997043,
+      103.8500107
+    ],
+    "country": "EN"
+  },
+  {
     "name": "VIRTUALAND(NEX)",
     "address": "23, SERANGOON CENTRAL #04-65 NEX SINGAPORE",
     "location": [
@@ -8060,15 +8069,6 @@
     "location": [
       1.527776,
       110.3678552
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "THE SPRING BINTULU(SARAWAK)",
-    "address": "Lot F53,1st Floor,The Spring Bintulu,97000 Bintulu,Sarawak",
-    "location": [
-      3.1811596,
-      113.034922
     ],
     "country": "EN"
   },
@@ -8451,15 +8451,6 @@
     "country": "EN"
   },
   {
-    "name": "CPCM LIPPO MALL NUSANTARA",
-    "address": "Jl. Jend. Sudirman Kav. 50, Karet Semanggi, Setiabudi",
-    "location": [
-      -6.2201667,
-      106.8143752
-    ],
-    "country": "EN"
-  },
-  {
     "name": "PIK 1 KITA",
     "address": "Kawasan Pantai Kita, Jl. Ebony 2, Jkt Utara",
     "location": [
@@ -8478,15 +8469,6 @@
     "country": "EN"
   },
   {
-    "name": "CPCM INDONESIA DESIGN DISTRICT",
-    "address": "Jalan M.H. Thamrin., SalembaranJaya, Kosambi,15214",
-    "location": [
-      -6.0676077,
-      106.6967904
-    ],
-    "country": "EN"
-  },
-  {
     "name": "TIMEZONE PLUIT EMPORIUM",
     "address": "EMPORIUM PLUIT MAL(KAWASAN CBD)LEMPORIUM PLUIT MAL(KAWASAN CBD)LT.4,PLUIT S.RAYA,JAKARTA UTARA",
     "location": [
@@ -8501,15 +8483,6 @@
     "location": [
       -6.241002,
       106.628151
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "COW PLAY COW MOO CARSTENSZ MALL",
-    "address": "Jalan jend sudirman no1. Cihuni. Kec pagedangan",
-    "location": [
-      -6.2697615,
-      106.6304198
     ],
     "country": "EN"
   },

@@ -1,5 +1,14 @@
 [
   {
+    "name": "ＧｉＧＯすすきの",
+    "address": "北海道札幌市中央区南３条西４丁目１ー１",
+    "location": [
+      43.0564347,
+      141.3528307
+    ],
+    "country": "JP"
+  },
+  {
     "name": "ラウンドワン札幌すすきの店",
     "address": "北海道札幌市中央区南五条西3-6-1",
     "location": [
@@ -18,29 +27,11 @@
     "country": "JP"
   },
   {
-    "name": "ＧｉＧＯすすきの",
-    "address": "北海道札幌市中央区南３条西４丁目１ー１",
-    "location": [
-      43.0564347,
-      141.3528307
-    ],
-    "country": "JP"
-  },
-  {
     "name": "東急百貨店さっぽろアミューズパーク",
     "address": "北海道札幌市中央区北４条西２ー１東急百貨店さっぽろ店９階",
     "location": [
       43.0675520689148,
       141.352709165082
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "キャッツアイ新川店",
-    "address": "北海道札幌市北区新川二条７丁目１ー７",
-    "location": [
-      43.1007366157603,
-      141.31029544418
     ],
     "country": "JP"
   },
@@ -63,11 +54,11 @@
     "country": "JP"
   },
   {
-    "name": "ラウンドワン札幌白石本通店",
-    "address": "北海道札幌市白石区本通１６丁目北１−５０",
+    "name": "キャッツアイ新川店",
+    "address": "北海道札幌市北区新川二条７丁目１ー７",
     "location": [
-      43.0367922,
-      141.432878088361
+      43.1007366157603,
+      141.31029544418
     ],
     "country": "JP"
   },
@@ -77,6 +68,15 @@
     "location": [
       43.0253475533429,
       141.436631078539
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ラウンドワン札幌白石本通店",
+    "address": "北海道札幌市白石区本通１６丁目北１−５０",
+    "location": [
+      43.0367922,
+      141.432878088361
     ],
     "country": "JP"
   },
@@ -126,20 +126,20 @@
     "country": "JP"
   },
   {
-    "name": "アドアーズ札幌北４２条",
-    "address": "北海道札幌市東区北４２条東７−１−１　嶋ビル２階",
-    "location": [
-      43.1119642935805,
-      141.355160212303
-    ],
-    "country": "JP"
-  },
-  {
     "name": "キャッツアイ東苗穂店",
     "address": "北海道札幌市東区東苗穂６条２丁目１−２５",
     "location": [
       43.0923401609227,
       141.406997430689
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "アドアーズ札幌北４２条",
+    "address": "北海道札幌市東区北４２条東７−１−１　嶋ビル２階",
+    "location": [
+      43.1119642935805,
+      141.355160212303
     ],
     "country": "JP"
   },
@@ -261,6 +261,15 @@
     "country": "JP"
   },
   {
+    "name": "東武イーストモールアミューズメントランド",
+    "address": "北海道北見市端野町３区５７２番地１",
+    "location": [
+      43.8414260884555,
+      143.928696419452
+    ],
+    "country": "JP"
+  },
+  {
     "name": "ＧｉＧＯ北見",
     "address": "北海道北見市西三輪５丁目１番地１６号",
     "location": [
@@ -270,20 +279,20 @@
     "country": "JP"
   },
   {
-    "name": "ファンタジープラザ苫小牧",
-    "address": "北海道苫小牧市木場町1-6-1MEGAドンキホーテ苫小牧2F",
-    "location": [
-      42.6410419454199,
-      141.595285354492
-    ],
-    "country": "JP"
-  },
-  {
     "name": "キャッツアイ苫小牧駅前店",
     "address": "北海道苫小牧市木場町１丁目３番地２",
     "location": [
       42.6417399,
       141.5976863
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ファンタジープラザ苫小牧",
+    "address": "北海道苫小牧市木場町1-6-1MEGAドンキホーテ苫小牧2F",
+    "location": [
+      42.6410419454199,
+      141.595285354492
     ],
     "country": "JP"
   },
@@ -324,20 +333,20 @@
     "country": "JP"
   },
   {
-    "name": "ＰＡＬＯ釧路",
-    "address": "北海道釧路郡釧路町桂木１−１−７　イオン釧路店２F",
-    "location": [
-      43.0090999,
-      144.4047521
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ＭＥＧＡＧＥＴ釧路",
     "address": "北海道釧路郡釧路町木場２丁目１ー１",
     "location": [
       43.0089189731705,
       144.408003524606
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ＰＡＬＯ釧路",
+    "address": "北海道釧路郡釧路町桂木１−１−７　イオン釧路店２F",
+    "location": [
+      43.0090999,
+      144.4047521
     ],
     "country": "JP"
   },
@@ -8361,15 +8370,6 @@
     "country": "JP"
   },
   {
-    "name": "ふぇすたらんど久留米店",
-    "address": "福岡県久留米市野中町1411-1",
-    "location": [
-      33.3031851,
-      130.5301183
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ハイパーメッセ",
     "address": "福岡県北九州市小倉南区北方４−６−７",
     "location": [
@@ -8388,11 +8388,11 @@
     "country": "JP"
   },
   {
-    "name": "Ｇ−ＳＴＡＧＥ小倉",
-    "address": "福岡県北九州市小倉北区浅野2-14-5あるあるCITY2階",
+    "name": "ラウンドワン小倉店",
+    "address": "福岡県北九州市小倉北区西港町15-65",
     "location": [
-      33.8875419,
-      130.8847304
+      33.8975963,
+      130.8598416
     ],
     "country": "JP"
   },
@@ -8406,11 +8406,11 @@
     "country": "JP"
   },
   {
-    "name": "ラウンドワン小倉店",
-    "address": "福岡県北九州市小倉北区西港町15-65",
+    "name": "Ｇ−ＳＴＡＧＥ小倉",
+    "address": "福岡県北九州市小倉北区浅野2-14-5あるあるCITY2階",
     "location": [
-      33.8975963,
-      130.8598416
+      33.8875419,
+      130.8847304
     ],
     "country": "JP"
   },
@@ -9243,20 +9243,20 @@
     "country": "EN"
   },
   {
-    "name": "HALA PLANET (XIMEN)",
-    "address": "No.11, Ln.144, Sec.1,Zhonghua Rd.Wanhua Dist., Taipei City 108",
-    "location": [
-      25.0436445,
-      121.508661
-    ],
-    "country": "EN"
-  },
-  {
     "name": "X50 MGS TAIPEI",
     "address": "No.49, Emei St., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
     "location": [
       25.0329694,
       121.5654177
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "HALA PLANET (XIMEN)",
+    "address": "No.11, Ln.144, Sec.1,Zhonghua Rd.Wanhua Dist., Taipei City 108",
+    "location": [
+      25.0436445,
+      121.508661
     ],
     "country": "EN"
   },
@@ -9306,20 +9306,20 @@
     "country": "EN"
   },
   {
-    "name": "HALA PLANET(SHILIN)",
-    "address": "No. 43, Wenlin Rd., Shilin Dist., Taipei City 111012",
-    "location": [
-      25.0868787,
-      121.5255253
-    ],
-    "country": "EN"
-  },
-  {
     "name": "CATCH BUFFET(DA-NAN@SHLIN)",
     "address": "1F.No.48,Sec.1,YangdeBlvd.Shilin Dist.TaipeiCity11146,Taiwan",
     "location": [
       25.0950492,
       121.5246077
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "HALA PLANET(SHILIN)",
+    "address": "No. 43, Wenlin Rd., Shilin Dist., Taipei City 111012",
+    "location": [
+      25.0868787,
+      121.5255253
     ],
     "country": "EN"
   },
@@ -9333,11 +9333,11 @@
     "country": "EN"
   },
   {
-    "name": "HALA(XINYANG)",
-    "address": "1F., No.2, Xinyang St., Zhongzheng Dist., Taipei City 10047",
+    "name": "LIBAO COMPANY",
+    "address": "NO.50-1,SEC.1,ZHONGXIAO W.RD.,ZHONGZHENG DIST., TAIPEI CITY100",
     "location": [
-      25.0445923,
-      121.5167157
+      25.0677905,
+      121.4820754
     ],
     "country": "EN"
   },
@@ -9360,11 +9360,11 @@
     "country": "EN"
   },
   {
-    "name": "LIBAO COMPANY",
-    "address": "NO.50-1,SEC.1,ZHONGXIAO W.RD.,ZHONGZHENG DIST., TAIPEI CITY100",
+    "name": "HALA(XINYANG)",
+    "address": "1F., No.2, Xinyang St., Zhongzheng Dist., Taipei City 10047",
     "location": [
-      25.0677905,
-      121.4820754
+      25.0445923,
+      121.5167157
     ],
     "country": "EN"
   },
@@ -9383,15 +9383,6 @@
     "location": [
       25.049437,
       121.4639439
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "TOM'S WORLD(MORI SHOWTIME@SHULIN)",
-    "address": "3F.No.40-6,Shuxin Rd. Shulin Dist.,New Taipei City 238, Taiwan",
-    "location": [
-      24.9955128,
-      121.4284257
     ],
     "country": "EN"
   },
@@ -9432,20 +9423,20 @@
     "country": "EN"
   },
   {
-    "name": "TOM'S WORLD MITSUI OUTLET PARK-LINKOU",
-    "address": "3F,No.123,Sec.1,Wenhua 2nd Rd,Linkou Dist,New Taipei City 244008",
-    "location": [
-      25.2247173,
-      121.6365176
-    ],
-    "country": "EN"
-  },
-  {
     "name": "GiGO MITSUI OUTLET PARK Lin Kou",
     "address": "2F, No.356, Sec.1,Wenhua3rdRd,LinkouDist,NewTaipeiCity,Taiwan",
     "location": [
       25.0706472,
       121.364833
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "TOM'S WORLD MITSUI OUTLET PARK-LINKOU",
+    "address": "3F,No.123,Sec.1,Wenhua 2nd Rd,Linkou Dist,New Taipei City 244008",
+    "location": [
+      25.2247173,
+      121.6365176
     ],
     "country": "EN"
   },
@@ -9459,20 +9450,20 @@
     "country": "EN"
   },
   {
-    "name": "HALA PLANET(TAOYUAN)",
-    "address": "No. 168, Fuxing Rd., Taoyuan Dist., Taoyuan City 330046",
-    "location": [
-      24.9904077,
-      121.312293
-    ],
-    "country": "EN"
-  },
-  {
     "name": "TOM'S WORLD(FE21@TAOYUAN)",
     "address": "12F., NO.20,ZHONGZHENG RD.,TAOYUAN CITY, TAOYUAN COUNTY",
     "location": [
       24.9898544722003,
       121.313921236771
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "HALA PLANET(TAOYUAN)",
+    "address": "No. 168, Fuxing Rd., Taoyuan Dist., Taoyuan City 330046",
+    "location": [
+      24.9904077,
+      121.312293
     ],
     "country": "EN"
   },
@@ -9495,11 +9486,11 @@
     "country": "EN"
   },
   {
-    "name": "NEW CITY(ZHONGLI)",
-    "address": "11F,NO.120,SEC.1,ZHONGYANG W.RD,ZHONGLI CITY, TAOYUAN",
+    "name": "GiGO METRO WALK",
+    "address": "4F,NO.501 ,SEC.2,JHONGYUAN RD,JHONGLICITY,TAOYUAN COUNTY",
     "location": [
-      24.9584889,
-      121.2203631
+      25.0013610040415,
+      121.228575054891
     ],
     "country": "EN"
   },
@@ -9531,11 +9522,11 @@
     "country": "EN"
   },
   {
-    "name": "GiGO METRO WALK",
-    "address": "4F,NO.501 ,SEC.2,JHONGYUAN RD,JHONGLICITY,TAOYUAN COUNTY",
+    "name": "NEW CITY(ZHONGLI)",
+    "address": "11F,NO.120,SEC.1,ZHONGYANG W.RD,ZHONGLI CITY, TAOYUAN",
     "location": [
-      25.0013610040415,
-      121.228575054891
+      24.9584889,
+      121.2203631
     ],
     "country": "EN"
   },
@@ -10314,15 +10305,6 @@
     "country": "EN"
   },
   {
-    "name": "COW PLAY COW MOO THOMSON PLAZA",
-    "address": "301 Upper Thomson Road 03-52/ 53 Singapore 574408",
-    "location": [
-      1.3548,
-      103.8308
-    ],
-    "country": "EN"
-  },
-  {
     "name": "PACO FUNWORLD i12",
     "address": "112 E Coast Rd, #04-23/24/25/26i12 Katong, Singapore 428802",
     "location": [
@@ -10701,15 +10683,6 @@
     "country": "EN"
   },
   {
-    "name": "VISION CITY VIDEO GAMES PARK",
-    "address": "VisonCityVideoGamesPark,ResortsWorldGenting,69000,Pahang Darul M",
-    "location": [
-      3.423871,
-      101.792679
-    ],
-    "country": "EN"
-  },
-  {
     "name": "FUN SCAPE@TESCO BAGAN AJAM",
     "address": "G3,TESCO BAGAN AJAM ,LOT 2816,12300 BUTTERWORTH PULAU PINANG",
     "location": [
@@ -10935,15 +10908,6 @@
     "country": "EN"
   },
   {
-    "name": "THE SPRING BINTULU(SARAWAK)",
-    "address": "Lot F53,1st Floor,The Spring Bintulu,97000 Bintulu,Sarawak",
-    "location": [
-      3.1811596,
-      113.034922
-    ],
-    "country": "EN"
-  },
-  {
     "name": "MIRI CENTER POINT",
     "address": "Lv3, Boulevard Shopping Mall,Lot 2528, Blvd Commercial Centre",
     "location": [
@@ -11160,15 +11124,6 @@
     "country": "EN"
   },
   {
-    "name": "FUNNYLAND",
-    "address": "46-1, Eoulmadang-ro, Mapo-gu, Seoul",
-    "location": [
-      37.5491266,
-      126.921008
-    ],
-    "country": "EN"
-  },
-  {
     "name": "ZZANG ORAKSIL HONGDAE",
     "address": "69, Eoulmadang-ro, Mapo-gu, Seoul",
     "location": [
@@ -11178,20 +11133,20 @@
     "country": "EN"
   },
   {
+    "name": "FUNNYLAND",
+    "address": "46-1, Eoulmadang-ro, Mapo-gu, Seoul",
+    "location": [
+      37.5491266,
+      126.921008
+    ],
+    "country": "EN"
+  },
+  {
     "name": "YEONSINNAE JJANGGU GAME",
     "address": "8-8, Yeonseo-ro 29-gil, Eunpyeong-gu, Seoul",
     "location": [
       37.6189525,
       126.9196972
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "PAPER STUDIO",
-    "address": "85, Bongujae-ro 33-gil, Jungnang-gu, Seoul, Republic of Korea",
-    "location": [
-      37.5959378,
-      127.0895616
     ],
     "country": "EN"
   },
@@ -11592,15 +11547,6 @@
     "country": "EN"
   },
   {
-    "name": "CPCM LIPPO MALL NUSANTARA",
-    "address": "Jl. Jend. Sudirman Kav. 50, Karet Semanggi, Setiabudi",
-    "location": [
-      -6.2201667,
-      106.8143752
-    ],
-    "country": "EN"
-  },
-  {
     "name": "PRIZE SPOT PALO BLOK M",
     "address": "Jl Bulungan No76 Lt.5 Kramat Pela Kec Kebayoran Baru",
     "location": [
@@ -11637,15 +11583,6 @@
     "country": "EN"
   },
   {
-    "name": "CPCM INDONESIA DESIGN DISTRICT",
-    "address": "Jalan M.H. Thamrin., SalembaranJaya, Kosambi,15214",
-    "location": [
-      -6.0676077,
-      106.6967904
-    ],
-    "country": "EN"
-  },
-  {
     "name": "TIMEZONE PLUIT EMPORIUM",
     "address": "EMPORIUM PLUIT MAL(KAWASAN CBD)LEMPORIUM PLUIT MAL(KAWASAN CBD)LT.4,PLUIT S.RAYA,JAKARTA UTARA",
     "location": [
@@ -11660,15 +11597,6 @@
     "location": [
       -6.241002,
       106.628151
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "COW PLAY COW MOO CARSTENSZ MALL",
-    "address": "Jalan jend sudirman no1. Cihuni. Kec pagedangan",
-    "location": [
-      -6.2697615,
-      106.6304198
     ],
     "country": "EN"
   },
@@ -11745,20 +11673,20 @@
     "country": "EN"
   },
   {
-    "name": "SEMARANG 23 ARKANA",
-    "address": "Jl.Kawasan POJCity (Pearl of Jav",
-    "location": [
-      0.0,
-      0.0
-    ],
-    "country": "EN"
-  },
-  {
     "name": "TIMEZONE DUTA PERTIWI",
     "address": "Jalan Pemuda No. 150, Semarang 50132",
     "location": [
       -6.9832693,
       110.4121797
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "SEMARANG 23 ARKANA",
+    "address": "Jl.Kawasan POJCity (Pearl of Jav",
+    "location": [
+      0.0,
+      0.0
     ],
     "country": "EN"
   },
@@ -13631,15 +13559,6 @@
     "location": [
       -33.9669703,
       151.1032215
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "FUNLAND BANKSTOWN CENTRAL",
-    "address": "MM022 Bankstown Central SC,North Terrace, Bankstown, NSW, 2200",
-    "location": [
-      -33.9164071,
-      151.0383754
     ],
     "country": "EN"
   },
