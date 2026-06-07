@@ -1260,8 +1260,8 @@
     "country": "JP"
   },
   {
-    "name": "タイトーＦ郡山オリエントパーク店",
-    "address": "福島県郡山市安積町荒井字大久保３５−１",
+    "name": "タイトーＦステーション郡山オリエントパー",
+    "address": "福島県郡山市安積町荒井字大久保３５ー１",
     "location": [
       37.3744762,
       140.3487551
@@ -2989,7 +2989,7 @@
   },
   {
     "name": "タイトーＦステーション市川妙典店",
-    "address": "千葉県市川市妙典4-1-1　イオン市川妙典店2番街2F",
+    "address": "千葉県市川市妙典４ー１ー１　イオン市川妙典店２番街２Ｆ",
     "location": [
       35.6925377,
       139.9266786
@@ -3853,7 +3853,7 @@
   },
   {
     "name": "タイトーＦステーションオリナス錦糸町店",
-    "address": "東京都墨田区太平4-1-2オリナスモール地下1F",
+    "address": "東京都墨田区太平４ー１ー２　オリナスモール地下１Ｆ",
     "location": [
       35.7003101052259,
       139.81526531157
@@ -4627,7 +4627,7 @@
   },
   {
     "name": "タイトーＦステーション上越店",
-    "address": "新潟県上越市富岡3524 J-MAXシアター内1F",
+    "address": "新潟県上越市富岡３５２４　Ｊーｍａｘシアター内１Ｆ",
     "location": [
       37.1481919629344,
       138.259046798027
@@ -5481,15 +5481,6 @@
     "country": "JP"
   },
   {
-    "name": "スイーツ・ハートイオン春日井店",
-    "address": "愛知県春日井市柏井町4-17",
-    "location": [
-      35.2381257,
-      136.9624441
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ラウンドワンヨロッカ春日井店",
     "address": "愛知県春日井市六軒屋町東丘２２テナント区画番号３０１０",
     "location": [
@@ -5576,6 +5567,15 @@
     "location": [
       35.1137608,
       136.9098442
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "モーリーファンタジーf 新瑞橋",
+    "address": "愛知県名古屋市南区菊住１丁目７−１０　イオンモール新瑞橋店３Ｆ",
+    "location": [
+      35.1147088,
+      136.93525
     ],
     "country": "JP"
   },
@@ -6138,15 +6138,6 @@
     "country": "JP"
   },
   {
-    "name": "ｎａｍｃｏイオンモール鈴鹿店",
-    "address": "三重県鈴鹿市庄野羽山４ー１ー２イオンモール鈴鹿２Ｆ",
-    "location": [
-      34.8715112162974,
-      136.531686050926
-    ],
-    "country": "JP"
-  },
-  {
     "name": "アピナ鈴鹿店",
     "address": "三重県鈴鹿市庄野羽山4-20-1イオンタウン鈴鹿2階",
     "location": [
@@ -6156,20 +6147,20 @@
     "country": "JP"
   },
   {
+    "name": "ｎａｍｃｏイオンモール鈴鹿店",
+    "address": "三重県鈴鹿市庄野羽山４ー１ー２イオンモール鈴鹿２Ｆ",
+    "location": [
+      34.8715112162974,
+      136.531686050926
+    ],
+    "country": "JP"
+  },
+  {
     "name": "アミパラ鈴鹿店",
     "address": "三重県鈴鹿市西条町字東澤430-1",
     "location": [
       34.875263768121,
       136.571143598703
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "ＧｉＧＯアドバンスモール松阪",
-    "address": "三重県松阪市田村町２３５−１",
-    "location": [
-      34.5538973748022,
-      136.514660782031
     ],
     "country": "JP"
   },
@@ -7848,15 +7839,6 @@
     "country": "JP"
   },
   {
-    "name": "アミュージアム周南店",
-    "address": "山口県下松市中央町21-3THEMALL周南3F",
-    "location": [
-      34.0186116463295,
-      131.862876480986
-    ],
-    "country": "JP"
-  },
-  {
     "name": "アポロゲームセンター沖洲店",
     "address": "徳島県徳島市南沖洲１−９３",
     "location": [
@@ -8370,6 +8352,15 @@
     "country": "JP"
   },
   {
+    "name": "ふぇすたらんど久留米店",
+    "address": "福岡県久留米市野中町1411-1",
+    "location": [
+      33.3031851,
+      130.5301183
+    ],
+    "country": "JP"
+  },
+  {
     "name": "ハイパーメッセ",
     "address": "福岡県北九州市小倉南区北方４−６−７",
     "location": [
@@ -8388,11 +8379,11 @@
     "country": "JP"
   },
   {
-    "name": "ラウンドワン小倉店",
-    "address": "福岡県北九州市小倉北区西港町15-65",
+    "name": "Ｇ−ＳＴＡＧＥ小倉",
+    "address": "福岡県北九州市小倉北区浅野2-14-5あるあるCITY2階",
     "location": [
-      33.8975963,
-      130.8598416
+      33.8875419,
+      130.8847304
     ],
     "country": "JP"
   },
@@ -8406,11 +8397,11 @@
     "country": "JP"
   },
   {
-    "name": "Ｇ−ＳＴＡＧＥ小倉",
-    "address": "福岡県北九州市小倉北区浅野2-14-5あるあるCITY2階",
+    "name": "ラウンドワン小倉店",
+    "address": "福岡県北九州市小倉北区西港町15-65",
     "location": [
-      33.8875419,
-      130.8847304
+      33.8975963,
+      130.8598416
     ],
     "country": "JP"
   },
@@ -10998,20 +10989,20 @@
     "country": "EN"
   },
   {
-    "name": "MOLLYFANTASY LALAPORT",
-    "address": "2, Jln Hang Tuah, Bukit Bintang, 55100 Kuala Lumpur",
-    "location": [
-      3.1402822,
-      101.7067294
-    ],
-    "country": "EN"
-  },
-  {
     "name": "PALO TAMAN MALURI",
     "address": "Lot T-03, Jalan Jejaka, Maluri,55100 Cheras",
     "location": [
       3.1275076,
       101.7322692
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "MOLLYFANTASY LALAPORT",
+    "address": "2, Jln Hang Tuah, Bukit Bintang, 55100 Kuala Lumpur",
+    "location": [
+      3.1402822,
+      101.7067294
     ],
     "country": "EN"
   },
@@ -11030,6 +11021,15 @@
     "location": [
       3.1466072,
       101.7116219
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "INDAH FAMILY CENTRE",
+    "address": "L1-13A-13B, JALAN MANIS 6 TAMANBUKIT SEGAR 56100",
+    "location": [
+      3.0889627,
+      101.7424445
     ],
     "country": "EN"
   },
@@ -11547,6 +11547,15 @@
     "country": "EN"
   },
   {
+    "name": "CPCM LIPPO MALL NUSANTARA",
+    "address": "Jl. Jend. Sudirman Kav. 50, Karet Semanggi, Setiabudi",
+    "location": [
+      -6.2201667,
+      106.8143752
+    ],
+    "country": "EN"
+  },
+  {
     "name": "PRIZE SPOT PALO BLOK M",
     "address": "Jl Bulungan No76 Lt.5 Kramat Pela Kec Kebayoran Baru",
     "location": [
@@ -11583,6 +11592,15 @@
     "country": "EN"
   },
   {
+    "name": "CPCM INDONESIA DESIGN DISTRICT",
+    "address": "Jalan M.H. Thamrin., SalembaranJaya, Kosambi,15214",
+    "location": [
+      -6.0676077,
+      106.6967904
+    ],
+    "country": "EN"
+  },
+  {
     "name": "TIMEZONE PLUIT EMPORIUM",
     "address": "EMPORIUM PLUIT MAL(KAWASAN CBD)LEMPORIUM PLUIT MAL(KAWASAN CBD)LT.4,PLUIT S.RAYA,JAKARTA UTARA",
     "location": [
@@ -11597,6 +11615,15 @@
     "location": [
       -6.241002,
       106.628151
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "COW PLAY COW MOO CARSTENSZ MALL",
+    "address": "Jalan jend sudirman no1. Cihuni. Kec pagedangan",
+    "location": [
+      -6.2697615,
+      106.6304198
     ],
     "country": "EN"
   },
@@ -11655,6 +11682,15 @@
     "country": "EN"
   },
   {
+    "name": "FESTIVAL CITYLINK BANDUNG",
+    "address": "Jl.Peta, No.241, Suka Asih, Kec.Bojongloa Kaler, Kota Bandung",
+    "location": [
+      0.0,
+      0.0
+    ],
+    "country": "EN"
+  },
+  {
     "name": "TIMEZONE MAL CIPUTRA CIBUBUR",
     "address": "No.Km4,Jatikarya,Jatisampurna,Kota Bks,Jawa Barat 17435",
     "location": [
@@ -11673,20 +11709,20 @@
     "country": "EN"
   },
   {
-    "name": "TIMEZONE DUTA PERTIWI",
-    "address": "Jalan Pemuda No. 150, Semarang 50132",
-    "location": [
-      -6.9832693,
-      110.4121797
-    ],
-    "country": "EN"
-  },
-  {
     "name": "SEMARANG 23 ARKANA",
     "address": "Jl.Kawasan POJCity (Pearl of Jav",
     "location": [
       0.0,
       0.0
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "TIMEZONE DUTA PERTIWI",
+    "address": "Jalan Pemuda No. 150, Semarang 50132",
+    "location": [
+      -6.9832693,
+      110.4121797
     ],
     "country": "EN"
   },
@@ -11732,15 +11768,6 @@
     "location": [
       -3.4300034,
       114.8490017
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "TIMEZONE DUTA PALANGKARAYA",
-    "address": "Langkai,Kec.Pahandut,KotaPalangkaRaya,KalimantanTengah",
-    "location": [
-      -2.2227384,
-      113.925819
     ],
     "country": "EN"
   },
@@ -12704,15 +12731,6 @@
     "location": [
       30.2524716,
       -97.7410337
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "DAVE & BUSTER'S DALLAS",
-    "address": "9450 n central expressway dallas tx 75231",
-    "location": [
-      32.8773588,
-      -96.7692242
     ],
     "country": "EN"
   },
