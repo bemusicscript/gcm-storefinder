@@ -9837,15 +9837,6 @@
     "country": "JP"
   },
   {
-    "name": "ジョイジャングル石垣",
-    "address": "沖縄県石垣市真栄里２３９−１８",
-    "location": [
-      24.3351754,
-      124.1796341
-    ],
-    "country": "JP"
-  },
-  {
     "name": "CATCH BUFFET (KEELUNG NIGHT MARKET)",
     "address": "No.64, Ai 4th Rd., Ren’ai Dist., Keelung City 200010, Taiwan",
     "location": [
@@ -10161,20 +10152,20 @@
     "country": "EN"
   },
   {
-    "name": "HALA PLANET(TAICHUNG YIZHONG)",
-    "address": "No.10, Taiping Rd., North Dist., Taichung City 404008, Taiwan",
-    "location": [
-      24.1476019,
-      120.6859621
-    ],
-    "country": "EN"
-  },
-  {
     "name": "SHIRONEKOYA(TAICHUNG)",
     "address": "1F.,No.7,Ln. 6,Yucai St.,North Dist.,Taichung City,Taiwan",
     "location": [
       24.1502189,
       120.6849391
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "HALA PLANET(TAICHUNG YIZHONG)",
+    "address": "No.10, Taiping Rd., North Dist., Taichung City 404008, Taiwan",
+    "location": [
+      24.1476019,
+      120.6859621
     ],
     "country": "EN"
   },
@@ -10269,20 +10260,20 @@
     "country": "EN"
   },
   {
-    "name": "TOM'S WORLD(JHENGUANG@TAINAN)",
-    "address": "1F., NO.236, SEC.2,JHONGHUAE.RD., TAINAN CITY",
-    "location": [
-      22.9819470535495,
-      120.229921589
-    ],
-    "country": "EN"
-  },
-  {
     "name": "TOM'S WORLD(FOCUS@TAINAN)",
     "address": "9F.,NO.166, ZHONGSHAN RD.,WEST CENTRAL DIST., TAINAN CITY",
     "location": [
       22.995715824494,
       120.210264941139
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "TOM'S WORLD(JHENGUANG@TAINAN)",
+    "address": "1F., NO.236, SEC.2,JHONGHUAE.RD., TAINAN CITY",
+    "location": [
+      22.9819470535495,
+      120.229921589
     ],
     "country": "EN"
   },
@@ -10298,15 +10289,6 @@
   {
     "name": "TOM'S WORLD(MITSUKOSHI@ZUOYING 2F)",
     "address": "2F.No.123,GaotieRd.,Zuoying Dist.,KaohsiungCity81361",
-    "location": [
-      22.6877358,
-      120.2916524
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "TOM'S WORLD (HANSHIN@KAOHSIUNG)",
-    "address": "6F.No.777, Bo'ai 2ndRd.ZuoyingDist.KaohsiungCity813603,Taiwan",
     "location": [
       22.6877358,
       120.2916524
@@ -11106,15 +11088,6 @@
     "country": "EN"
   },
   {
-    "name": "METRO GAME CENTER",
-    "address": "5-205, 2100, Dalgubeol-daero, Jung-gu, Daegu",
-    "location": [
-      35.8646637,
-      128.5979695
-    ],
-    "country": "EN"
-  },
-  {
     "name": "ROYAL GAME",
     "address": "454-1, Jungang-daero, Jung-gu, Daegu",
     "location": [
@@ -11313,15 +11286,6 @@
     "country": "EN"
   },
   {
-    "name": "CPCM LIPPO MALL NUSANTARA",
-    "address": "Jl. Jend. Sudirman Kav. 50, Karet Semanggi, Setiabudi",
-    "location": [
-      -6.2201667,
-      106.8143752
-    ],
-    "country": "EN"
-  },
-  {
     "name": "LIPPO PURI ST.MORTIS",
     "address": "Jl. Puri Indah Raya Blok U1, RT.3/RW.2, Kembangan Sel, Kembangan",
     "location": [
@@ -11345,15 +11309,6 @@
     "location": [
       -6.22707494088065,
       106.607045025934
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "CPCM INDONESIA DESIGN DISTRICT",
-    "address": "Jalan M.H. Thamrin., SalembaranJaya, Kosambi,15214",
-    "location": [
-      -6.0676077,
-      106.6967904
     ],
     "country": "EN"
   },

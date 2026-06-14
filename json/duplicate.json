@@ -5166,6 +5166,15 @@
     "country": "JP"
   },
   {
+    "name": "ザ・インドアゲーム",
+    "address": "大阪府大阪市旭区中宮5-6-19大阪工大正門前",
+    "location": [
+      34.7295402,
+      135.544025
+    ],
+    "country": "JP"
+  },
+  {
     "name": "ＧｉＧＯ布施",
     "address": "大阪府東大阪市長堂１−１−１ロンモール布施内",
     "location": [
@@ -7101,20 +7110,20 @@
     "country": "EN"
   },
   {
-    "name": "X50 MGS TAIPEI",
-    "address": "No.49, Emei St., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
-    "location": [
-      25.0329694,
-      121.5654177
-    ],
-    "country": "EN"
-  },
-  {
     "name": "HALA PLANET (XIMEN)",
     "address": "No.11, Ln.144, Sec.1,Zhonghua Rd.Wanhua Dist., Taipei City 108",
     "location": [
       25.0436445,
       121.508661
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "X50 MGS TAIPEI",
+    "address": "No.49, Emei St., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "location": [
+      25.0329694,
+      121.5654177
     ],
     "country": "EN"
   },
@@ -7182,11 +7191,11 @@
     "country": "EN"
   },
   {
-    "name": "LIBAO COMPANY",
-    "address": "NO.50-1,SEC.1,ZHONGXIAO W.RD.,ZHONGZHENG DIST., TAIPEI CITY100",
+    "name": "HALA(XINYANG)",
+    "address": "1F., No.2, Xinyang St., Zhongzheng Dist., Taipei City 10047",
     "location": [
-      25.0677905,
-      121.4820754
+      25.0445923,
+      121.5167157
     ],
     "country": "EN"
   },
@@ -7209,11 +7218,11 @@
     "country": "EN"
   },
   {
-    "name": "HALA(XINYANG)",
-    "address": "1F., No.2, Xinyang St., Zhongzheng Dist., Taipei City 10047",
+    "name": "LIBAO COMPANY",
+    "address": "NO.50-1,SEC.1,ZHONGXIAO W.RD.,ZHONGZHENG DIST., TAIPEI CITY100",
     "location": [
-      25.0445923,
-      121.5167157
+      25.0677905,
+      121.4820754
     ],
     "country": "EN"
   },
@@ -7281,11 +7290,11 @@
     "country": "EN"
   },
   {
-    "name": "GiGO METRO WALK",
-    "address": "4F,NO.501 ,SEC.2,JHONGYUAN RD,JHONGLICITY,TAOYUAN COUNTY",
+    "name": "NEW CITY(ZHONGLI)",
+    "address": "11F,NO.120,SEC.1,ZHONGYANG W.RD,ZHONGLI CITY, TAOYUAN",
     "location": [
-      25.0013610040415,
-      121.228575054891
+      24.9584889,
+      121.2203631
     ],
     "country": "EN"
   },
@@ -7308,11 +7317,11 @@
     "country": "EN"
   },
   {
-    "name": "NEW CITY(ZHONGLI)",
-    "address": "11F,NO.120,SEC.1,ZHONGYANG W.RD,ZHONGLI CITY, TAOYUAN",
+    "name": "GiGO METRO WALK",
+    "address": "4F,NO.501 ,SEC.2,JHONGYUAN RD,JHONGLICITY,TAOYUAN COUNTY",
     "location": [
-      24.9584889,
-      121.2203631
+      25.0013610040415,
+      121.228575054891
     ],
     "country": "EN"
   },
@@ -7499,15 +7508,6 @@
   {
     "name": "TOM'S WORLD(MITSUKOSHI@ZUOYING 2F)",
     "address": "2F.No.123,GaotieRd.,Zuoying Dist.,KaohsiungCity81361",
-    "location": [
-      22.6877358,
-      120.2916524
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "TOM'S WORLD (HANSHIN@KAOHSIUNG)",
-    "address": "6F.No.777, Bo'ai 2ndRd.ZuoyingDist.KaohsiungCity813603,Taiwan",
     "location": [
       22.6877358,
       120.2916524
@@ -8073,6 +8073,15 @@
     "country": "EN"
   },
   {
+    "name": "THE SPRING BINTULU(SARAWAK)",
+    "address": "Lot F53,1st Floor,The Spring Bintulu,97000 Bintulu,Sarawak",
+    "location": [
+      3.1811596,
+      113.034922
+    ],
+    "country": "EN"
+  },
+  {
     "name": "MIRI CENTER POINT",
     "address": "Lv3, Boulevard Shopping Mall,Lot 2528, Blvd Commercial Centre",
     "location": [
@@ -8271,15 +8280,6 @@
     "country": "EN"
   },
   {
-    "name": "METRO GAME CENTER",
-    "address": "5-205, 2100, Dalgubeol-daero, Jung-gu, Daegu",
-    "location": [
-      35.8646637,
-      128.5979695
-    ],
-    "country": "EN"
-  },
-  {
     "name": "ROYAL GAME",
     "address": "454-1, Jungang-daero, Jung-gu, Daegu",
     "location": [
@@ -8451,15 +8451,6 @@
     "country": "EN"
   },
   {
-    "name": "CPCM LIPPO MALL NUSANTARA",
-    "address": "Jl. Jend. Sudirman Kav. 50, Karet Semanggi, Setiabudi",
-    "location": [
-      -6.2201667,
-      106.8143752
-    ],
-    "country": "EN"
-  },
-  {
     "name": "PIK 1 KITA",
     "address": "Kawasan Pantai Kita, Jl. Ebony 2, Jkt Utara",
     "location": [
@@ -8474,15 +8465,6 @@
     "location": [
       -6.22707494088065,
       106.607045025934
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "CPCM INDONESIA DESIGN DISTRICT",
-    "address": "Jalan M.H. Thamrin., SalembaranJaya, Kosambi,15214",
-    "location": [
-      -6.0676077,
-      106.6967904
     ],
     "country": "EN"
   },

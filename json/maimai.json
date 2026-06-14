@@ -6138,20 +6138,20 @@
     "country": "JP"
   },
   {
-    "name": "アピナ鈴鹿店",
-    "address": "三重県鈴鹿市庄野羽山4-20-1イオンタウン鈴鹿2階",
-    "location": [
-      34.8721887795177,
-      136.527046365047
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ｎａｍｃｏイオンモール鈴鹿店",
     "address": "三重県鈴鹿市庄野羽山４ー１ー２イオンモール鈴鹿２Ｆ",
     "location": [
       34.8715112162974,
       136.531686050926
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "アピナ鈴鹿店",
+    "address": "三重県鈴鹿市庄野羽山4-20-1イオンタウン鈴鹿2階",
+    "location": [
+      34.8721887795177,
+      136.527046365047
     ],
     "country": "JP"
   },
@@ -6179,15 +6179,6 @@
     "location": [
       34.4921013,
       136.6780636
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "モーリーファンタジー伊勢ララパーク",
-    "address": "三重県伊勢市小木町曽弥５３８　イオンタウン伊勢ララパーク２Ｆ",
-    "location": [
-      34.5065191106269,
-      136.722462040753
     ],
     "country": "JP"
   },
@@ -6593,6 +6584,15 @@
     "location": [
       34.6099943693421,
       135.468288039812
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ザ・インドアゲーム",
+    "address": "大阪府大阪市旭区中宮5-6-19大阪工大正門前",
+    "location": [
+      34.7295402,
+      135.544025
     ],
     "country": "JP"
   },
@@ -9234,20 +9234,20 @@
     "country": "EN"
   },
   {
-    "name": "X50 MGS TAIPEI",
-    "address": "No.49, Emei St., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
-    "location": [
-      25.0329694,
-      121.5654177
-    ],
-    "country": "EN"
-  },
-  {
     "name": "HALA PLANET (XIMEN)",
     "address": "No.11, Ln.144, Sec.1,Zhonghua Rd.Wanhua Dist., Taipei City 108",
     "location": [
       25.0436445,
       121.508661
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "X50 MGS TAIPEI",
+    "address": "No.49, Emei St., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
+    "location": [
+      25.0329694,
+      121.5654177
     ],
     "country": "EN"
   },
@@ -9297,20 +9297,20 @@
     "country": "EN"
   },
   {
-    "name": "CATCH BUFFET(DA-NAN@SHLIN)",
-    "address": "1F.No.48,Sec.1,YangdeBlvd.Shilin Dist.TaipeiCity11146,Taiwan",
-    "location": [
-      25.0950492,
-      121.5246077
-    ],
-    "country": "EN"
-  },
-  {
     "name": "HALA PLANET(SHILIN)",
     "address": "No. 43, Wenlin Rd., Shilin Dist., Taipei City 111012",
     "location": [
       25.0868787,
       121.5255253
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "CATCH BUFFET(DA-NAN@SHLIN)",
+    "address": "1F.No.48,Sec.1,YangdeBlvd.Shilin Dist.TaipeiCity11146,Taiwan",
+    "location": [
+      25.0950492,
+      121.5246077
     ],
     "country": "EN"
   },
@@ -9324,11 +9324,11 @@
     "country": "EN"
   },
   {
-    "name": "LIBAO COMPANY",
-    "address": "NO.50-1,SEC.1,ZHONGXIAO W.RD.,ZHONGZHENG DIST., TAIPEI CITY100",
+    "name": "HALA(XINYANG)",
+    "address": "1F., No.2, Xinyang St., Zhongzheng Dist., Taipei City 10047",
     "location": [
-      25.0677905,
-      121.4820754
+      25.0445923,
+      121.5167157
     ],
     "country": "EN"
   },
@@ -9351,11 +9351,11 @@
     "country": "EN"
   },
   {
-    "name": "HALA(XINYANG)",
-    "address": "1F., No.2, Xinyang St., Zhongzheng Dist., Taipei City 10047",
+    "name": "LIBAO COMPANY",
+    "address": "NO.50-1,SEC.1,ZHONGXIAO W.RD.,ZHONGZHENG DIST., TAIPEI CITY100",
     "location": [
-      25.0445923,
-      121.5167157
+      25.0677905,
+      121.4820754
     ],
     "country": "EN"
   },
@@ -9374,6 +9374,15 @@
     "location": [
       25.049437,
       121.4639439
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "TOM'S WORLD(MORI SHOWTIME@SHULIN)",
+    "address": "3F.No.40-6,Shuxin Rd. Shulin Dist.,New Taipei City 238, Taiwan",
+    "location": [
+      24.9955128,
+      121.4284257
     ],
     "country": "EN"
   },
@@ -9414,20 +9423,20 @@
     "country": "EN"
   },
   {
-    "name": "GiGO MITSUI OUTLET PARK Lin Kou",
-    "address": "2F, No.356, Sec.1,Wenhua3rdRd,LinkouDist,NewTaipeiCity,Taiwan",
-    "location": [
-      25.0706472,
-      121.364833
-    ],
-    "country": "EN"
-  },
-  {
     "name": "TOM'S WORLD MITSUI OUTLET PARK-LINKOU",
     "address": "3F,No.123,Sec.1,Wenhua 2nd Rd,Linkou Dist,New Taipei City 244008",
     "location": [
       25.2247173,
       121.6365176
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "GiGO MITSUI OUTLET PARK Lin Kou",
+    "address": "2F, No.356, Sec.1,Wenhua3rdRd,LinkouDist,NewTaipeiCity,Taiwan",
+    "location": [
+      25.0706472,
+      121.364833
     ],
     "country": "EN"
   },
@@ -9441,20 +9450,20 @@
     "country": "EN"
   },
   {
-    "name": "TOM'S WORLD(FE21@TAOYUAN)",
-    "address": "12F., NO.20,ZHONGZHENG RD.,TAOYUAN CITY, TAOYUAN COUNTY",
-    "location": [
-      24.9898544722003,
-      121.313921236771
-    ],
-    "country": "EN"
-  },
-  {
     "name": "HALA PLANET(TAOYUAN)",
     "address": "No. 168, Fuxing Rd., Taoyuan Dist., Taoyuan City 330046",
     "location": [
       24.9904077,
       121.312293
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "TOM'S WORLD(FE21@TAOYUAN)",
+    "address": "12F., NO.20,ZHONGZHENG RD.,TAOYUAN CITY, TAOYUAN COUNTY",
+    "location": [
+      24.9898544722003,
+      121.313921236771
     ],
     "country": "EN"
   },
@@ -9477,11 +9486,11 @@
     "country": "EN"
   },
   {
-    "name": "GiGO METRO WALK",
-    "address": "4F,NO.501 ,SEC.2,JHONGYUAN RD,JHONGLICITY,TAOYUAN COUNTY",
+    "name": "NEW CITY(ZHONGLI)",
+    "address": "11F,NO.120,SEC.1,ZHONGYANG W.RD,ZHONGLI CITY, TAOYUAN",
     "location": [
-      25.0013610040415,
-      121.228575054891
+      24.9584889,
+      121.2203631
     ],
     "country": "EN"
   },
@@ -9513,11 +9522,11 @@
     "country": "EN"
   },
   {
-    "name": "NEW CITY(ZHONGLI)",
-    "address": "11F,NO.120,SEC.1,ZHONGYANG W.RD,ZHONGLI CITY, TAOYUAN",
+    "name": "GiGO METRO WALK",
+    "address": "4F,NO.501 ,SEC.2,JHONGYUAN RD,JHONGLICITY,TAOYUAN COUNTY",
     "location": [
-      24.9584889,
-      121.2203631
+      25.0013610040415,
+      121.228575054891
     ],
     "country": "EN"
   },
@@ -10467,6 +10476,15 @@
     "country": "EN"
   },
   {
+    "name": "COW PLAY COW MOO WEST MALL",
+    "address": "1 Bukit Batok Central #05-01B, Singapore 658713",
+    "location": [
+      0.0,
+      0.0
+    ],
+    "country": "EN"
+  },
+  {
     "name": "TIMEZONE OUR TAMPINES HUB",
     "address": "51TAMPINES AVENUE4#B1-13OUR TAMPINES HUB SINGAPORE 529684",
     "location": [
@@ -10670,6 +10688,15 @@
     "location": [
       2.8182299,
       101.7883967
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "VISION CITY VIDEO GAMES PARK",
+    "address": "VisonCityVideoGamesPark,ResortsWorldGenting,69000,Pahang Darul M",
+    "location": [
+      3.423871,
+      101.792679
     ],
     "country": "EN"
   },
@@ -10899,6 +10926,15 @@
     "country": "EN"
   },
   {
+    "name": "THE SPRING BINTULU(SARAWAK)",
+    "address": "Lot F53,1st Floor,The Spring Bintulu,97000 Bintulu,Sarawak",
+    "location": [
+      3.1811596,
+      113.034922
+    ],
+    "country": "EN"
+  },
+  {
     "name": "MIRI CENTER POINT",
     "address": "Lv3, Boulevard Shopping Mall,Lot 2528, Blvd Commercial Centre",
     "location": [
@@ -11124,15 +11160,6 @@
     "country": "EN"
   },
   {
-    "name": "ZZANG ORAKSIL HONGDAE",
-    "address": "69, Eoulmadang-ro, Mapo-gu, Seoul",
-    "location": [
-      37.5512385,
-      126.9210941
-    ],
-    "country": "EN"
-  },
-  {
     "name": "FUNNYLAND",
     "address": "46-1, Eoulmadang-ro, Mapo-gu, Seoul",
     "location": [
@@ -11142,11 +11169,29 @@
     "country": "EN"
   },
   {
+    "name": "ZZANG ORAKSIL HONGDAE",
+    "address": "69, Eoulmadang-ro, Mapo-gu, Seoul",
+    "location": [
+      37.5512385,
+      126.9210941
+    ],
+    "country": "EN"
+  },
+  {
     "name": "YEONSINNAE JJANGGU GAME",
     "address": "8-8, Yeonseo-ro 29-gil, Eunpyeong-gu, Seoul",
     "location": [
       37.6189525,
       126.9196972
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "PAPER STUDIO",
+    "address": "85, Bongujae-ro 33-gil, Jungnang-gu, Seoul, Republic of Korea",
+    "location": [
+      37.5959378,
+      127.0895616
     ],
     "country": "EN"
   },
@@ -11772,6 +11817,15 @@
     "country": "EN"
   },
   {
+    "name": "TIMEZONE DUTA PALANGKARAYA",
+    "address": "Langkai,Kec.Pahandut,KotaPalangkaRaya,KalimantanTengah",
+    "location": [
+      -2.2227384,
+      113.925819
+    ],
+    "country": "EN"
+  },
+  {
     "name": "TIMEZONE BIG MALL SAMARINDA",
     "address": "No.8KarangAsamUlu,SungaiKujang,Samarinda,KalimantanTimur",
     "location": [
@@ -11984,6 +12038,15 @@
     "location": [
       33.9935867,
       -117.9274765
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "PLAYDIUM VAUGHAN",
+    "address": "1 BASS PRO MILLS DR, CONCORD, ON L4K5W4",
+    "location": [
+      0.0,
+      0.0
     ],
     "country": "EN"
   },
@@ -12222,7 +12285,7 @@
     "country": "EN"
   },
   {
-    "name": "ARCADE TIME ENTERTAINMENT",
+    "name": "ARCADE TIME ENTERTAINMENT ORLANDO",
     "address": "6464 International Drive Orlando FL 32819",
     "location": [
       28.4583305,
@@ -12731,6 +12794,15 @@
     "location": [
       30.2524716,
       -97.7410337
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "DAVE & BUSTER'S DALLAS",
+    "address": "9450 n central expressway dallas tx 75231",
+    "location": [
+      32.8773588,
+      -96.7692242
     ],
     "country": "EN"
   },
@@ -13577,6 +13649,15 @@
     "location": [
       -33.9669703,
       151.1032215
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "FUNLAND BANKSTOWN CENTRAL",
+    "address": "MM022 Bankstown Central SC,North Terrace, Bankstown, NSW, 2200",
+    "location": [
+      -33.9164071,
+      151.0383754
     ],
     "country": "EN"
   },
