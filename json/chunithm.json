@@ -1305,8 +1305,8 @@
     "country": "JP"
   },
   {
-    "name": "タイトーＦステーション郡山オリエントパー",
-    "address": "福島県郡山市安積町荒井字大久保３５ー１",
+    "name": "タイトーＦ郡山オリエントパーク店",
+    "address": "福島県郡山市安積町荒井字大久保３５−１",
     "location": [
       37.3744762,
       140.3487551
@@ -2781,20 +2781,20 @@
     "country": "JP"
   },
   {
-    "name": "ゲームガリバー",
-    "address": "千葉県柏市柏１‐１‐１１",
-    "location": [
-      35.8616855,
-      139.9711177
-    ],
-    "country": "JP"
-  },
-  {
     "name": "柏駅前ヤングボウル",
     "address": "千葉県柏市柏１−３−１",
     "location": [
       35.8606968,
       139.9712677
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ゲームガリバー",
+    "address": "千葉県柏市柏１‐１‐１１",
+    "location": [
+      35.8616855,
+      139.9711177
     ],
     "country": "JP"
   },
@@ -2844,29 +2844,11 @@
     "country": "JP"
   },
   {
-    "name": "ＧｉＧＯ千葉",
-    "address": "千葉県千葉市中央区富士見２−４−１",
-    "location": [
-      35.6115641,
-      140.1158508
-    ],
-    "country": "JP"
-  },
-  {
     "name": "キャッツアイ東千葉店",
     "address": "千葉県千葉市中央区祐光３丁目２番１号",
     "location": [
       35.6195787,
       140.1270539
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "テクモピア千葉中央店",
-    "address": "千葉県千葉市中央区本千葉町１５ー１",
-    "location": [
-      35.6076464,
-      140.1181586
     ],
     "country": "JP"
   },
@@ -2880,20 +2862,20 @@
     "country": "JP"
   },
   {
-    "name": "ＧｉＧＯフェスティバルウォーク蘇我",
-    "address": "千葉県千葉市中央区川崎町５１−１ハーバーシティ蘇我ＦＷ　１Ｆ",
+    "name": "テクモピア千葉中央店",
+    "address": "千葉県千葉市中央区本千葉町１５ー１",
     "location": [
-      35.5925990507722,
-      140.117882510767
+      35.6076464,
+      140.1181586
     ],
     "country": "JP"
   },
   {
-    "name": "パレパレ稲毛長沼店",
-    "address": "千葉県千葉市稲毛区長沼原町731-17フレスポ稲毛Ａ２棟４",
+    "name": "ＧｉＧＯ千葉",
+    "address": "千葉県千葉市中央区富士見２−４−１",
     "location": [
-      35.6575891,
-      140.1277036
+      35.6115641,
+      140.1158508
     ],
     "country": "JP"
   },
@@ -2912,6 +2894,15 @@
     "location": [
       35.6505316705029,
       140.119112209054
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "パレパレ稲毛長沼店",
+    "address": "千葉県千葉市稲毛区長沼原町731-17フレスポ稲毛Ａ２棟４",
+    "location": [
+      35.6575891,
+      140.1277036
     ],
     "country": "JP"
   },
@@ -5895,11 +5886,20 @@
     "country": "JP"
   },
   {
-    "name": "ラウンドワン鳴海店",
-    "address": "愛知県名古屋市緑区鳴海町杜若２８",
+    "name": "プラサカプコン徳重店",
+    "address": "愛知県名古屋市緑区元徳重１丁目５０５ビルズウォーク徳重２階",
     "location": [
-      35.0989113,
-      136.9527377
+      35.0943886,
+      136.9992084
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "SOYU BREMEN TOWN 鳴海店",
+    "address": "愛知県名古屋市緑区鳴海町字伝治山3-9　アピタ鳴海店2F",
+    "location": [
+      35.0941212637578,
+      136.95934499259
     ],
     "country": "JP"
   },
@@ -5913,11 +5913,11 @@
     "country": "JP"
   },
   {
-    "name": "プラサカプコン徳重店",
-    "address": "愛知県名古屋市緑区元徳重１丁目５０５ビルズウォーク徳重２階",
+    "name": "ラウンドワン鳴海店",
+    "address": "愛知県名古屋市緑区鳴海町杜若２８",
     "location": [
-      35.0943886,
-      136.9992084
+      35.0989113,
+      136.9527377
     ],
     "country": "JP"
   },
@@ -5940,20 +5940,20 @@
     "country": "JP"
   },
   {
+    "name": "コムテックスクウェア",
+    "address": "愛知県名古屋市中区金山1-16-8",
+    "location": [
+      35.1439706,
+      136.8999023
+    ],
+    "country": "JP"
+  },
+  {
     "name": "タイトーステーションフェドラ大須店",
     "address": "愛知県名古屋市中区大須３−３０−３１",
     "location": [
       35.1594771,
       136.9054347
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "アピナ名古屋栄店",
-    "address": "愛知県名古屋市中区錦３‐１７‐１５ドン・キホーテ栄本店Ｂ１",
-    "location": [
-      35.1702098,
-      136.9063906
     ],
     "country": "JP"
   },
@@ -5967,20 +5967,20 @@
     "country": "JP"
   },
   {
-    "name": "コムテックスクウェア",
-    "address": "愛知県名古屋市中区金山1-16-8",
-    "location": [
-      35.1439706,
-      136.8999023
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ゲームキングジョイ",
     "address": "愛知県名古屋市中区栄３‐３‐３２",
     "location": [
       35.1679815,
       136.9049511
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "アピナ名古屋栄店",
+    "address": "愛知県名古屋市中区錦３‐１７‐１５ドン・キホーテ栄本店Ｂ１",
+    "location": [
+      35.1702098,
+      136.9063906
     ],
     "country": "JP"
   },
@@ -6012,20 +6012,20 @@
     "country": "JP"
   },
   {
-    "name": "ファンタジープラザ千代田橋店",
-    "address": "愛知県名古屋市千種区千代田橋２−１−１アピタ千代田橋店３階",
-    "location": [
-      35.187352,
-      136.9694536
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ラウンドワン千種店",
     "address": "愛知県名古屋市千種区新栄3-20-17タイホウ千種駅前南ビル1階",
     "location": [
       35.1680713,
       136.9280046
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ファンタジープラザ千代田橋店",
+    "address": "愛知県名古屋市千種区千代田橋２−１−１アピタ千代田橋店３階",
+    "location": [
+      35.187352,
+      136.9694536
     ],
     "country": "JP"
   },
@@ -6075,20 +6075,20 @@
     "country": "JP"
   },
   {
-    "name": "ＧｉＧＯイオンタウン名西",
-    "address": "愛知県名古屋市西区香呑町６−４９−１イオンタウン名西２Ｆ",
-    "location": [
-      35.2041270320315,
-      136.892598499445
-    ],
-    "country": "JP"
-  },
-  {
     "name": "バンダイナムコＣｒｏｓｓＳｔｏｒｅ名古屋",
     "address": "愛知県名古屋市西区二方町４０番本棟４階",
     "location": [
       35.2254187,
       136.8843421
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ＧｉＧＯイオンタウン名西",
+    "address": "愛知県名古屋市西区香呑町６−４９−１イオンタウン名西２Ｆ",
+    "location": [
+      35.2041270320315,
+      136.892598499445
     ],
     "country": "JP"
   },
@@ -6566,6 +6566,15 @@
     "location": [
       34.875263768121,
       136.571143598703
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ＧｉＧＯアドバンスモール松阪",
+    "address": "三重県松阪市田村町２３５−１",
+    "location": [
+      34.5538973748022,
+      136.514660782031
     ],
     "country": "JP"
   },
@@ -8388,6 +8397,15 @@
     "country": "JP"
   },
   {
+    "name": "アミュージアム周南店",
+    "address": "山口県下松市中央町21-3THEMALL周南3F",
+    "location": [
+      34.0186116463295,
+      131.862876480986
+    ],
+    "country": "JP"
+  },
+  {
     "name": "GAME・パフェ萩",
     "address": "山口県萩市大字椿東3000-5",
     "location": [
@@ -8429,15 +8447,6 @@
     "location": [
       34.0647908231594,
       134.564673885302
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "タイトーステーションフジグラン北島店",
-    "address": "徳島県板野郡北島町鯛浜字西ノ須１７４",
-    "location": [
-      34.1130355103496,
-      134.546095832489
     ],
     "country": "JP"
   },
@@ -9837,6 +9846,15 @@
     "country": "JP"
   },
   {
+    "name": "ジョイジャングル石垣",
+    "address": "沖縄県石垣市真栄里２３９−１８",
+    "location": [
+      24.3351754,
+      124.1796341
+    ],
+    "country": "JP"
+  },
+  {
     "name": "CATCH BUFFET (KEELUNG NIGHT MARKET)",
     "address": "No.64, Ai 4th Rd., Ren’ai Dist., Keelung City 200010, Taiwan",
     "location": [
@@ -10872,15 +10890,6 @@
     "country": "EN"
   },
   {
-    "name": "THE SPRING BINTULU(SARAWAK)",
-    "address": "Lot F53,1st Floor,The Spring Bintulu,97000 Bintulu,Sarawak",
-    "location": [
-      3.1811596,
-      113.034922
-    ],
-    "country": "EN"
-  },
-  {
     "name": "MIRI CENTER POINT",
     "address": "Lv3, Boulevard Shopping Mall,Lot 2528, Blvd Commercial Centre",
     "location": [
@@ -11088,6 +11097,15 @@
     "country": "EN"
   },
   {
+    "name": "METRO GAME CENTER",
+    "address": "5-205, 2100, Dalgubeol-daero, Jung-gu, Daegu",
+    "location": [
+      35.8646637,
+      128.5979695
+    ],
+    "country": "EN"
+  },
+  {
     "name": "ROYAL GAME",
     "address": "454-1, Jungang-daero, Jung-gu, Daegu",
     "location": [
@@ -11286,6 +11304,15 @@
     "country": "EN"
   },
   {
+    "name": "CPCM LIPPO MALL NUSANTARA",
+    "address": "Jl. Jend. Sudirman Kav. 50, Karet Semanggi, Setiabudi",
+    "location": [
+      -6.2201667,
+      106.8143752
+    ],
+    "country": "EN"
+  },
+  {
     "name": "LIPPO PURI ST.MORTIS",
     "address": "Jl. Puri Indah Raya Blok U1, RT.3/RW.2, Kembangan Sel, Kembangan",
     "location": [
@@ -11309,6 +11336,15 @@
     "location": [
       -6.22707494088065,
       106.607045025934
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "CPCM INDONESIA DESIGN DISTRICT",
+    "address": "Jalan M.H. Thamrin., SalembaranJaya, Kosambi,15214",
+    "location": [
+      -6.0676077,
+      106.6967904
     ],
     "country": "EN"
   },

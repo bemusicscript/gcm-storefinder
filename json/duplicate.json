@@ -900,8 +900,8 @@
     "country": "JP"
   },
   {
-    "name": "タイトーＦステーション郡山オリエントパー",
-    "address": "福島県郡山市安積町荒井字大久保３５ー１",
+    "name": "タイトーＦ郡山オリエントパーク店",
+    "address": "福島県郡山市安積町荒井字大久保３５−１",
     "location": [
       37.3744762,
       140.3487551
@@ -1566,20 +1566,20 @@
     "country": "JP"
   },
   {
-    "name": "ＧｉＧＯ所沢",
-    "address": "埼玉県所沢市日吉町８−１",
-    "location": [
-      35.788476,
-      139.471899
-    ],
-    "country": "JP"
-  },
-  {
     "name": "タイトーステーション 所沢店",
     "address": "埼玉県所沢市日吉町３−７",
     "location": [
       35.7880928,
       139.4723684
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ＧｉＧＯ所沢",
+    "address": "埼玉県所沢市日吉町８−１",
+    "location": [
+      35.788476,
+      139.471899
     ],
     "country": "JP"
   },
@@ -1656,24 +1656,6 @@
     "country": "JP"
   },
   {
-    "name": "タイトーステーション 大宮店",
-    "address": "埼玉県さいたま市大宮区大門町１−１",
-    "location": [
-      35.9074466762351,
-      139.625597394477
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "タイトーＦステーションＡＳ大宮西口駅前店",
-    "address": "埼玉県さいたま市大宮区桜木町２‐３　イオンスタイル大宮西７Ｆ",
-    "location": [
-      35.9068898,
-      139.6217932
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ＧｉＧＯ大宮西口",
     "address": "埼玉県さいたま市大宮区桜木町二丁目３番地２",
     "location": [
@@ -1688,6 +1670,24 @@
     "location": [
       35.9079906,
       139.6245492
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "タイトーＦステーションＡＳ大宮西口駅前店",
+    "address": "埼玉県さいたま市大宮区桜木町２‐３　イオンスタイル大宮西７Ｆ",
+    "location": [
+      35.9068898,
+      139.6217932
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "タイトーステーション 大宮店",
+    "address": "埼玉県さいたま市大宮区大門町１−１",
+    "location": [
+      35.9074466762351,
+      139.625597394477
     ],
     "country": "JP"
   },
@@ -2034,15 +2034,6 @@
     "country": "JP"
   },
   {
-    "name": "ＧｉＧＯフェスティバルウォーク蘇我",
-    "address": "千葉県千葉市中央区川崎町５１−１ハーバーシティ蘇我ＦＷ　１Ｆ",
-    "location": [
-      35.5925990507722,
-      140.117882510767
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ラッキー中央店・フェリシダ",
     "address": "千葉県千葉市中央区富士見2-8-1",
     "location": [
@@ -2084,15 +2075,6 @@
     "location": [
       35.6575891,
       140.1277036
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "スポーツウェーブ鉄腕24稲毛長沼店",
-    "address": "千葉県千葉市稲毛区長沼原町697番地",
-    "location": [
-      35.6620233,
-      140.1265534
     ],
     "country": "JP"
   },
@@ -2196,20 +2178,20 @@
     "country": "JP"
   },
   {
-    "name": "テクモピア船橋南口店",
-    "address": "千葉県船橋市本町１ー７ー６ドリーム船橋ビル３Ｆ",
-    "location": [
-      35.6990191,
-      139.9858078
-    ],
-    "country": "JP"
-  },
-  {
     "name": "タイトーステーション 船橋店",
     "address": "千葉県船橋市本町１−６−１",
     "location": [
       35.6998912,
       139.9859705
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "テクモピア船橋南口店",
+    "address": "千葉県船橋市本町１ー７ー６ドリーム船橋ビル３Ｆ",
+    "location": [
+      35.6990191,
+      139.9858078
     ],
     "country": "JP"
   },
@@ -3636,15 +3618,6 @@
     "country": "JP"
   },
   {
-    "name": "富山レジャーランド掛尾店",
-    "address": "富山県富山市掛尾町３６０−１",
-    "location": [
-      36.6660317,
-      137.2088901
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ＧｉＧＯマリエとやま",
     "address": "富山県富山市桜町１丁目１番６１号マリエとやま４Ｆ",
     "location": [
@@ -4329,20 +4302,29 @@
     "country": "JP"
   },
   {
-    "name": "ラウンドワン鳴海店",
-    "address": "愛知県名古屋市緑区鳴海町杜若２８",
-    "location": [
-      35.0989113,
-      136.9527377
-    ],
-    "country": "JP"
-  },
-  {
     "name": "プラサカプコン徳重店",
     "address": "愛知県名古屋市緑区元徳重１丁目５０５ビルズウォーク徳重２階",
     "location": [
       35.0943886,
       136.9992084
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "SOYU BREMEN TOWN 鳴海店",
+    "address": "愛知県名古屋市緑区鳴海町字伝治山3-9　アピタ鳴海店2F",
+    "location": [
+      35.0941212637578,
+      136.95934499259
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ラウンドワン鳴海店",
+    "address": "愛知県名古屋市緑区鳴海町杜若２８",
+    "location": [
+      35.0989113,
+      136.9527377
     ],
     "country": "JP"
   },
@@ -4383,11 +4365,11 @@
     "country": "JP"
   },
   {
-    "name": "ゲームキングジョイ",
-    "address": "愛知県名古屋市中区栄３‐３‐３２",
+    "name": "ゲームパニック大須",
+    "address": "愛知県名古屋市中区大須3-30-93　メガタウンB1F",
     "location": [
-      35.1679815,
-      136.9049511
+      35.1600309,
+      136.9053767
     ],
     "country": "JP"
   },
@@ -4401,11 +4383,11 @@
     "country": "JP"
   },
   {
-    "name": "ゲームパニック大須",
-    "address": "愛知県名古屋市中区大須3-30-93　メガタウンB1F",
+    "name": "ゲームキングジョイ",
+    "address": "愛知県名古屋市中区栄３‐３‐３２",
     "location": [
-      35.1600309,
-      136.9053767
+      35.1679815,
+      136.9049511
     ],
     "country": "JP"
   },
@@ -4419,20 +4401,20 @@
     "country": "JP"
   },
   {
-    "name": "ＧｉＧＯマーケットスクエアささしま",
-    "address": "愛知県名古屋市中村区平池町４丁目６０番地１４号",
-    "location": [
-      35.162623,
-      136.8849364
-    ],
-    "country": "JP"
-  },
-  {
     "name": "コムテックタワー",
     "address": "愛知県名古屋市中村区名駅４−１０−２０",
     "location": [
       35.1694446,
       136.8859667
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ＧｉＧＯマーケットスクエアささしま",
+    "address": "愛知県名古屋市中村区平池町４丁目６０番地１４号",
+    "location": [
+      35.162623,
+      136.8849364
     ],
     "country": "JP"
   },
@@ -4856,6 +4838,15 @@
     "location": [
       34.875263768121,
       136.571143598703
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ＧｉＧＯアドバンスモール松阪",
+    "address": "三重県松阪市田村町２３５−１",
+    "location": [
+      34.5538973748022,
+      136.514660782031
     ],
     "country": "JP"
   },
@@ -6107,6 +6098,15 @@
     "location": [
       34.03394,
       131.83464
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "アミュージアム周南店",
+    "address": "山口県下松市中央町21-3THEMALL周南3F",
+    "location": [
+      34.0186116463295,
+      131.862876480986
     ],
     "country": "JP"
   },
@@ -7461,20 +7461,20 @@
     "country": "EN"
   },
   {
-    "name": "TOM'S WORLD (T.S. MALL@TAINAN)",
-    "address": "B1,No.366,Sec.1,ZhonghuaE.Rd.EastDist.,TainanCity70155,Taiwan",
-    "location": [
-      22.998693,
-      120.234058
-    ],
-    "country": "EN"
-  },
-  {
     "name": "GUOBIN AMUSEMENT PARK",
     "address": "2F., No.66,Sec.1,Zhonghua E.Rd.East Dist.,TainanCity Taiwan",
     "location": [
       24.3330551,
       120.7404083
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "TOM'S WORLD (T.S. MALL@TAINAN)",
+    "address": "B1,No.366,Sec.1,ZhonghuaE.Rd.EastDist.,TainanCity70155,Taiwan",
+    "location": [
+      22.998693,
+      120.234058
     ],
     "country": "EN"
   },
@@ -7515,20 +7515,20 @@
     "country": "EN"
   },
   {
-    "name": "RHYTHM ARENA 2",
-    "address": "2F No. 102, Tianxiang 1st Rd., Sanmin Dist",
-    "location": [
-      22.6675678,
-      120.3202591
-    ],
-    "country": "EN"
-  },
-  {
     "name": "X50 MGS KAOHSIUNG",
     "address": "No.1-12, Chongcing St., Sanmin Dist., Kaohsiung City 807010",
     "location": [
       0.0,
       0.0
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "RHYTHM ARENA 2",
+    "address": "2F No. 102, Tianxiang 1st Rd., Sanmin Dist",
+    "location": [
+      22.6675678,
+      120.3202591
     ],
     "country": "EN"
   },
@@ -7542,20 +7542,20 @@
     "country": "EN"
   },
   {
-    "name": "TOM'S WORLD(LIUHE@KAOHSIUNG)",
-    "address": "NO.132, LIUHE 2ND RD.,QIANJIN DISTRICT, KAOHSIUNG",
-    "location": [
-      22.6311428516372,
-      120.29597092943
-    ],
-    "country": "EN"
-  },
-  {
     "name": "RHYTHM ARENA(KAOHSIUNG)",
     "address": "No.86-1, Zhonghua 3rd Rd.Qianjin Dist.,Kaohsiung City 801615",
     "location": [
       22.6272784,
       120.3014353
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "TOM'S WORLD(LIUHE@KAOHSIUNG)",
+    "address": "NO.132, LIUHE 2ND RD.,QIANJIN DISTRICT, KAOHSIUNG",
+    "location": [
+      22.6311428516372,
+      120.29597092943
     ],
     "country": "EN"
   },
@@ -8073,15 +8073,6 @@
     "country": "EN"
   },
   {
-    "name": "THE SPRING BINTULU(SARAWAK)",
-    "address": "Lot F53,1st Floor,The Spring Bintulu,97000 Bintulu,Sarawak",
-    "location": [
-      3.1811596,
-      113.034922
-    ],
-    "country": "EN"
-  },
-  {
     "name": "MIRI CENTER POINT",
     "address": "Lv3, Boulevard Shopping Mall,Lot 2528, Blvd Commercial Centre",
     "location": [
@@ -8280,6 +8271,15 @@
     "country": "EN"
   },
   {
+    "name": "METRO GAME CENTER",
+    "address": "5-205, 2100, Dalgubeol-daero, Jung-gu, Daegu",
+    "location": [
+      35.8646637,
+      128.5979695
+    ],
+    "country": "EN"
+  },
+  {
     "name": "ROYAL GAME",
     "address": "454-1, Jungang-daero, Jung-gu, Daegu",
     "location": [
@@ -8451,6 +8451,15 @@
     "country": "EN"
   },
   {
+    "name": "CPCM LIPPO MALL NUSANTARA",
+    "address": "Jl. Jend. Sudirman Kav. 50, Karet Semanggi, Setiabudi",
+    "location": [
+      -6.2201667,
+      106.8143752
+    ],
+    "country": "EN"
+  },
+  {
     "name": "PIK 1 KITA",
     "address": "Kawasan Pantai Kita, Jl. Ebony 2, Jkt Utara",
     "location": [
@@ -8465,6 +8474,15 @@
     "location": [
       -6.22707494088065,
       106.607045025934
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "CPCM INDONESIA DESIGN DISTRICT",
+    "address": "Jalan M.H. Thamrin., SalembaranJaya, Kosambi,15214",
+    "location": [
+      -6.0676077,
+      106.6967904
     ],
     "country": "EN"
   },
