@@ -2025,20 +2025,20 @@
     "country": "JP"
   },
   {
-    "name": "ゲームシティ川口店",
-    "address": "埼玉県川口市栄町1-10-5",
-    "location": [
-      35.8025278,
-      139.7256101
-    ],
-    "country": "JP"
-  },
-  {
     "name": "シルクハット川口",
     "address": "埼玉県川口市栄町３−１−１６イート川口ビル４Ｆ",
     "location": [
       35.8030674709039,
       139.717445211639
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ゲームシティ川口店",
+    "address": "埼玉県川口市栄町1-10-5",
+    "location": [
+      35.8025278,
+      139.7256101
     ],
     "country": "JP"
   },
@@ -2061,20 +2061,20 @@
     "country": "JP"
   },
   {
-    "name": "タイトーステーション 所沢店",
-    "address": "埼玉県所沢市日吉町３−７",
-    "location": [
-      35.7880928,
-      139.4723684
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ＧｉＧＯ所沢",
     "address": "埼玉県所沢市日吉町８−１",
     "location": [
       35.788476,
       139.471899
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "タイトーステーション 所沢店",
+    "address": "埼玉県所沢市日吉町３−７",
+    "location": [
+      35.7880928,
+      139.4723684
     ],
     "country": "JP"
   },
@@ -2133,15 +2133,6 @@
     "country": "JP"
   },
   {
-    "name": "テクモピア川越店",
-    "address": "埼玉県川越市脇田町４ー２ドンキホーテ川越東口店３Ｆ",
-    "location": [
-      35.9090606,
-      139.4829145
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ＧｉＧＯアトレ川越",
     "address": "埼玉県川越市脇田町１０５番地１Ｆ",
     "location": [
@@ -2151,11 +2142,38 @@
     "country": "JP"
   },
   {
+    "name": "テクモピア川越店",
+    "address": "埼玉県川越市脇田町４ー２ドンキホーテ川越東口店３Ｆ",
+    "location": [
+      35.9090606,
+      139.4829145
+    ],
+    "country": "JP"
+  },
+  {
     "name": "アピナ川越店",
     "address": "埼玉県川越市泉町１−１　ウニクス南古谷シネマ棟１Ｆ",
     "location": [
       35.9038204147057,
       139.515334593918
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "タイトーＦステーションＡＳ大宮西口駅前店",
+    "address": "埼玉県さいたま市大宮区桜木町２‐３　イオンスタイル大宮西７Ｆ",
+    "location": [
+      35.9068898,
+      139.6217932
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "タイトーステーション 大宮店",
+    "address": "埼玉県さいたま市大宮区大門町１−１",
+    "location": [
+      35.9074466762351,
+      139.625597394477
     ],
     "country": "JP"
   },
@@ -2183,24 +2201,6 @@
     "location": [
       35.9079906,
       139.6245492
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "タイトーＦステーションＡＳ大宮西口駅前店",
-    "address": "埼玉県さいたま市大宮区桜木町２‐３　イオンスタイル大宮西７Ｆ",
-    "location": [
-      35.9068898,
-      139.6217932
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "タイトーステーション 大宮店",
-    "address": "埼玉県さいたま市大宮区大門町１−１",
-    "location": [
-      35.9074466762351,
-      139.625597394477
     ],
     "country": "JP"
   },
@@ -2394,20 +2394,20 @@
     "country": "JP"
   },
   {
-    "name": "ｎａｍｃｏ熊谷店",
-    "address": "埼玉県熊谷市銀座２ー９７ＣＡＲＰＡ１階",
-    "location": [
-      36.1391162,
-      139.3949055
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ＳＯＹＵＧａｍｅＦｅｉｌｄ熊谷",
     "address": "埼玉県熊谷市銀座2-245ﾆｯﾄﾓｰﾙ4F",
     "location": [
       36.1387884,
       139.3937695
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ｎａｍｃｏ熊谷店",
+    "address": "埼玉県熊谷市銀座２ー９７ＣＡＲＰＡ１階",
+    "location": [
+      36.1391162,
+      139.3949055
     ],
     "country": "JP"
   },
@@ -2579,15 +2579,6 @@
     "location": [
       36.0994301,
       139.473297
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "プリモピア鴻巣店",
-    "address": "埼玉県鴻巣市北新宿２２５−１ウニクス鴻巣１階",
-    "location": [
-      36.1122808,
-      139.4400077
     ],
     "country": "JP"
   },
@@ -5562,8 +5553,8 @@
     "country": "JP"
   },
   {
-    "name": "モーリーファンタジーf 新瑞橋",
-    "address": "愛知県名古屋市南区菊住１丁目７−１０　イオンモール新瑞橋店３Ｆ",
+    "name": "モーリーファンタジー新瑞橋",
+    "address": "愛知県名古屋市南区菊住１丁目７ー１０イオンモール新瑞橋店３階",
     "location": [
       35.1147088,
       136.93525
@@ -6948,20 +6939,20 @@
     "country": "JP"
   },
   {
-    "name": "遊スペース マジカル",
-    "address": "兵庫県神戸市中央区琴ノ緒町５−２−３",
-    "location": [
-      34.6955046,
-      135.1950389
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ＧｉＧＯ神戸ｕｍｉｅモザイク",
     "address": "兵庫県神戸市中央区東川崎町１ー６ー１神戸モザイク３Ｆ",
     "location": [
       34.6799071,
       135.1844019
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "遊スペース マジカル",
+    "address": "兵庫県神戸市中央区琴ノ緒町５−２−３",
+    "location": [
+      34.6955046,
+      135.1950389
     ],
     "country": "JP"
   },
@@ -7137,6 +7128,15 @@
     "country": "JP"
   },
   {
+    "name": "遊スペース　スプラ",
+    "address": "兵庫県加古川市尾上町安田３５１−１",
+    "location": [
+      34.7456374,
+      134.8356588
+    ],
+    "country": "JP"
+  },
+  {
     "name": "ラウンドワン加古川店",
     "address": "兵庫県加古川市尾上町安田325番6号",
     "location": [
@@ -7155,15 +7155,6 @@
     "country": "JP"
   },
   {
-    "name": "遊スペース　スプラ",
-    "address": "兵庫県加古川市尾上町安田３５１−１",
-    "location": [
-      34.7456374,
-      134.8356588
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ラウンドワン伊丹店",
     "address": "兵庫県伊丹市昆陽７丁目２９",
     "location": [
@@ -7178,15 +7169,6 @@
     "location": [
       34.7813648034123,
       135.423938236523
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "ハローズガーデン新三田",
-    "address": "兵庫県三田市けやき台１‐６‐２イオン三田２番街",
-    "location": [
-      34.9081575,
-      135.1861575
     ],
     "country": "JP"
   },
@@ -11268,20 +11250,11 @@
     "country": "EN"
   },
   {
-    "name": "METRO GAME CENTER",
-    "address": "5-205, 2100, Dalgubeol-daero, Jung-gu, Daegu",
+    "name": "NOLJA GAME",
+    "address": "2F, 18, Jungang-daero 81-gil, Jung-gu, Daegu",
     "location": [
-      35.8646637,
-      128.5979695
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "ZZANG GAME DAEGU DONGSUNG-RO",
-    "address": "35-1, Dongseong-ro, Jung-gu, Daegu",
-    "location": [
-      35.8700487,
-      128.5955018
+      35.8698745,
+      128.5926402
     ],
     "country": "EN"
   },
@@ -11295,11 +11268,11 @@
     "country": "EN"
   },
   {
-    "name": "NOLJA GAME",
-    "address": "2F, 18, Jungang-daero 81-gil, Jung-gu, Daegu",
+    "name": "ZZANG GAME DAEGU DONGSUNG-RO",
+    "address": "35-1, Dongseong-ro, Jung-gu, Daegu",
     "location": [
-      35.8698745,
-      128.5926402
+      35.8700487,
+      128.5955018
     ],
     "country": "EN"
   },
@@ -12078,6 +12051,15 @@
     "country": "EN"
   },
   {
+    "name": "CLAW PLANET",
+    "address": "563 boul des laurentides , laval quebec h7g2v3 canada",
+    "location": [
+      0.0,
+      0.0
+    ],
+    "country": "EN"
+  },
+  {
     "name": "PLAYDIUM VAUGHAN",
     "address": "1 BASS PRO MILLS DR, CONCORD, ON L4K5W4",
     "location": [
@@ -12218,6 +12200,15 @@
     "location": [
       37.7849544,
       -122.4317274
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "SIZIGI 20TH STREET",
+    "address": "933 20th st san fransisco ca 94107",
+    "location": [
+      0.0,
+      0.0
     ],
     "country": "EN"
   },
@@ -12879,6 +12870,15 @@
     "country": "EN"
   },
   {
+    "name": "DAVE & BUSTER'S MCKINNEY",
+    "address": "4064 WEST UNIVERSITY DRIVE , Mckinney TX 75071",
+    "location": [
+      0.0,
+      0.0
+    ],
+    "country": "EN"
+  },
+  {
     "name": "ROUND1 SOUTH TOWN CENTER",
     "address": "10450 S. State Street, Suite 2405-1, Sandy, UT 84070",
     "location": [
@@ -13122,6 +13122,15 @@
     "country": "EN"
   },
   {
+    "name": "TIMEZONE ROBINSONS MAGNOLIA",
+    "address": "4F RobinsonsMagnolia, Aurora Blvd, Dona Hemady St, New Manila",
+    "location": [
+      0.0,
+      0.0
+    ],
+    "country": "EN"
+  },
+  {
     "name": "TIMEZONE UP TOWN CENTER",
     "address": "2F UP Town Center Phase 2 Katipunan Ave. U.P. Campus, Diliman",
     "location": [
@@ -13158,20 +13167,20 @@
     "country": "EN"
   },
   {
-    "name": "QUANTUM UPTOWN MALL BGC",
-    "address": "Uptown Mall,9th Ave cor36th St,Fort Bonifacio,Taguig,MetroManila",
-    "location": [
-      14.5565479,
-      121.054103
-    ],
-    "country": "EN"
-  },
-  {
     "name": "Q POWER STATION-PARKTRIANGLE MALL-BGC",
     "address": "4F Park Triangle Mall, Fort Bonifacio Global City, Taguig, 1634",
     "location": [
       0.0,
       0.0
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "QUANTUM UPTOWN MALL BGC",
+    "address": "Uptown Mall,9th Ave cor36th St,Fort Bonifacio,Taguig,MetroManila",
+    "location": [
+      14.5565479,
+      121.054103
     ],
     "country": "EN"
   },
@@ -13196,6 +13205,15 @@
   {
     "name": "TIMEZONE MANILA BAY",
     "address": "3rd Floor Ayala Malls Manila Bay, Macapagal Blvd., Brgy. Tambo,",
+    "location": [
+      0.0,
+      0.0
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "TIMEZONE SM MALL OF ASIA",
+    "address": "3rd Level SM Mall of Asia Bldg., J.W Diokno Blvd., Barangay 76",
     "location": [
       0.0,
       0.0
@@ -13361,6 +13379,15 @@
     "location": [
       20.9520601,
       105.9751024
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "TIMEZONE AEON MALL THANH KHE",
+    "address": "Dien Bien Phu, Thanh Khe District, Da Nang city ,Viet Nam",
+    "location": [
+      0.0,
+      0.0
     ],
     "country": "EN"
   },
@@ -13554,20 +13581,20 @@
     "country": "EN"
   },
   {
-    "name": "TIMEZONE CRESCENT MALL",
-    "address": "5F Crescent Mall,101 Ton Dat Tien street, Tan Phu Ward,District7",
-    "location": [
-      10.7285352,
-      106.7187468
-    ],
-    "country": "EN"
-  },
-  {
     "name": "TIMEZONE PARC MALL",
     "address": "195 Cao Lo, District 8, Ho Chi Minh",
     "location": [
       10.7386235,
       106.6789521
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "TIMEZONE CRESCENT MALL",
+    "address": "5F Crescent Mall,101 Ton Dat Tien street, Tan Phu Ward,District7",
+    "location": [
+      10.7285352,
+      106.7187468
     ],
     "country": "EN"
   },
