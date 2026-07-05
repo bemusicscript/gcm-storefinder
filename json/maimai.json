@@ -135,20 +135,20 @@
     "country": "JP"
   },
   {
-    "name": "アドアーズ札幌北４２条",
-    "address": "北海道札幌市東区北４２条東７−１−１　嶋ビル２階",
-    "location": [
-      43.1119642935805,
-      141.355160212303
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ソユーゲームフィールド苗穂店",
     "address": "北海道札幌市東区東苗穂2条3-1-1　イオンモール札幌苗穂２Ｆ",
     "location": [
       43.0798364181968,
       141.403812261377
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "アドアーズ札幌北４２条",
+    "address": "北海道札幌市東区北４２条東７−１−１　嶋ビル２階",
+    "location": [
+      43.1119642935805,
+      141.355160212303
     ],
     "country": "JP"
   },
@@ -333,20 +333,20 @@
     "country": "JP"
   },
   {
-    "name": "ＭＥＧＡＧＥＴ釧路",
-    "address": "北海道釧路郡釧路町木場２丁目１ー１",
-    "location": [
-      43.0089189731705,
-      144.408003524606
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ＰＡＬＯ釧路",
     "address": "北海道釧路郡釧路町桂木１−１−７　イオン釧路店２F",
     "location": [
       43.0090999,
       144.4047521
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ＭＥＧＡＧＥＴ釧路",
+    "address": "北海道釧路郡釧路町木場２丁目１ー１",
+    "location": [
+      43.0089189731705,
+      144.408003524606
     ],
     "country": "JP"
   },
@@ -374,15 +374,6 @@
     "location": [
       42.3535263524972,
       141.014541967459
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "ＧｉＧＯ函館昭和",
-    "address": "北海道函館市昭和３丁目２４−１８ゲオ函館昭和店１階",
-    "location": [
-      41.8192328,
-      140.7345439
     ],
     "country": "JP"
   },
@@ -1715,15 +1706,6 @@
     "location": [
       36.5406864,
       139.8868934
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "テクモピアパルテロン宇都宮店",
-    "address": "栃木県宇都宮市今泉町２３７福田屋ＳＰ宇都宮２Ｆ",
-    "location": [
-      36.5742740153332,
-      139.900565263229
     ],
     "country": "JP"
   },
@@ -3159,6 +3141,15 @@
     "country": "JP"
   },
   {
+    "name": "ラウンドワン池袋店",
+    "address": "東京都豊島区東池袋１−１４−１",
+    "location": [
+      35.7301352452916,
+      139.715204892031
+    ],
+    "country": "JP"
+  },
+  {
     "name": "東京レジャーランド池袋店",
     "address": "東京都豊島区東池袋１−２９−１サントロペ池袋２階３階",
     "location": [
@@ -3173,15 +3164,6 @@
     "location": [
       35.7296795,
       139.7157691
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "ラウンドワン池袋店",
-    "address": "東京都豊島区東池袋１−１４−１",
-    "location": [
-      35.7301352452916,
-      139.715204892031
     ],
     "country": "JP"
   },
@@ -3213,38 +3195,11 @@
     "country": "JP"
   },
   {
-    "name": "シルクハット秋葉原",
-    "address": "東京都千代田区外神田１丁目１０番地９号",
+    "name": "タイトーステーション 秋葉原店",
+    "address": "東京都千代田区外神田４−２−２貴三ビル",
     "location": [
-      35.698716,
-      139.7710022
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "ｎａｍｃｏ秋葉原店",
-    "address": "東京都千代田区外神田１丁目１５番９号",
-    "location": [
-      35.6980094,
-      139.7724164
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "ゲームパニック秋葉原",
-    "address": "東京都千代田区外神田1-13-1　Akihabara ex",
-    "location": [
-      35.6988516,
-      139.7716001
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "ＧｉＧＯ秋葉原３号館",
-    "address": "東京都千代田区外神田１‐１１‐１１外神田１丁目ビルディング",
-    "location": [
-      35.6992572709625,
-      139.770903803319
+      35.7002219283158,
+      139.771717850315
     ],
     "country": "JP"
   },
@@ -3258,20 +3213,38 @@
     "country": "JP"
   },
   {
-    "name": "タイトーステーション 秋葉原店",
-    "address": "東京都千代田区外神田４−２−２貴三ビル",
+    "name": "ＧｉＧＯ秋葉原３号館",
+    "address": "東京都千代田区外神田１‐１１‐１１外神田１丁目ビルディング",
     "location": [
-      35.7002219283158,
-      139.771717850315
+      35.6992572709625,
+      139.770903803319
     ],
     "country": "JP"
   },
   {
-    "name": "タイトーステーション 渋谷店",
-    "address": "東京都渋谷区渋谷１−２４−１２渋谷東映プラザ",
+    "name": "ゲームパニック秋葉原",
+    "address": "東京都千代田区外神田1-13-1　Akihabara ex",
     "location": [
-      35.6598520400219,
-      139.701992837434
+      35.6988516,
+      139.7716001
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ｎａｍｃｏ秋葉原店",
+    "address": "東京都千代田区外神田１丁目１５番９号",
+    "location": [
+      35.6980094,
+      139.7724164
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "シルクハット秋葉原",
+    "address": "東京都千代田区外神田１丁目１０番地９号",
+    "location": [
+      35.698716,
+      139.7710022
     ],
     "country": "JP"
   },
@@ -3281,6 +3254,15 @@
     "location": [
       35.6600164,
       139.7025897
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "タイトーステーション 渋谷店",
+    "address": "東京都渋谷区渋谷１−２４−１２渋谷東映プラザ",
+    "location": [
+      35.6598520400219,
+      139.701992837434
     ],
     "country": "JP"
   },
@@ -3312,20 +3294,20 @@
     "country": "JP"
   },
   {
-    "name": "タイトー新宿南口ゲームワールド店",
-    "address": "東京都新宿区新宿３−３５−８",
-    "location": [
-      35.6898659632407,
-      139.702254238029
-    ],
-    "country": "JP"
-  },
-  {
     "name": "新宿スポーツランド本館",
     "address": "東京都新宿区新宿3-22-12",
     "location": [
       35.6931259664747,
       139.701829483432
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "タイトー新宿南口ゲームワールド店",
+    "address": "東京都新宿区新宿３−３５−８",
+    "location": [
+      35.6898659632407,
+      139.702254238029
     ],
     "country": "JP"
   },
@@ -3344,6 +3326,15 @@
     "location": [
       35.6958088,
       139.7015128
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "タイトーステーション新宿歌舞伎町店",
+    "address": "東京都新宿区歌舞伎町１の２３の１",
+    "location": [
+      0.0,
+      0.0
     ],
     "country": "JP"
   },
@@ -3510,20 +3501,20 @@
     "country": "JP"
   },
   {
-    "name": "ＧｉＧＯ調布",
-    "address": "東京都調布市布田４丁目２ー４",
-    "location": [
-      35.6509849,
-      139.5442311
-    ],
-    "country": "JP"
-  },
-  {
     "name": "アミューズランドモナコ調布駅前店",
     "address": "東京都調布市布田４−２−２２",
     "location": [
       35.6512163258339,
       139.544351735582
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ＧｉＧＯ調布",
+    "address": "東京都調布市布田４丁目２ー４",
+    "location": [
+      35.6509849,
+      139.5442311
     ],
     "country": "JP"
   },
@@ -3654,20 +3645,20 @@
     "country": "JP"
   },
   {
-    "name": "ラウンドワン町田ジョルナ店",
-    "address": "東京都町田市原町田六丁目６番１４号　町田ジョルナ３階フロア",
-    "location": [
-      35.5422264,
-      139.4471637
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ＧｉＧＯ町田",
     "address": "東京都町田市原町田６−１３ー１７アーバンミサワビルＢ１",
     "location": [
       35.5438675,
       139.4469818
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ラウンドワン町田ジョルナ店",
+    "address": "東京都町田市原町田六丁目６番１４号　町田ジョルナ３階フロア",
+    "location": [
+      35.5422264,
+      139.4471637
     ],
     "country": "JP"
   },
@@ -3762,20 +3753,20 @@
     "country": "JP"
   },
   {
-    "name": "アピナ成増店",
-    "address": "東京都板橋区成増二丁目２１番２号　メガドンキホーテ成増店５階",
-    "location": [
-      35.7781263,
-      139.6304404
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ＧｉＧＯ成増",
     "address": "東京都板橋区成増２ー１７ー２４五曠第６ビル",
     "location": [
       35.7774582,
       139.6312607
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "アピナ成増店",
+    "address": "東京都板橋区成増二丁目２１番２号　メガドンキホーテ成増店５階",
+    "location": [
+      35.7781263,
+      139.6304404
     ],
     "country": "JP"
   },
@@ -3902,15 +3893,6 @@
     "location": [
       35.703598,
       139.5787046
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "プラサカプコン吉祥寺店",
-    "address": "東京都武蔵野市吉祥寺本町１−１０−１いなりやビル地下１階",
-    "location": [
-      35.705361,
-      139.5790984
     ],
     "country": "JP"
   },
@@ -5256,15 +5238,6 @@
     "country": "JP"
   },
   {
-    "name": "アミューズメントパーク静岡店",
-    "address": "静岡県静岡市葵区柚木１０２６番地３階",
-    "location": [
-      34.9844378302527,
-      138.4104108825
-    ],
-    "country": "JP"
-  },
-  {
     "name": "アップル新北街道店",
     "address": "静岡県静岡市葵区沓谷5-13-4",
     "location": [
@@ -5274,11 +5247,20 @@
     "country": "JP"
   },
   {
-    "name": "プラサカプコン志都呂店",
-    "address": "静岡県浜松市中央区志都呂２丁目３７番１号",
+    "name": "アミューズメントパーク静岡店",
+    "address": "静岡県静岡市葵区柚木１０２６番地３階",
     "location": [
-      34.6966884038722,
-      137.650923244427
+      34.9844378302527,
+      138.4104108825
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ポート２４浜松店",
+    "address": "静岡県浜松市中央区坪井町4183-1",
+    "location": [
+      34.680146688872,
+      137.644358107149
     ],
     "country": "JP"
   },
@@ -5292,20 +5274,11 @@
     "country": "JP"
   },
   {
-    "name": "ラウンドワン浜松店",
-    "address": "静岡県浜松市中央区天王町諏訪１９８１−１７",
+    "name": "アピナ浜松店",
+    "address": "静岡県浜松市中央区葵西２−２７−１０",
     "location": [
-      34.737903590641,
-      137.764171604721
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "サープラＯＺ浜松あそびタウン",
-    "address": "静岡県浜松市中央区宮竹町３２２−１",
-    "location": [
-      34.7222912443228,
-      137.76549036611
+      34.7674101365686,
+      137.708184774955
     ],
     "country": "JP"
   },
@@ -5319,20 +5292,29 @@
     "country": "JP"
   },
   {
-    "name": "アピナ浜松店",
-    "address": "静岡県浜松市中央区葵西２−２７−１０",
+    "name": "プラサカプコン志都呂店",
+    "address": "静岡県浜松市中央区志都呂２丁目３７番１号",
     "location": [
-      34.7674101365686,
-      137.708184774955
+      34.6966884038722,
+      137.650923244427
     ],
     "country": "JP"
   },
   {
-    "name": "ポート２４浜松店",
-    "address": "静岡県浜松市中央区坪井町4183-1",
+    "name": "サープラＯＺ浜松あそびタウン",
+    "address": "静岡県浜松市中央区宮竹町３２２−１",
     "location": [
-      34.680146688872,
-      137.644358107149
+      34.7222912443228,
+      137.76549036611
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ラウンドワン浜松店",
+    "address": "静岡県浜松市中央区天王町諏訪１９８１−１７",
+    "location": [
+      34.737903590641,
+      137.764171604721
     ],
     "country": "JP"
   },
@@ -5396,15 +5378,6 @@
     "location": [
       35.2204706,
       138.6119827
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "ＧｉＧＯ袋井",
-    "address": "静岡県袋井市川井１１４２−１",
-    "location": [
-      34.7463375,
-      137.911439
     ],
     "country": "JP"
   },
@@ -5517,8 +5490,8 @@
     "country": "JP"
   },
   {
-    "name": "SOYU BREMEN TOWN 鳴海店",
-    "address": "愛知県名古屋市緑区鳴海町字伝治山3-9　アピタ鳴海店2F",
+    "name": "ソユーゲームフィールド鳴海店",
+    "address": "名古屋市緑区鳴海町字伝治山３番地９　アピタ鳴海店２Ｆ",
     "location": [
       35.0941212637578,
       136.95934499259
@@ -6840,8 +6813,8 @@
     "country": "JP"
   },
   {
-    "name": "ＦｅｅｄｙＡ茨木",
-    "address": "大阪府茨木市松ケ本町８−３０−５　イオンＳＣ４Ｆ",
+    "name": "ＦｅｅｄｙＤｉｎｅｒ＆Ａｒｃａｄｅ茨木",
+    "address": "大阪府茨木市松ケ本町８ー３０ー５　イオンＳＣ４Ｆ",
     "location": [
       34.810615223375,
       135.558538461377
@@ -8343,15 +8316,6 @@
     "country": "JP"
   },
   {
-    "name": "遊道楽新合川店",
-    "address": "福岡県久留米市新合川1丁目6-7",
-    "location": [
-      33.3217812,
-      130.5413096
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ふぇすたらんど久留米店",
     "address": "福岡県久留米市野中町1411-1",
     "location": [
@@ -8379,11 +8343,11 @@
     "country": "JP"
   },
   {
-    "name": "Ｇ−ＳＴＡＧＥ小倉",
-    "address": "福岡県北九州市小倉北区浅野2-14-5あるあるCITY2階",
+    "name": "ラウンドワン小倉店",
+    "address": "福岡県北九州市小倉北区西港町15-65",
     "location": [
-      33.8875419,
-      130.8847304
+      33.8975963,
+      130.8598416
     ],
     "country": "JP"
   },
@@ -8397,11 +8361,11 @@
     "country": "JP"
   },
   {
-    "name": "ラウンドワン小倉店",
-    "address": "福岡県北九州市小倉北区西港町15-65",
+    "name": "Ｇ−ＳＴＡＧＥ小倉",
+    "address": "福岡県北九州市小倉北区浅野2-14-5あるあるCITY2階",
     "location": [
-      33.8975963,
-      130.8598416
+      33.8875419,
+      130.8847304
     ],
     "country": "JP"
   },
@@ -11727,6 +11691,15 @@
     "country": "EN"
   },
   {
+    "name": "TIMEZONE SUMMARECON BANDUNG",
+    "address": "Summarecon Bandung,Kec. Gedebage, Kota Bandung, Jawa Barat 40295",
+    "location": [
+      -6.9594492,
+      107.6946987
+    ],
+    "country": "EN"
+  },
+  {
     "name": "FESTIVAL CITYLINK BANDUNG",
     "address": "Jl.Peta, No.241, Suka Asih, Kec.Bojongloa Kaler, Kota Bandung",
     "location": [
@@ -12276,6 +12249,15 @@
     "country": "EN"
   },
   {
+    "name": "ONE MORE EXTRA STAGE",
+    "address": "1313 w El Camino Real , suite A, Mountain View , Ca 94040",
+    "location": [
+      0.0,
+      0.0
+    ],
+    "country": "EN"
+  },
+  {
     "name": "ROUND1 SOUTH WEST PLAZA",
     "address": "8501 West Bowles Ave., Space 1183 Littleton, CO 80123",
     "location": [
@@ -12654,6 +12636,15 @@
     "country": "EN"
   },
   {
+    "name": "GATCHA KTOWN",
+    "address": "313 5TH AVE MANHATTAN , NY 10016",
+    "location": [
+      0.0,
+      0.0
+    ],
+    "country": "EN"
+  },
+  {
     "name": "CLAW CADE",
     "address": "630 OLD COUNTRY RD GARDEN CITY NY11530",
     "location": [
@@ -13014,20 +13005,20 @@
     "country": "EN"
   },
   {
-    "name": "Q POWER STATION SHANGRILA",
-    "address": "EASTWING EDSA CORNER SHAW BOULEVARD, MANDALUYONG CITY",
-    "location": [
-      14.5812818,
-      121.0538687
-    ],
-    "country": "EN"
-  },
-  {
     "name": "CLUB SYNERGY SM MEGAMALL",
     "address": "LGF SM MEGAMALL, JULIA VARGAS COR EDSA, MANDALUYONG CITY",
     "location": [
       14.5851052,
       121.0569621
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "Q POWER STATION SHANGRILA",
+    "address": "EASTWING EDSA CORNER SHAW BOULEVARD, MANDALUYONG CITY",
+    "location": [
+      14.5812818,
+      121.0538687
     ],
     "country": "EN"
   },
@@ -13122,8 +13113,8 @@
     "country": "EN"
   },
   {
-    "name": "TIMEZONE ROBINSONS MAGNOLIA",
-    "address": "4F RobinsonsMagnolia, Aurora Blvd, Dona Hemady St, New Manila",
+    "name": "TIMEZONE TIMEZONE GATEWAY",
+    "address": "L3 GatewayMall 2 General Araneta Av, Araneta City, Brgy. Socorro",
     "location": [
       0.0,
       0.0
@@ -13136,6 +13127,15 @@
     "location": [
       14.6507347,
       121.0746778
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "TIMEZONE ROBINSONS MAGNOLIA",
+    "address": "4F RobinsonsMagnolia, Aurora Blvd, Dona Hemady St, New Manila",
+    "location": [
+      0.0,
+      0.0
     ],
     "country": "EN"
   },
@@ -13154,6 +13154,15 @@
     "location": [
       14.5511369,
       121.0264665
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "TIMEZONE GREENHILLS MALL",
+    "address": "Greenhills Mall Phase 1Greenhills Center,Greenhills,SanJuan City",
+    "location": [
+      14.6013406,
+      121.048813
     ],
     "country": "EN"
   },
@@ -13214,6 +13223,15 @@
   {
     "name": "TIMEZONE SM MALL OF ASIA",
     "address": "3rd Level SM Mall of Asia Bldg., J.W Diokno Blvd., Barangay 76",
+    "location": [
+      0.0,
+      0.0
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "TIMEZONE AYALA MALLS VERMOSA",
+    "address": "2F Ayala Malls Vermosa, Daang Hari Road Cor. Vermosa Blvd",
     "location": [
       0.0,
       0.0
@@ -13739,15 +13757,6 @@
     "location": [
       -33.9669703,
       151.1032215
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "FUNLAND BANKSTOWN CENTRAL",
-    "address": "MM022 Bankstown Central SC,North Terrace, Bankstown, NSW, 2200",
-    "location": [
-      -33.9164071,
-      151.0383754
     ],
     "country": "EN"
   },
