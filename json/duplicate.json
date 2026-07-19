@@ -2781,20 +2781,20 @@
     "country": "JP"
   },
   {
-    "name": "ＧｉＧＯ町田",
-    "address": "東京都町田市原町田６−１３ー１７アーバンミサワビルＢ１",
-    "location": [
-      35.5438675,
-      139.4469818
-    ],
-    "country": "JP"
-  },
-  {
     "name": "タイトーステーション 町田店",
     "address": "東京都町田市原町田６−２１−２３　松山ビル１階",
     "location": [
       35.5427132441421,
       139.448486052779
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ＧｉＧＯ町田",
+    "address": "東京都町田市原町田６−１３ー１７アーバンミサワビルＢ１",
+    "location": [
+      35.5438675,
+      139.4469818
     ],
     "country": "JP"
   },
@@ -2921,15 +2921,6 @@
     "location": [
       35.7003101052259,
       139.81526531157
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "アドアーズ新小岩",
-    "address": "東京都葛飾区新小岩１−４４−４　ＶＯＲＴ新小岩ビル",
-    "location": [
-      35.7162968339796,
-      139.85822635582
     ],
     "country": "JP"
   },
@@ -3537,20 +3528,20 @@
     "country": "JP"
   },
   {
+    "name": "ＦｅｅｄｙＡｒｃａｄｅ新潟亀田インター",
+    "address": "新潟県新潟市江南区下早通柳田１ー１ー１　イオンモール２階",
+    "location": [
+      37.8760671,
+      139.0812391
+    ],
+    "country": "JP"
+  },
+  {
     "name": "ＧｉＧＯイオンモール新発田",
     "address": "新潟県新発田市住吉町５‐１１‐５イオンモール新発田店２Ｆ",
     "location": [
       37.942552,
       139.3088201
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "ＨａｐｉｐｉＬａｎｄ十日町",
-    "address": "新潟県十日町市丑７３５−１",
-    "location": [
-      37.1362487,
-      138.7456428
     ],
     "country": "JP"
   },
@@ -7992,20 +7983,20 @@
     "country": "EN"
   },
   {
-    "name": "MOLLY FANTASY SETIA CITY MALL",
-    "address": "Bandar Setia Alam,Seksyen U13,40170 Shah Alam",
-    "location": [
-      3.0946288,
-      101.4455208
-    ],
-    "country": "EN"
-  },
-  {
     "name": "MOLLY FANTASY SHAH ALAM",
     "address": "13/64,Persiaran Akuatik,Seksyen13,40100 Shah Alam,Selangor",
     "location": [
       3.0725063,
       101.5391023
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "MOLLY FANTASY SETIA CITY MALL",
+    "address": "Bandar Setia Alam,Seksyen U13,40170 Shah Alam",
+    "location": [
+      3.0946288,
+      101.4455208
     ],
     "country": "EN"
   },
@@ -8118,20 +8109,20 @@
     "country": "EN"
   },
   {
-    "name": "PALO TAMAN MALURI",
-    "address": "Lot T-03, Jalan Jejaka, Maluri,55100 Cheras",
-    "location": [
-      3.1275076,
-      101.7322692
-    ],
-    "country": "EN"
-  },
-  {
     "name": "MOLLYFANTASY LALAPORT",
     "address": "2, Jln Hang Tuah, Bukit Bintang, 55100 Kuala Lumpur",
     "location": [
       3.1402822,
       101.7067294
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "PALO TAMAN MALURI",
+    "address": "Lot T-03, Jalan Jejaka, Maluri,55100 Cheras",
+    "location": [
+      3.1275076,
+      101.7322692
     ],
     "country": "EN"
   },
@@ -8406,6 +8397,24 @@
     "country": "EN"
   },
   {
+    "name": "CPCM MALL OF INDONESIA",
+    "address": "Jl.Boulevard Bar.Raya No.12,RT.18/RW.19,Klp.Gading Bar.,Kec.Klp.",
+    "location": [
+      -6.153693,
+      106.893036
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "TIMEZONE MARGO CITY MALL",
+    "address": "MARGO CITY PLASA , JL. MARGONDARAYA NO 358 - DEPOK 16423",
+    "location": [
+      -6.3730937,
+      106.8347512
+    ],
+    "country": "EN"
+  },
+  {
     "name": "TIMEZONE LA PIAZZA",
     "address": "Klp. Gading, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14240",
     "location": [
@@ -8447,15 +8456,6 @@
     "location": [
       -6.22707494088065,
       106.607045025934
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "CPCM INDONESIA DESIGN DISTRICT",
-    "address": "Jalan M.H. Thamrin., SalembaranJaya, Kosambi,15214",
-    "location": [
-      -6.0676077,
-      106.6967904
     ],
     "country": "EN"
   },
@@ -8978,6 +8978,15 @@
     "location": [
       -37.8152725,
       144.9650986
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "TIMEZONE KNOX",
+    "address": "2 Brisbane Ln, Wantirna South Vic 3152",
+    "location": [
+      -37.8699923,
+      145.2437459
     ],
     "country": "EN"
   },

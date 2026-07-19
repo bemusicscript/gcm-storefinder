@@ -1791,15 +1791,6 @@
     "country": "JP"
   },
   {
-    "name": "テクモピアパルテロン宇都宮店",
-    "address": "栃木県宇都宮市今泉町２３７福田屋ＳＰ宇都宮２Ｆ",
-    "location": [
-      36.5742740153332,
-      139.900565263229
-    ],
-    "country": "JP"
-  },
-  {
     "name": "INTER PARK+1宇都宮",
     "address": "栃木県宇都宮市インターパーク６−５−１",
     "location": [
@@ -3312,15 +3303,6 @@
     "country": "JP"
   },
   {
-    "name": "ラウンドワン池袋店",
-    "address": "東京都豊島区東池袋１−１４−１",
-    "location": [
-      35.7301352452916,
-      139.715204892031
-    ],
-    "country": "JP"
-  },
-  {
     "name": "東京レジャーランド池袋店",
     "address": "東京都豊島区東池袋１−２９−１サントロペ池袋２階３階",
     "location": [
@@ -3335,6 +3317,15 @@
     "location": [
       35.7296795,
       139.7157691
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ラウンドワン池袋店",
+    "address": "東京都豊島区東池袋１−１４−１",
+    "location": [
+      35.7301352452916,
+      139.715204892031
     ],
     "country": "JP"
   },
@@ -3357,6 +3348,60 @@
     "country": "JP"
   },
   {
+    "name": "Ｈｅｙ",
+    "address": "東京都千代田区外神田１−１０−５廣瀬本社ビル１階&#12316;４階",
+    "location": [
+      35.6990241237158,
+      139.771063815379
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "シルクハット秋葉原",
+    "address": "東京都千代田区外神田１丁目１０番地９号",
+    "location": [
+      35.698716,
+      139.7710022
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ｎａｍｃｏ秋葉原店",
+    "address": "東京都千代田区外神田１丁目１５番９号",
+    "location": [
+      35.6980094,
+      139.7724164
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ゲームパニック秋葉原",
+    "address": "東京都千代田区外神田1-13-1　Akihabara ex",
+    "location": [
+      35.6988516,
+      139.7716001
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ＧｉＧＯ秋葉原３号館",
+    "address": "東京都千代田区外神田１‐１１‐１１外神田１丁目ビルディング",
+    "location": [
+      35.6992572709625,
+      139.770903803319
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "東京レジャーランド秋葉原2号店",
+    "address": "東京都千代田区外神田4-3-3ミナミビル6F・7F",
+    "location": [
+      35.7008302,
+      139.7718494
+    ],
+    "country": "JP"
+  },
+  {
     "name": "東京レジャーランド秋葉原店",
     "address": "東京都千代田区外神田1-9-5",
     "location": [
@@ -3375,56 +3420,11 @@
     "country": "JP"
   },
   {
-    "name": "東京レジャーランド秋葉原2号店",
-    "address": "東京都千代田区外神田4-3-3ミナミビル6F・7F",
+    "name": "タイトーステーション 渋谷店",
+    "address": "東京都渋谷区渋谷１−２４−１２渋谷東映プラザ",
     "location": [
-      35.7008302,
-      139.7718494
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "ＧｉＧＯ秋葉原３号館",
-    "address": "東京都千代田区外神田１‐１１‐１１外神田１丁目ビルディング",
-    "location": [
-      35.6992572709625,
-      139.770903803319
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "ゲームパニック秋葉原",
-    "address": "東京都千代田区外神田1-13-1　Akihabara ex",
-    "location": [
-      35.6988516,
-      139.7716001
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "ｎａｍｃｏ秋葉原店",
-    "address": "東京都千代田区外神田１丁目１５番９号",
-    "location": [
-      35.6980094,
-      139.7724164
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "シルクハット秋葉原",
-    "address": "東京都千代田区外神田１丁目１０番地９号",
-    "location": [
-      35.698716,
-      139.7710022
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "Ｈｅｙ",
-    "address": "東京都千代田区外神田１−１０−５廣瀬本社ビル１階&#12316;４階",
-    "location": [
-      35.6990241237158,
-      139.771063815379
+      35.6598520400219,
+      139.701992837434
     ],
     "country": "JP"
   },
@@ -3434,15 +3434,6 @@
     "location": [
       35.6600164,
       139.7025897
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "タイトーステーション 渋谷店",
-    "address": "東京都渋谷区渋谷１−２４−１２渋谷東映プラザ",
-    "location": [
-      35.6598520400219,
-      139.701992837434
     ],
     "country": "JP"
   },
@@ -3492,20 +3483,20 @@
     "country": "JP"
   },
   {
-    "name": "ゲームパニック新宿歌舞伎町",
-    "address": "東京都新宿区歌舞伎町1-20-1　ﾋｭｰﾏｯｸｽﾊﾟﾋﾞﾘｵﾝ1階2階",
-    "location": [
-      35.6958088,
-      139.7015128
-    ],
-    "country": "JP"
-  },
-  {
     "name": "タイトーステーション新宿歌舞伎町店",
     "address": "東京都新宿区歌舞伎町１の２３の１",
     "location": [
       0.0,
       0.0
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ゲームパニック新宿歌舞伎町",
+    "address": "東京都新宿区歌舞伎町1-20-1　ﾋｭｰﾏｯｸｽﾊﾟﾋﾞﾘｵﾝ1階2階",
+    "location": [
+      35.6958088,
+      139.7015128
     ],
     "country": "JP"
   },
@@ -3573,20 +3564,20 @@
     "country": "JP"
   },
   {
-    "name": "アドアーズ上野アメ横",
-    "address": "東京都台東区上野４−９−１４上野Ｋ．ＫビルＢ１&#12316;４階",
-    "location": [
-      35.7100380116145,
-      139.774268228224
-    ],
-    "country": "JP"
-  },
-  {
     "name": "タイトーステーション 上野アメ横店",
     "address": "東京都台東区上野４−１０−１７",
     "location": [
       35.7105338482931,
       139.774424171164
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "アドアーズ上野アメ横",
+    "address": "東京都台東区上野４−９−１４上野Ｋ．ＫビルＢ１&#12316;４階",
+    "location": [
+      35.7100380116145,
+      139.774268228224
     ],
     "country": "JP"
   },
@@ -3681,20 +3672,20 @@
     "country": "JP"
   },
   {
-    "name": "アミューズランドモナコ調布駅前店",
-    "address": "東京都調布市布田４−２−２２",
-    "location": [
-      35.6512163258339,
-      139.544351735582
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ＧｉＧＯ調布",
     "address": "東京都調布市布田４丁目２ー４",
     "location": [
       35.6509849,
       139.5442311
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "アミューズランドモナコ調布駅前店",
+    "address": "東京都調布市布田４−２−２２",
+    "location": [
+      35.6512163258339,
+      139.544351735582
     ],
     "country": "JP"
   },
@@ -3816,15 +3807,6 @@
     "country": "JP"
   },
   {
-    "name": "タイトーステーション 町田店",
-    "address": "東京都町田市原町田６−２１−２３　松山ビル１階",
-    "location": [
-      35.5427132441421,
-      139.448486052779
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ＧｉＧＯ町田",
     "address": "東京都町田市原町田６−１３ー１７アーバンミサワビルＢ１",
     "location": [
@@ -3839,6 +3821,15 @@
     "location": [
       35.5422264,
       139.4471637
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "タイトーステーション 町田店",
+    "address": "東京都町田市原町田６−２１−２３　松山ビル１階",
+    "location": [
+      35.5427132441421,
+      139.448486052779
     ],
     "country": "JP"
   },
@@ -3996,15 +3987,6 @@
     "country": "JP"
   },
   {
-    "name": "アドアーズ新小岩",
-    "address": "東京都葛飾区新小岩１−４４−４　ＶＯＲＴ新小岩ビル",
-    "location": [
-      35.7162968339796,
-      139.85822635582
-    ],
-    "country": "JP"
-  },
-  {
     "name": "東京レジャーランド亀有店",
     "address": "東京都葛飾区亀有3-21-2",
     "location": [
@@ -4050,6 +4032,15 @@
     "country": "JP"
   },
   {
+    "name": "ラウンドワン吉祥寺店",
+    "address": "東京都武蔵野市吉祥寺本町1-11-22",
+    "location": [
+      35.7063019987024,
+      139.580779910555
+    ],
+    "country": "JP"
+  },
+  {
     "name": "東京レジャーランド吉祥寺店",
     "address": "東京都武蔵野市吉祥寺本町1-3-7　YSビル地下１階&#12316;4階",
     "location": [
@@ -4064,15 +4055,6 @@
     "location": [
       35.705361,
       139.5790984
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "ラウンドワン吉祥寺店",
-    "address": "東京都武蔵野市吉祥寺本町1-11-22",
-    "location": [
-      35.7063019987024,
-      139.580779910555
     ],
     "country": "JP"
   },
@@ -4770,6 +4752,15 @@
     "country": "JP"
   },
   {
+    "name": "ＦｅｅｄｙＡｒｃａｄｅ新潟亀田インター",
+    "address": "新潟県新潟市江南区下早通柳田１ー１ー１　イオンモール２階",
+    "location": [
+      37.8760671,
+      139.0812391
+    ],
+    "country": "JP"
+  },
+  {
     "name": "ＧｉＧＯイオンモール新発田",
     "address": "新潟県新発田市住吉町５‐１１‐５イオンモール新発田店２Ｆ",
     "location": [
@@ -4779,11 +4770,11 @@
     "country": "JP"
   },
   {
-    "name": "ＨａｐｉｐｉＬａｎｄ十日町",
-    "address": "新潟県十日町市丑７３５−１",
+    "name": "アピナ上越インター店",
+    "address": "新潟県上越市富岡３４３９",
     "location": [
-      37.1362487,
-      138.7456428
+      37.1542725,
+      138.2556584
     ],
     "country": "JP"
   },
@@ -4793,15 +4784,6 @@
     "location": [
       37.1641021026108,
       138.248978351669
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "アピナ上越インター店",
-    "address": "新潟県上越市富岡３４３９",
-    "location": [
-      37.1542725,
-      138.2556584
     ],
     "country": "JP"
   },
@@ -7101,11 +7083,11 @@
     "country": "JP"
   },
   {
-    "name": "ＧｉＧＯラパーク岸和田",
-    "address": "大阪府岸和田市春木若松町２１−１ラパーク岸和田店２階",
+    "name": "SOYU GAME FIELD堺鉄砲町店",
+    "address": "大阪府堺市堺区鉄砲町1番地イオンモール堺鉄砲町3F",
     "location": [
-      34.4788881,
-      135.392338
+      34.5940463394543,
+      135.481208639426
     ],
     "country": "JP"
   },
@@ -7115,15 +7097,6 @@
     "location": [
       34.5834551,
       135.4684377
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "SOYU GAME FIELD堺鉄砲町店",
-    "address": "大阪府堺市堺区鉄砲町1番地イオンモール堺鉄砲町3F",
-    "location": [
-      34.5940463394543,
-      135.481208639426
     ],
     "country": "JP"
   },
@@ -8276,6 +8249,15 @@
     "location": [
       34.0302255,
       131.0129312
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "アミパラ下関長府店",
+    "address": "山口県下関市長府才川１ー４２ー４８",
+    "location": [
+      34.0254116965609,
+      131.00750228345
     ],
     "country": "JP"
   },
@@ -10152,7 +10134,7 @@
     "country": "EN"
   },
   {
-    "name": "GIGO LALAPORT TAICHUNG",
+    "name": "GiGO LaLaport Taichung",
     "address": "3F., No.700, Jinde Rd., East Dist., Taichung City 401004",
     "location": [
       24.1339393,
@@ -11214,6 +11196,24 @@
     "country": "EN"
   },
   {
+    "name": "CPCM MALL OF INDONESIA",
+    "address": "Jl.Boulevard Bar.Raya No.12,RT.18/RW.19,Klp.Gading Bar.,Kec.Klp.",
+    "location": [
+      -6.153693,
+      106.893036
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "TIMEZONE MARGO CITY MALL",
+    "address": "MARGO CITY PLASA , JL. MARGONDARAYA NO 358 - DEPOK 16423",
+    "location": [
+      -6.3730937,
+      106.8347512
+    ],
+    "country": "EN"
+  },
+  {
     "name": "TIMEZONE LA PIAZZA",
     "address": "Klp. Gading, Kota Jkt Utara, Daerah Khusus Ibukota Jakarta 14240",
     "location": [
@@ -11228,15 +11228,6 @@
     "location": [
       -6.1147451,
       106.7986648
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "TIMEZONE BATAVIA PIK",
-    "address": "Batavia Riverwalk Island-PIK",
-    "location": [
-      41.8500284,
-      -88.3125738
     ],
     "country": "EN"
   },
@@ -11277,20 +11268,20 @@
     "country": "EN"
   },
   {
+    "name": "CPCM PIK2 (PANTAI INDAH KAPUK)",
+    "address": "Entertainment District PIK 2, Blok A6, Jl. Rasuna Said, PIK 2,",
+    "location": [
+      0.0,
+      0.0
+    ],
+    "country": "EN"
+  },
+  {
     "name": "TIMEZONE SUPERMALL KARAWACI",
     "address": "L.S.KARAWACI LT.DASAR,105BULEVAR00-00LIPPO KARAWACI1200TANGERANG",
     "location": [
       -6.22707494088065,
       106.607045025934
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "CPCM INDONESIA DESIGN DISTRICT",
-    "address": "Jalan M.H. Thamrin., SalembaranJaya, Kosambi,15214",
-    "location": [
-      -6.0676077,
-      106.6967904
     ],
     "country": "EN"
   },
@@ -11835,20 +11826,20 @@
     "country": "EN"
   },
   {
-    "name": "TIMEZONE EPPING",
-    "address": "Pacific Epping,571-583 High St,Epping VIC 3077,Australia",
-    "location": [
-      -37.6536169,
-      145.0183772
-    ],
-    "country": "EN"
-  },
-  {
     "name": "TIMEZONE BRAYBROOK",
     "address": "Central West Shopping Centre 67Ashley St,Braybrook VIC",
     "location": [
       -33.8632365,
       151.0889051
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "TIMEZONE KNOX",
+    "address": "2 Brisbane Ln, Wantirna South Vic 3152",
+    "location": [
+      -37.8699923,
+      145.2437459
     ],
     "country": "EN"
   },

@@ -1719,15 +1719,6 @@
     "country": "JP"
   },
   {
-    "name": "テクモピアパルテロン宇都宮店",
-    "address": "栃木県宇都宮市今泉町２３７福田屋ＳＰ宇都宮２Ｆ",
-    "location": [
-      36.5742740153332,
-      139.900565263229
-    ],
-    "country": "JP"
-  },
-  {
     "name": "INTER PARK+1宇都宮",
     "address": "栃木県宇都宮市インターパーク６−５−１",
     "location": [
@@ -3474,20 +3465,20 @@
     "country": "JP"
   },
   {
-    "name": "キャッツアイ西葛西店",
-    "address": "東京都江戸川区西葛西４−２−２８",
-    "location": [
-      35.6683244904302,
-      139.86180171468
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ＧｉＧＯ西葛西",
     "address": "東京都江戸川区西葛西５−１−１４第一保志ビル",
     "location": [
       35.6652968451398,
       139.859268782209
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "キャッツアイ西葛西店",
+    "address": "東京都江戸川区西葛西４−２−２８",
+    "location": [
+      35.6683244904302,
+      139.86180171468
     ],
     "country": "JP"
   },
@@ -3672,20 +3663,20 @@
     "country": "JP"
   },
   {
-    "name": "ＧｉＧＯ町田",
-    "address": "東京都町田市原町田６−１３ー１７アーバンミサワビルＢ１",
-    "location": [
-      35.5438675,
-      139.4469818
-    ],
-    "country": "JP"
-  },
-  {
     "name": "タイトーステーション 町田店",
     "address": "東京都町田市原町田６−２１−２３　松山ビル１階",
     "location": [
       35.5427132441421,
       139.448486052779
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ＧｉＧＯ町田",
+    "address": "東京都町田市原町田６−１３ー１７アーバンミサワビルＢ１",
+    "location": [
+      35.5438675,
+      139.4469818
     ],
     "country": "JP"
   },
@@ -3717,20 +3708,20 @@
     "country": "JP"
   },
   {
-    "name": "アドアーズ中野",
-    "address": "東京都中野区中野５−５２−１５　ブロードウェイ１８５",
-    "location": [
-      35.7091923792691,
-      139.665693833066
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ｎａｍｃｏ中野店",
     "address": "東京都中野区中野５ー５２ー１５中野ブロードウェイ別館",
     "location": [
       35.709127585926,
       139.666137068106
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "アドアーズ中野",
+    "address": "東京都中野区中野５−５２−１５　ブロードウェイ１８５",
+    "location": [
+      35.7091923792691,
+      139.665693833066
     ],
     "country": "JP"
   },
@@ -3843,15 +3834,6 @@
     "country": "JP"
   },
   {
-    "name": "アドアーズ新小岩",
-    "address": "東京都葛飾区新小岩１−４４−４　ＶＯＲＴ新小岩ビル",
-    "location": [
-      35.7162968339796,
-      139.85822635582
-    ],
-    "country": "JP"
-  },
-  {
     "name": "東京レジャーランド亀有店",
     "address": "東京都葛飾区亀有3-21-2",
     "location": [
@@ -3897,20 +3879,20 @@
     "country": "JP"
   },
   {
-    "name": "東京レジャーランド吉祥寺店",
-    "address": "東京都武蔵野市吉祥寺本町1-3-7　YSビル地下１階&#12316;4階",
-    "location": [
-      35.703598,
-      139.5787046
-    ],
-    "country": "JP"
-  },
-  {
     "name": "プラサカプコン吉祥寺店",
     "address": "東京都武蔵野市吉祥寺本町１−１０−１いなりやビル地下１階",
     "location": [
       35.705361,
       139.5790984
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "東京レジャーランド吉祥寺店",
+    "address": "東京都武蔵野市吉祥寺本町1-3-7　YSビル地下１階&#12316;4階",
+    "location": [
+      35.703598,
+      139.5787046
     ],
     "country": "JP"
   },
@@ -4572,20 +4554,20 @@
     "country": "JP"
   },
   {
+    "name": "ＦｅｅｄｙＡｒｃａｄｅ新潟亀田インター",
+    "address": "新潟県新潟市江南区下早通柳田１ー１ー１　イオンモール２階",
+    "location": [
+      37.8760671,
+      139.0812391
+    ],
+    "country": "JP"
+  },
+  {
     "name": "ＧｉＧＯイオンモール新発田",
     "address": "新潟県新発田市住吉町５‐１１‐５イオンモール新発田店２Ｆ",
     "location": [
       37.942552,
       139.3088201
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "ＨａｐｉｐｉＬａｎｄ十日町",
-    "address": "新潟県十日町市丑７３５−１",
-    "location": [
-      37.1362487,
-      138.7456428
     ],
     "country": "JP"
   },
@@ -7758,6 +7740,15 @@
     "country": "JP"
   },
   {
+    "name": "アミパラ下関長府店",
+    "address": "山口県下関市長府才川１ー４２ー４８",
+    "location": [
+      34.0254116965609,
+      131.00750228345
+    ],
+    "country": "JP"
+  },
+  {
     "name": "アミパラ下関駅南店",
     "address": "山口県下関市東大和町１丁目３ー１５",
     "location": [
@@ -8433,8 +8424,8 @@
     "country": "JP"
   },
   {
-    "name": "スマイルステーション戸畑店",
-    "address": "福岡県北九州市戸畑区汐井町２−２イオン戸畑３Ｆ",
+    "name": "ＧｉＧＯイオン戸畑ショッピングセンター",
+    "address": "福岡県北九州市戸畑区汐井町２番２号　イオン戸畑３Ｆ",
     "location": [
       33.8959948,
       130.81985
@@ -10566,15 +10557,6 @@
     "country": "EN"
   },
   {
-    "name": "FUN SCAPE@PARADIGM MALL JOHOR BAHRU",
-    "address": "4FPARADIGM MALL,JOHOR BAHRU,LEVEL2,JALAN SKUDAI 81200JOHOR",
-    "location": [
-      1.5103164,
-      103.68819
-    ],
-    "country": "EN"
-  },
-  {
     "name": "PALO MidValley Southkey",
     "address": "Lot S-012, Jalan Bakar Batu, Southkey, 81100 Johor Bahru, Johor.",
     "location": [
@@ -10863,20 +10845,20 @@
     "country": "EN"
   },
   {
-    "name": "MOLLY FANTASY SETIA CITY MALL",
-    "address": "Bandar Setia Alam,Seksyen U13,40170 Shah Alam",
-    "location": [
-      3.0946288,
-      101.4455208
-    ],
-    "country": "EN"
-  },
-  {
     "name": "MOLLY FANTASY SHAH ALAM",
     "address": "13/64,Persiaran Akuatik,Seksyen13,40100 Shah Alam,Selangor",
     "location": [
       3.0725063,
       101.5391023
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "MOLLY FANTASY SETIA CITY MALL",
+    "address": "Bandar Setia Alam,Seksyen U13,40170 Shah Alam",
+    "location": [
+      3.0946288,
+      101.4455208
     ],
     "country": "EN"
   },
@@ -11034,20 +11016,20 @@
     "country": "EN"
   },
   {
-    "name": "PALO TAMAN MALURI",
-    "address": "Lot T-03, Jalan Jejaka, Maluri,55100 Cheras",
-    "location": [
-      3.1275076,
-      101.7322692
-    ],
-    "country": "EN"
-  },
-  {
     "name": "MOLLYFANTASY LALAPORT",
     "address": "2, Jln Hang Tuah, Bukit Bintang, 55100 Kuala Lumpur",
     "location": [
       3.1402822,
       101.7067294
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "PALO TAMAN MALURI",
+    "address": "Lot T-03, Jalan Jejaka, Maluri,55100 Cheras",
+    "location": [
+      3.1275076,
+      101.7322692
     ],
     "country": "EN"
   },
@@ -11084,6 +11066,15 @@
     "location": [
       3.0855848,
       101.6736371
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "FUN SCAPE PUBLIKA",
+    "address": "Lot 72, UG, Publika Shopping Gallery, Solaris Dutamas, 50480",
+    "location": [
+      0.0,
+      0.0
     ],
     "country": "EN"
   },
@@ -12404,6 +12395,15 @@
   {
     "name": "JUNGLE FUN ISLAND",
     "address": "1450 ALA Moana Blvd, #1218 Honolulu HI 96814",
+    "location": [
+      0.0,
+      0.0
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "FUN FACTORY - MAUI MALL",
+    "address": "70 EAST KAAHUMANU AVE, UNIT A-13  KAHULUI, HI 96732",
     "location": [
       0.0,
       0.0
@@ -13842,6 +13842,15 @@
     "country": "EN"
   },
   {
+    "name": "TIMEZONE BANKSTOWN",
+    "address": "Bankstown Central Shopping Centre, Shop MM022 North Terrace",
+    "location": [
+      0.0,
+      0.0
+    ],
+    "country": "EN"
+  },
+  {
     "name": "KOKO AMESEMENT HORNSBY",
     "address": "Shop 4000-1/236 Pacific Hwy Horsby NSW 2077",
     "location": [
@@ -14216,6 +14225,15 @@
     "location": [
       16.8666242,
       96.1322044
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "ALIBABA AMUSEMENT",
+    "address": "No.401-403, 4F, Food Planet, Time City, Kamaryut Township",
+    "location": [
+      0.0,
+      0.0
     ],
     "country": "EN"
   },
