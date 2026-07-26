@@ -2781,20 +2781,20 @@
     "country": "JP"
   },
   {
-    "name": "タイトーステーション 町田店",
-    "address": "東京都町田市原町田６−２１−２３　松山ビル１階",
-    "location": [
-      35.5427132441421,
-      139.448486052779
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ＧｉＧＯ町田",
     "address": "東京都町田市原町田６−１３ー１７アーバンミサワビルＢ１",
     "location": [
       35.5438675,
       139.4469818
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "タイトーステーション 町田店",
+    "address": "東京都町田市原町田６−２１−２３　松山ビル１階",
+    "location": [
+      35.5427132441421,
+      139.448486052779
     ],
     "country": "JP"
   },
@@ -2921,6 +2921,15 @@
     "location": [
       35.7003101052259,
       139.81526531157
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "アドアーズ新小岩",
+    "address": "東京都葛飾区新小岩１−４４−４　ＶＯＲＴ新小岩ビル",
+    "location": [
+      35.7162968339796,
+      139.85822635582
     ],
     "country": "JP"
   },
@@ -4293,20 +4302,20 @@
     "country": "JP"
   },
   {
-    "name": "プラサカプコン徳重店",
-    "address": "愛知県名古屋市緑区元徳重１丁目５０５ビルズウォーク徳重２階",
-    "location": [
-      35.0943886,
-      136.9992084
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ソユーゲームフィールド鳴海店",
     "address": "名古屋市緑区鳴海町字伝治山３番地９　アピタ鳴海店２Ｆ",
     "location": [
       35.0941212637578,
       136.95934499259
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "プラサカプコン徳重店",
+    "address": "愛知県名古屋市緑区元徳重１丁目５０５ビルズウォーク徳重２階",
+    "location": [
+      35.0943886,
+      136.9992084
     ],
     "country": "JP"
   },
@@ -4356,11 +4365,11 @@
     "country": "JP"
   },
   {
-    "name": "ゲームパニック大須",
-    "address": "愛知県名古屋市中区大須3-30-93　メガタウンB1F",
+    "name": "ゲームキングジョイ",
+    "address": "愛知県名古屋市中区栄３‐３‐３２",
     "location": [
-      35.1600309,
-      136.9053767
+      35.1679815,
+      136.9049511
     ],
     "country": "JP"
   },
@@ -4374,11 +4383,11 @@
     "country": "JP"
   },
   {
-    "name": "ゲームキングジョイ",
-    "address": "愛知県名古屋市中区栄３‐３‐３２",
+    "name": "ゲームパニック大須",
+    "address": "愛知県名古屋市中区大須3-30-93　メガタウンB1F",
     "location": [
-      35.1679815,
-      136.9049511
+      35.1600309,
+      136.9053767
     ],
     "country": "JP"
   },
@@ -4406,15 +4415,6 @@
     "location": [
       35.162623,
       136.8849364
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "ラウンドワン千種店",
-    "address": "愛知県名古屋市千種区新栄3-20-17タイホウ千種駅前南ビル1階",
-    "location": [
-      35.1680713,
-      136.9280046
     ],
     "country": "JP"
   },
@@ -7695,6 +7695,15 @@
     "country": "EN"
   },
   {
+    "name": "PACO FUNWORLD(KALLANG WAVE MALL)",
+    "address": "1 Stadium Place 01-59102 Singapore 397628",
+    "location": [
+      1.3025249,
+      103.8736219
+    ],
+    "country": "EN"
+  },
+  {
     "name": "COW PLAY COW MOO DOWNTOWN EAST",
     "address": "1 Pasir Ris Close,#04-102,Singapole 519599",
     "location": [
@@ -7871,6 +7880,15 @@
     "location": [
       2.7013839,
       101.9119475
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "AEON MALL NILAI",
+    "address": "LotS01, 2nd Floor, Persiaran Pusat Bandar Putra Point, 71800",
+    "location": [
+      2.8182299,
+      101.7883967
     ],
     "country": "EN"
   },
@@ -8123,6 +8141,15 @@
     "location": [
       3.1275076,
       101.7322692
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "FUN SCAPE@LOW YAT",
+    "address": "7, Jalan Bintang, Off Jalan Bukit Bintang,55100 Kuala Lumpur",
+    "location": [
+      3.8182407,
+      103.3262695
     ],
     "country": "EN"
   },
