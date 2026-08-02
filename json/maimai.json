@@ -603,6 +603,15 @@
     "country": "JP"
   },
   {
+    "name": "ＰＡＬＯ黒石",
+    "address": "青森県黒石市富士見103番地３アクロスプラザ黒石",
+    "location": [
+      40.6666167163189,
+      140.601765124012
+    ],
+    "country": "JP"
+  },
+  {
     "name": "タイトーステーション 盛岡マッハランド店",
     "address": "岩手県盛岡市上堂１−２−３８マッハランド内",
     "location": [
@@ -689,15 +698,6 @@
     "location": [
       39.6110711663472,
       141.152680513492
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "キッズランド",
-    "address": "岩手県紫波郡紫波町桜町１丁目１２−１　ナックス内キッズランド",
-    "location": [
-      39.5490768,
-      141.165242
     ],
     "country": "JP"
   },
@@ -1107,6 +1107,15 @@
     "country": "JP"
   },
   {
+    "name": "トム・ソーヤのなかまたち五城目店",
+    "address": "南秋田郡五城目町大川西野字田屋前１３８イオン五城目店内",
+    "location": [
+      39.935949136643,
+      140.107119454106
+    ],
+    "country": "JP"
+  },
+  {
     "name": "ゲームフィールド鷹巣店",
     "address": "秋田県北秋田市栄字前綱76　いとく鷹巣SC内",
     "location": [
@@ -1148,15 +1157,6 @@
     "location": [
       38.2085455,
       140.3177274
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "パルケ・デ・アミーゴ！山形店",
-    "address": "山形県山形市嶋北１−３−１",
-    "location": [
-      38.2836662,
-      140.3216001
     ],
     "country": "JP"
   },
@@ -3357,20 +3357,20 @@
     "country": "JP"
   },
   {
-    "name": "ＧｉＧＯ高田馬場",
-    "address": "東京都新宿区高田馬場４−７−５高田馬場グランド東京",
-    "location": [
-      35.7136018,
-      139.7037221
-    ],
-    "country": "JP"
-  },
-  {
     "name": "タイトーＢＩＧＢＯＸ高田馬場店",
     "address": "東京都新宿区高田馬場１−３５−３　ＢＩＧＢＯＸ６Ｆ",
     "location": [
       35.7129463,
       139.7042567
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ＧｉＧＯ高田馬場",
+    "address": "東京都新宿区高田馬場４−７−５高田馬場グランド東京",
+    "location": [
+      35.7136018,
+      139.7037221
     ],
     "country": "JP"
   },
@@ -3461,15 +3461,6 @@
     "location": [
       35.6848536,
       139.8638638
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "キャッツアイ西葛西店",
-    "address": "東京都江戸川区西葛西４−２−２８",
-    "location": [
-      35.6683244904302,
-      139.86180171468
     ],
     "country": "JP"
   },
@@ -6669,15 +6660,6 @@
     "country": "JP"
   },
   {
-    "name": "トムソーヤのなかまたち岸和田店",
-    "address": "大阪府岸和田市港緑町2-1岸和田ｶﾝｶﾝﾍﾞｲｻｲﾄﾞﾓｰﾙEAST棟2階",
-    "location": [
-      34.4667195,
-      135.3713761
-    ],
-    "country": "JP"
-  },
-  {
     "name": "星狩物語岸和田店",
     "address": "大阪府岸和田市作才町1-3-2",
     "location": [
@@ -8694,24 +8676,6 @@
     "country": "JP"
   },
   {
-    "name": "パスカランドはません",
-    "address": "熊本県熊本市南区田井島1-2-1ゆめタウンはません3F",
-    "location": [
-      32.7716760075067,
-      130.726416541
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "ｎａｍｃｏワンダーシティ南熊本店",
-    "address": "熊本県熊本市中央区九品寺６−９−１",
-    "location": [
-      32.7868920216959,
-      130.714731753304
-    ],
-    "country": "JP"
-  },
-  {
     "name": "サープラ下通りあそびタウン",
     "address": "熊本県熊本市中央区手取本町４番１２号",
     "location": [
@@ -8789,24 +8753,6 @@
     "location": [
       32.458353677585,
       130.188268500139
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "宇土パスカワールド",
-    "address": "熊本県宇土市善道寺町綾織９５",
-    "location": [
-      32.6834753018664,
-      130.668198661099
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "楽市楽座小川店",
-    "address": "熊本県宇城市小川町河江１−１",
-    "location": [
-      32.595792940491,
-      130.704996590074
     ],
     "country": "JP"
   },
@@ -9207,20 +9153,20 @@
     "country": "EN"
   },
   {
-    "name": "TOM'S WORLD(GLOBALMALL-NANGANG)",
-    "address": "B2., No. 371, Sec. 7, ZhongxiaoE. Rd., Nangang Dist.",
-    "location": [
-      25.0529839,
-      121.6071877
-    ],
-    "country": "EN"
-  },
-  {
     "name": "HURO WORLD(CITY LINK@NANGANG)",
     "address": "6F,NO369-C,SEC7,ZHONGXIAO E.RD.NANGANG DIST.,TAIPEI CITY115,TWN",
     "location": [
       25.0525582,
       121.604518
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "TOM'S WORLD(GLOBALMALL-NANGANG)",
+    "address": "B2., No. 371, Sec. 7, ZhongxiaoE. Rd., Nangang Dist.",
+    "location": [
+      25.0529839,
+      121.6071877
     ],
     "country": "EN"
   },
@@ -9288,15 +9234,6 @@
     "country": "EN"
   },
   {
-    "name": "MAX GAME CENTER",
-    "address": "NO.78, SEC.2, CHONGXIN RD.,SANCHONG DIST., NEW TAIPEI CITY",
-    "location": [
-      25.0618105204994,
-      121.497292077315
-    ],
-    "country": "EN"
-  },
-  {
     "name": "HALA PLANET(SHILIN)",
     "address": "No. 43, Wenlin Rd., Shilin Dist., Taipei City 111012",
     "location": [
@@ -9324,20 +9261,20 @@
     "country": "EN"
   },
   {
-    "name": "HALA(XINYANG)",
-    "address": "1F., No.2, Xinyang St., Zhongzheng Dist., Taipei City 10047",
-    "location": [
-      25.0445923,
-      121.5167157
-    ],
-    "country": "EN"
-  },
-  {
     "name": "SHIRONEKOYA(TAIPEI)",
     "address": "1 F No. 50, Nanyang St., Zhongzheng Dist., Taipei City 100007",
     "location": [
       25.0440094,
       121.5159911
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "HALA(XINYANG)",
+    "address": "1F., No.2, Xinyang St., Zhongzheng Dist., Taipei City 10047",
+    "location": [
+      25.0445923,
+      121.5167157
     ],
     "country": "EN"
   },
@@ -9459,11 +9396,11 @@
     "country": "EN"
   },
   {
-    "name": "TOM'S WORLD(FE21@TAOYUAN)",
-    "address": "12F., NO.20,ZHONGZHENG RD.,TAOYUAN CITY, TAOYUAN COUNTY",
+    "name": "SHIRONEKOYA",
+    "address": "No.127, Fuxing Rd., Taoyuan Dist., TaoyuanCity33066,Taiwan",
     "location": [
-      24.9898544722003,
-      121.313921236771
+      24.990303,
+      121.312723
     ],
     "country": "EN"
   },
@@ -9477,11 +9414,11 @@
     "country": "EN"
   },
   {
-    "name": "SHIRONEKOYA",
-    "address": "No.127, Fuxing Rd., Taoyuan Dist., TaoyuanCity33066,Taiwan",
+    "name": "TOM'S WORLD(FE21@TAOYUAN)",
+    "address": "12F., NO.20,ZHONGZHENG RD.,TAOYUAN CITY, TAOYUAN COUNTY",
     "location": [
-      24.990303,
-      121.312723
+      24.9898544722003,
+      121.313921236771
     ],
     "country": "EN"
   },
@@ -9495,11 +9432,11 @@
     "country": "EN"
   },
   {
-    "name": "SHIRONEKOYA(ZHONGLI)",
-    "address": "1F., No. 575, Yanping Rd., Zhongli Dist., Taoyuan City 320061",
+    "name": "TIGER'S WORLD (JC PARK@ZHONGLI)",
+    "address": "4F., No.51, Jhongjheng Rd., Jhongli Dist., Taoyuan City 320001",
     "location": [
-      24.9547944,
-      121.222628
+      24.9541156,
+      121.2240366
     ],
     "country": "EN"
   },
@@ -9513,11 +9450,11 @@
     "country": "EN"
   },
   {
-    "name": "RED HAT ELEPHANT(SOGO@ZHONGLI )",
-    "address": "11F,NO.357YUANHUA RD., JHONGLI CITY, TAOYUAN COUNTY",
+    "name": "SHIRONEKOYA(ZHONGLI)",
+    "address": "1F., No. 575, Yanping Rd., Zhongli Dist., Taoyuan City 320061",
     "location": [
-      24.962581,
-      121.223555
+      24.9547944,
+      121.222628
     ],
     "country": "EN"
   },
@@ -9531,11 +9468,11 @@
     "country": "EN"
   },
   {
-    "name": "TIGER'S WORLD (JC PARK@ZHONGLI)",
-    "address": "4F., No.51, Jhongjheng Rd., Jhongli Dist., Taoyuan City 320001",
+    "name": "RED HAT ELEPHANT(SOGO@ZHONGLI )",
+    "address": "11F,NO.357YUANHUA RD., JHONGLI CITY, TAOYUAN COUNTY",
     "location": [
-      24.9541156,
-      121.2240366
+      24.962581,
+      121.223555
     ],
     "country": "EN"
   },
@@ -9558,20 +9495,20 @@
     "country": "EN"
   },
   {
-    "name": "TOM'S WORLD(GIANT CITY@HSINCHU)",
-    "address": "8F., NO.229, ZHONGYANG RD.,NORTH DIST., HSINCHU CITY",
-    "location": [
-      24.8103598821181,
-      120.975195775424
-    ],
-    "country": "EN"
-  },
-  {
     "name": "SHIRONEKOYA(HSINCHU)",
     "address": "1F., No.76, Xinyi St., East Dist., Hsinchu City 300025, Taiwan",
     "location": [
       24.8032086,
       120.9706468
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "TOM'S WORLD(GIANT CITY@HSINCHU)",
+    "address": "8F., NO.229, ZHONGYANG RD.,NORTH DIST., HSINCHU CITY",
+    "location": [
+      24.8103598821181,
+      120.975195775424
     ],
     "country": "EN"
   },
@@ -9603,20 +9540,11 @@
     "country": "EN"
   },
   {
-    "name": "TOM'S WORLD(CHIN CHIN@TAICHUNG)",
-    "address": "B1F.-2,NO.14, BEITUN RD.,NORTH DISTRICT,TAICHUNG CITY",
+    "name": "HALA PLANET(TAICHUNG YIZHONG)",
+    "address": "No.10, Taiping Rd., North Dist., Taichung City 404008, Taiwan",
     "location": [
-      24.1601922906738,
-      120.691991665929
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "WAWA EMPIRE(YIJHONG)",
-    "address": "1F,NO.9,ZUNXIAN ST., NORTH DIST.TAICHUNG CITY 404,TAIWAN(R.O.C.)",
-    "location": [
-      24.1488236,
-      120.6853439
+      24.1476019,
+      120.6859621
     ],
     "country": "EN"
   },
@@ -9630,11 +9558,20 @@
     "country": "EN"
   },
   {
-    "name": "HALA PLANET(TAICHUNG YIZHONG)",
-    "address": "No.10, Taiping Rd., North Dist., Taichung City 404008, Taiwan",
+    "name": "WAWA EMPIRE(YIJHONG)",
+    "address": "1F,NO.9,ZUNXIAN ST., NORTH DIST.TAICHUNG CITY 404,TAIWAN(R.O.C.)",
     "location": [
-      24.1476019,
-      120.6859621
+      24.1488236,
+      120.6853439
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "TOM'S WORLD(CHIN CHIN@TAICHUNG)",
+    "address": "B1F.-2,NO.14, BEITUN RD.,NORTH DISTRICT,TAICHUNG CITY",
+    "location": [
+      24.1601922906738,
+      120.691991665929
     ],
     "country": "EN"
   },
@@ -9702,20 +9639,20 @@
     "country": "EN"
   },
   {
-    "name": "SIN YI CITY (ZHANQIAN)",
-    "address": "NO.12,SANMIN RD.,FENGYUAN DIST.TAICHUNG CITY 420,TAIWAN",
-    "location": [
-      24.2513923,
-      120.7210256
-    ],
-    "country": "EN"
-  },
-  {
     "name": "RED HAT ELEPHANT(SOGO@FENGYUAN)",
     "address": "10F., NO.2, FUXING RD., FENGYUAN DIST.,TAICHUNG CITY 420, TAIWAN",
     "location": [
       24.250721,
       120.720649
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "SIN YI CITY (ZHANQIAN)",
+    "address": "NO.12,SANMIN RD.,FENGYUAN DIST.TAICHUNG CITY 420,TAIWAN",
+    "location": [
+      24.2513923,
+      120.7210256
     ],
     "country": "EN"
   },
@@ -9792,38 +9729,11 @@
     "country": "EN"
   },
   {
-    "name": "TOM'S WORLD(JHENGUANG@TAINAN)",
-    "address": "1F., NO.236, SEC.2,JHONGHUAE.RD., TAINAN CITY",
-    "location": [
-      22.9819470535495,
-      120.229921589
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "TOM'S WORLD(FOCUS@TAINAN)",
-    "address": "9F.,NO.166, ZHONGSHAN RD.,WEST CENTRAL DIST., TAINAN CITY",
-    "location": [
-      22.995715824494,
-      120.210264941139
-    ],
-    "country": "EN"
-  },
-  {
     "name": "TOM'S WORLD (MITSUKOSHI@TAINAN)",
     "address": "6F.No.658,Sec.1,XimenRd.,West Central Dist.,TainanCity70051",
     "location": [
       22.990311,
       120.197495
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "TOM'S WORLD (CIAO-LI@TAINAN))",
-    "address": "2F.No.239,ZhongzhengRd.West Central Dist.,TainanCity70055,Taiwan",
-    "location": [
-      22.9948212,
-      120.1964522
     ],
     "country": "EN"
   },
@@ -9837,6 +9747,33 @@
     "country": "EN"
   },
   {
+    "name": "TOM'S WORLD (CIAO-LI@TAINAN))",
+    "address": "2F.No.239,ZhongzhengRd.West Central Dist.,TainanCity70055,Taiwan",
+    "location": [
+      22.9948212,
+      120.1964522
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "TOM'S WORLD(FOCUS@TAINAN)",
+    "address": "9F.,NO.166, ZHONGSHAN RD.,WEST CENTRAL DIST., TAINAN CITY",
+    "location": [
+      22.995715824494,
+      120.210264941139
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "TOM'S WORLD(JHENGUANG@TAINAN)",
+    "address": "1F., NO.236, SEC.2,JHONGHUAE.RD., TAINAN CITY",
+    "location": [
+      22.9819470535495,
+      120.229921589
+    ],
+    "country": "EN"
+  },
+  {
     "name": "TOM'S WORLD(JINWUA-TAINAN)",
     "address": "1 F No. 412, Sec. 1, Jinhua Rd., South Dist., Tainan City 702011",
     "location": [
@@ -9846,20 +9783,20 @@
     "country": "EN"
   },
   {
-    "name": "TOM'S WORLD (KAIYUAN@TAINAN)",
-    "address": "1F.,No.219,KaiyuanRd.,NorthDist.,TainanCity70442,Taiwan",
-    "location": [
-      23.00743,
-      120.22004
-    ],
-    "country": "EN"
-  },
-  {
     "name": "TOM'S WORLD(XIMEN@TAINAN)",
     "address": "1F.,NO.273,SEC.4, XIMEN RD.,NORTH DIST., TAINAN CITY",
     "location": [
       23.013162,
       120.208839
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "TOM'S WORLD (KAIYUAN@TAINAN)",
+    "address": "1F.,No.219,KaiyuanRd.,NorthDist.,TainanCity70442,Taiwan",
+    "location": [
+      23.00743,
+      120.22004
     ],
     "country": "EN"
   },
@@ -9891,6 +9828,15 @@
     "country": "EN"
   },
   {
+    "name": "TOM'S WORLD(MITSUKOSHI@ZUOYING 10F)",
+    "address": "10F.No.123,GaotieRd.,ZuoyingDist.,KaohsiungCity81361,Taiwan",
+    "location": [
+      22.6884719,
+      120.3100475
+    ],
+    "country": "EN"
+  },
+  {
     "name": "TOM'S WORLD (HANSHIN@KAOHSIUNG)",
     "address": "6F.No.777, Bo'ai 2ndRd.ZuoyingDist.KaohsiungCity813603,Taiwan",
     "location": [
@@ -9909,15 +9855,6 @@
     "country": "EN"
   },
   {
-    "name": "TOM'S WORLD(MITSUKOSHI@ZUOYING 10F)",
-    "address": "10F.No.123,GaotieRd.,ZuoyingDist.,KaohsiungCity81361,Taiwan",
-    "location": [
-      22.6884719,
-      120.3100475
-    ],
-    "country": "EN"
-  },
-  {
     "name": "X50 MGS KAOHSIUNG",
     "address": "No.1-12, Chongcing St., Sanmin Dist., Kaohsiung City 807010",
     "location": [
@@ -9932,6 +9869,15 @@
     "location": [
       22.6675678,
       120.3202591
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "TOM'S WORLD(DREAM MALL@KAOHSIUNG)",
+    "address": "B1., NO.789, ZHONGHUA 5TH RD.QIANZHEN DIST., KAOHSIUNG CITY",
+    "location": [
+      22.6227313709171,
+      120.358046096295
     ],
     "country": "EN"
   },
@@ -9959,15 +9905,6 @@
     "location": [
       22.5872135,
       120.3232481
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "TOM'S WORLD(DREAM MALL@KAOHSIUNG)",
-    "address": "B1., NO.789, ZHONGHUA 5TH RD.QIANZHEN DIST., KAOHSIUNG CITY",
-    "location": [
-      22.6227313709171,
-      120.358046096295
     ],
     "country": "EN"
   },
@@ -10692,15 +10629,6 @@
     "country": "EN"
   },
   {
-    "name": "VISION CITY VIDEO GAMES PARK",
-    "address": "VisonCityVideoGamesPark,ResortsWorldGenting,69000,Pahang Darul M",
-    "location": [
-      3.423871,
-      101.792679
-    ],
-    "country": "EN"
-  },
-  {
     "name": "FUN SCAPE@TESCO BAGAN AJAM",
     "address": "G3,TESCO BAGAN AJAM ,LOT 2816,12300 BUTTERWORTH PULAU PINANG",
     "location": [
@@ -10854,20 +10782,20 @@
     "country": "EN"
   },
   {
-    "name": "MOLLY FANTASY SHAH ALAM",
-    "address": "13/64,Persiaran Akuatik,Seksyen13,40100 Shah Alam,Selangor",
-    "location": [
-      3.0725063,
-      101.5391023
-    ],
-    "country": "EN"
-  },
-  {
     "name": "MOLLY FANTASY SETIA CITY MALL",
     "address": "Bandar Setia Alam,Seksyen U13,40170 Shah Alam",
     "location": [
       3.0946288,
       101.4455208
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "MOLLY FANTASY SHAH ALAM",
+    "address": "13/64,Persiaran Akuatik,Seksyen13,40100 Shah Alam,Selangor",
+    "location": [
+      3.0725063,
+      101.5391023
     ],
     "country": "EN"
   },
@@ -11160,15 +11088,6 @@
     "country": "EN"
   },
   {
-    "name": "G2ZONE YEONGDEUNGPO",
-    "address": "16, Yeongjung-ro 4-gil, Yeongdeungpo-gu, Seoul, Korea",
-    "location": [
-      37.5172567,
-      126.9080386
-    ],
-    "country": "EN"
-  },
-  {
     "name": "YEONGDEUNGPO ACTION",
     "address": "15,YEONGJUNG-RO,YEONGDEUNGPO-GU,SEOUL",
     "location": [
@@ -11178,11 +11097,11 @@
     "country": "EN"
   },
   {
-    "name": "FUNNYLAND",
-    "address": "46-1, Eoulmadang-ro, Mapo-gu, Seoul",
+    "name": "G2ZONE YEONGDEUNGPO",
+    "address": "16, Yeongjung-ro 4-gil, Yeongdeungpo-gu, Seoul, Korea",
     "location": [
-      37.5491266,
-      126.921008
+      37.5172567,
+      126.9080386
     ],
     "country": "EN"
   },
@@ -11196,20 +11115,20 @@
     "country": "EN"
   },
   {
+    "name": "FUNNYLAND",
+    "address": "46-1, Eoulmadang-ro, Mapo-gu, Seoul",
+    "location": [
+      37.5491266,
+      126.921008
+    ],
+    "country": "EN"
+  },
+  {
     "name": "YEONSINNAE JJANGGU GAME",
     "address": "8-8, Yeonseo-ro 29-gil, Eunpyeong-gu, Seoul",
     "location": [
       37.6189525,
       126.9196972
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "PAPER STUDIO",
-    "address": "85, Bongujae-ro 33-gil, Jungnang-gu, Seoul, Republic of Korea",
-    "location": [
-      37.5959378,
-      127.0895616
     ],
     "country": "EN"
   },
@@ -11250,24 +11169,6 @@
     "country": "EN"
   },
   {
-    "name": "ZZANG GAME DONGSUNG-RO 2ND",
-    "address": "1F 36，Dongseong-ro 6-gil，Jung-gu，Daegu，Korea",
-    "location": [
-      35.8685735,
-      128.5972614
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "NOLJA GAME",
-    "address": "2F, 18, Jungang-daero 81-gil, Jung-gu, Daegu",
-    "location": [
-      35.8698745,
-      128.5926402
-    ],
-    "country": "EN"
-  },
-  {
     "name": "ROYAL GAME",
     "address": "454-1, Jungang-daero, Jung-gu, Daegu",
     "location": [
@@ -11282,6 +11183,24 @@
     "location": [
       35.8700487,
       128.5955018
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "NOLJA GAME",
+    "address": "2F, 18, Jungang-daero 81-gil, Jung-gu, Daegu",
+    "location": [
+      35.8698745,
+      128.5926402
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "ZZANG GAME DONGSUNG-RO 2ND",
+    "address": "1F 36，Dongseong-ro 6-gil，Jung-gu，Daegu，Korea",
+    "location": [
+      35.8685735,
+      128.5972614
     ],
     "country": "EN"
   },
@@ -11772,20 +11691,20 @@
     "country": "EN"
   },
   {
-    "name": "SEMARANG 23 ARKANA",
-    "address": "Jl.Kawasan POJCity (Pearl of Jav",
-    "location": [
-      0.0,
-      0.0
-    ],
-    "country": "EN"
-  },
-  {
     "name": "TIMEZONE DUTA PERTIWI",
     "address": "Jalan Pemuda No. 150, Semarang 50132",
     "location": [
       -6.9832693,
       110.4121797
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "SEMARANG 23 ARKANA",
+    "address": "Jl.Kawasan POJCity (Pearl of Jav",
+    "location": [
+      0.0,
+      0.0
     ],
     "country": "EN"
   },
@@ -11858,15 +11777,6 @@
     "location": [
       -8.7018086,
       115.1828021
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "TIMEZONE GALERIA BALI",
-    "address": "JI.RayaByPassIGustiNgurahRai,SimpangDewa Ruci,Kuta,Denpasar,Bali",
-    "location": [
-      -8.6985178,
-      115.1708974
     ],
     "country": "EN"
   },
@@ -11975,15 +11885,6 @@
     "location": [
       3.5916749,
       98.6810665
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "TIMEZONE SUN PLAZA LT.4",
-    "address": "Jl. KH. Zainul Arifin No. 7, Medan, Sumatera Utara 20152",
-    "location": [
-      3.583259,
-      98.6717075
     ],
     "country": "EN"
   },
@@ -12317,15 +12218,6 @@
     "location": [
       39.6119798,
       -105.0956537
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "ROUND1 DANBURY FAIR",
-    "address": "7 Backus Avenue, #M100, Danbury, CT, 06810",
-    "location": [
-      41.3804789,
-      -73.4784187
     ],
     "country": "EN"
   },
@@ -12951,6 +12843,15 @@
     "country": "EN"
   },
   {
+    "name": "CLAW ZONE",
+    "address": "847 NORTHEAST MALL BLVD, HURST,TX 76053",
+    "location": [
+      0.0,
+      0.0
+    ],
+    "country": "EN"
+  },
+  {
     "name": "ROUND1 SOUTH TOWN CENTER",
     "address": "10450 S. State Street, Suite 2405-1, Sandy, UT 84070",
     "location": [
@@ -13428,11 +13329,11 @@
     "country": "EN"
   },
   {
-    "name": "QUANTUM SM GENERAL SANTOS",
-    "address": "2nd Floor SM General Santos Santiago Blvd General Santos City",
+    "name": "TIMEZONE AYALA CENTER CEBU",
+    "address": "2nd Floor Ayala Center Cebu, Cebu Business Park, Cebu City",
     "location": [
-      6.1154774,
-      125.1810148
+      0.0,
+      0.0
     ],
     "country": "EN"
   },
@@ -13887,15 +13788,6 @@
     "country": "EN"
   },
   {
-    "name": "IPLAY WETHERILL PARK",
-    "address": "561/583 Polding St, Wetherill Park NSW 2164",
-    "location": [
-      -33.8593157,
-      150.8978985
-    ],
-    "country": "EN"
-  },
-  {
     "name": "ZONE BOWLING VILLAWOOD",
     "address": "850a Woodvilla Road,Villawood NSW 2163",
     "location": [
@@ -14207,15 +14099,6 @@
     "location": [
       16.8171212,
       96.130712
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "ALIBABA 5",
-    "address": "3RD FLOOR, GAMONE PWINT CENTER,, YANGON",
-    "location": [
-      16.840939,
-      96.173526
     ],
     "country": "EN"
   },

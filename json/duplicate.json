@@ -828,15 +828,6 @@
     "country": "JP"
   },
   {
-    "name": "パルケ・デ・アミーゴ！山形店",
-    "address": "山形県山形市嶋北１−３−１",
-    "location": [
-      38.2836662,
-      140.3216001
-    ],
-    "country": "JP"
-  },
-  {
     "name": "スタジオプリモ山形店",
     "address": "山形県山形市城南町１−１−１　霞城セントラル２Ｆ",
     "location": [
@@ -2007,6 +1998,15 @@
     "country": "JP"
   },
   {
+    "name": "ゲームガリバー",
+    "address": "千葉県柏市柏１‐１‐１１",
+    "location": [
+      35.8616855,
+      139.9711177
+    ],
+    "country": "JP"
+  },
+  {
     "name": "スーパーウェーブ柏",
     "address": "千葉県柏市十余二２４９−５",
     "location": [
@@ -2556,20 +2556,20 @@
     "country": "JP"
   },
   {
-    "name": "ＧｉＧＯ高田馬場",
-    "address": "東京都新宿区高田馬場４−７−５高田馬場グランド東京",
-    "location": [
-      35.7136018,
-      139.7037221
-    ],
-    "country": "JP"
-  },
-  {
     "name": "タイトーＢＩＧＢＯＸ高田馬場店",
     "address": "東京都新宿区高田馬場１−３５−３　ＢＩＧＢＯＸ６Ｆ",
     "location": [
       35.7129463,
       139.7042567
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ＧｉＧＯ高田馬場",
+    "address": "東京都新宿区高田馬場４−７−５高田馬場グランド東京",
+    "location": [
+      35.7136018,
+      139.7037221
     ],
     "country": "JP"
   },
@@ -3533,15 +3533,6 @@
     "location": [
       37.7605971339601,
       139.022213941833
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "ＦｅｅｄｙＡｒｃａｄｅ新潟亀田インター",
-    "address": "新潟県新潟市江南区下早通柳田１ー１ー１　イオンモール２階",
-    "location": [
-      37.8760671,
-      139.0812391
     ],
     "country": "JP"
   },
@@ -6714,24 +6705,6 @@
     "country": "JP"
   },
   {
-    "name": "パスカランドはません",
-    "address": "熊本県熊本市南区田井島1-2-1ゆめタウンはません3F",
-    "location": [
-      32.7716760075067,
-      130.726416541
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "ｎａｍｃｏワンダーシティ南熊本店",
-    "address": "熊本県熊本市中央区九品寺６−９−１",
-    "location": [
-      32.7868920216959,
-      130.714731753304
-    ],
-    "country": "JP"
-  },
-  {
     "name": "サープラ下通りあそびタウン",
     "address": "熊本県熊本市中央区手取本町４番１２号",
     "location": [
@@ -6800,15 +6773,6 @@
     "location": [
       32.458353677585,
       130.188268500139
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "宇土パスカワールド",
-    "address": "熊本県宇土市善道寺町綾織９５",
-    "location": [
-      32.6834753018664,
-      130.668198661099
     ],
     "country": "JP"
   },
@@ -7137,15 +7101,6 @@
     "country": "EN"
   },
   {
-    "name": "MAX GAME CENTER",
-    "address": "NO.78, SEC.2, CHONGXIN RD.,SANCHONG DIST., NEW TAIPEI CITY",
-    "location": [
-      25.0618105204994,
-      121.497292077315
-    ],
-    "country": "EN"
-  },
-  {
     "name": "HALA PLANET(SHILIN)",
     "address": "No. 43, Wenlin Rd., Shilin Dist., Taipei City 111012",
     "location": [
@@ -7164,20 +7119,20 @@
     "country": "EN"
   },
   {
-    "name": "HALA(XINYANG)",
-    "address": "1F., No.2, Xinyang St., Zhongzheng Dist., Taipei City 10047",
-    "location": [
-      25.0445923,
-      121.5167157
-    ],
-    "country": "EN"
-  },
-  {
     "name": "SHIRONEKOYA(TAIPEI)",
     "address": "1 F No. 50, Nanyang St., Zhongzheng Dist., Taipei City 100007",
     "location": [
       25.0440094,
       121.5159911
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "HALA(XINYANG)",
+    "address": "1F., No.2, Xinyang St., Zhongzheng Dist., Taipei City 10047",
+    "location": [
+      25.0445923,
+      121.5167157
     ],
     "country": "EN"
   },
@@ -7272,11 +7227,11 @@
     "country": "EN"
   },
   {
-    "name": "SHIRONEKOYA(ZHONGLI)",
-    "address": "1F., No. 575, Yanping Rd., Zhongli Dist., Taoyuan City 320061",
+    "name": "TIGER'S WORLD (JC PARK@ZHONGLI)",
+    "address": "4F., No.51, Jhongjheng Rd., Jhongli Dist., Taoyuan City 320001",
     "location": [
-      24.9547944,
-      121.222628
+      24.9541156,
+      121.2240366
     ],
     "country": "EN"
   },
@@ -7290,20 +7245,20 @@
     "country": "EN"
   },
   {
+    "name": "SHIRONEKOYA(ZHONGLI)",
+    "address": "1F., No. 575, Yanping Rd., Zhongli Dist., Taoyuan City 320061",
+    "location": [
+      24.9547944,
+      121.222628
+    ],
+    "country": "EN"
+  },
+  {
     "name": "GiGO METRO WALK",
     "address": "4F,NO.501 ,SEC.2,JHONGYUAN RD,JHONGLICITY,TAOYUAN COUNTY",
     "location": [
       25.0013610040415,
       121.228575054891
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "TIGER'S WORLD (JC PARK@ZHONGLI)",
-    "address": "4F., No.51, Jhongjheng Rd., Jhongli Dist., Taoyuan City 320001",
-    "location": [
-      24.9541156,
-      121.2240366
     ],
     "country": "EN"
   },
@@ -7326,15 +7281,6 @@
     "country": "EN"
   },
   {
-    "name": "TOM'S WORLD(GIANT CITY@HSINCHU)",
-    "address": "8F., NO.229, ZHONGYANG RD.,NORTH DIST., HSINCHU CITY",
-    "location": [
-      24.8103598821181,
-      120.975195775424
-    ],
-    "country": "EN"
-  },
-  {
     "name": "SHIRONEKOYA(HSINCHU)",
     "address": "1F., No.76, Xinyi St., East Dist., Hsinchu City 300025, Taiwan",
     "location": [
@@ -7344,11 +7290,20 @@
     "country": "EN"
   },
   {
-    "name": "TOM'S WORLD(CHIN CHIN@TAICHUNG)",
-    "address": "B1F.-2,NO.14, BEITUN RD.,NORTH DISTRICT,TAICHUNG CITY",
+    "name": "TOM'S WORLD(GIANT CITY@HSINCHU)",
+    "address": "8F., NO.229, ZHONGYANG RD.,NORTH DIST., HSINCHU CITY",
     "location": [
-      24.1601922906738,
-      120.691991665929
+      24.8103598821181,
+      120.975195775424
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "HALA PLANET(TAICHUNG YIZHONG)",
+    "address": "No.10, Taiping Rd., North Dist., Taichung City 404008, Taiwan",
+    "location": [
+      24.1476019,
+      120.6859621
     ],
     "country": "EN"
   },
@@ -7362,11 +7317,11 @@
     "country": "EN"
   },
   {
-    "name": "HALA PLANET(TAICHUNG YIZHONG)",
-    "address": "No.10, Taiping Rd., North Dist., Taichung City 404008, Taiwan",
+    "name": "TOM'S WORLD(CHIN CHIN@TAICHUNG)",
+    "address": "B1F.-2,NO.14, BEITUN RD.,NORTH DISTRICT,TAICHUNG CITY",
     "location": [
-      24.1476019,
-      120.6859621
+      24.1601922906738,
+      120.691991665929
     ],
     "country": "EN"
   },
@@ -7452,20 +7407,20 @@
     "country": "EN"
   },
   {
-    "name": "TOM'S WORLD(JHENGUANG@TAINAN)",
-    "address": "1F., NO.236, SEC.2,JHONGHUAE.RD., TAINAN CITY",
-    "location": [
-      22.9819470535495,
-      120.229921589
-    ],
-    "country": "EN"
-  },
-  {
     "name": "TOM'S WORLD(FOCUS@TAINAN)",
     "address": "9F.,NO.166, ZHONGSHAN RD.,WEST CENTRAL DIST., TAINAN CITY",
     "location": [
       22.995715824494,
       120.210264941139
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "TOM'S WORLD(JHENGUANG@TAINAN)",
+    "address": "1F., NO.236, SEC.2,JHONGHUAE.RD., TAINAN CITY",
+    "location": [
+      22.9819470535495,
+      120.229921589
     ],
     "country": "EN"
   },
@@ -8001,20 +7956,20 @@
     "country": "EN"
   },
   {
-    "name": "MOLLY FANTASY SHAH ALAM",
-    "address": "13/64,Persiaran Akuatik,Seksyen13,40100 Shah Alam,Selangor",
-    "location": [
-      3.0725063,
-      101.5391023
-    ],
-    "country": "EN"
-  },
-  {
     "name": "MOLLY FANTASY SETIA CITY MALL",
     "address": "Bandar Setia Alam,Seksyen U13,40170 Shah Alam",
     "location": [
       3.0946288,
       101.4455208
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "MOLLY FANTASY SHAH ALAM",
+    "address": "13/64,Persiaran Akuatik,Seksyen13,40100 Shah Alam,Selangor",
+    "location": [
+      3.0725063,
+      101.5391023
     ],
     "country": "EN"
   },
@@ -8145,11 +8100,11 @@
     "country": "EN"
   },
   {
-    "name": "FUN SCAPE@LOW YAT",
-    "address": "7, Jalan Bintang, Off Jalan Bukit Bintang,55100 Kuala Lumpur",
+    "name": "PAVILION BUKIT JALIL (GAME ON)",
+    "address": "4.82.00,LEVEL 4,PAVILION BUKIT JALIL,2,PERSIARAN JALIL 8",
     "location": [
-      3.8182407,
-      103.3262695
+      0.0,
+      0.0
     ],
     "country": "EN"
   },
@@ -8271,20 +8226,20 @@
     "country": "EN"
   },
   {
-    "name": "NOLJA GAME",
-    "address": "2F, 18, Jungang-daero 81-gil, Jung-gu, Daegu",
-    "location": [
-      35.8698745,
-      128.5926402
-    ],
-    "country": "EN"
-  },
-  {
     "name": "ROYAL GAME",
     "address": "454-1, Jungang-daero, Jung-gu, Daegu",
     "location": [
       35.8735075,
       128.5948787
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "NOLJA GAME",
+    "address": "2F, 18, Jungang-daero 81-gil, Jung-gu, Daegu",
+    "location": [
+      35.8698745,
+      128.5926402
     ],
     "country": "EN"
   },

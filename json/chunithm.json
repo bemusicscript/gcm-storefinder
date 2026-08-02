@@ -3303,15 +3303,6 @@
     "country": "JP"
   },
   {
-    "name": "ラウンドワン池袋店",
-    "address": "東京都豊島区東池袋１−１４−１",
-    "location": [
-      35.7301352452916,
-      139.715204892031
-    ],
-    "country": "JP"
-  },
-  {
     "name": "東京レジャーランド池袋店",
     "address": "東京都豊島区東池袋１−２９−１サントロペ池袋２階３階",
     "location": [
@@ -3326,6 +3317,15 @@
     "location": [
       35.7296795,
       139.7157691
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ラウンドワン池袋店",
+    "address": "東京都豊島区東池袋１−１４−１",
+    "location": [
+      35.7301352452916,
+      139.715204892031
     ],
     "country": "JP"
   },
@@ -3348,6 +3348,60 @@
     "country": "JP"
   },
   {
+    "name": "Ｈｅｙ",
+    "address": "東京都千代田区外神田１−１０−５廣瀬本社ビル１階&#12316;４階",
+    "location": [
+      35.6990241237158,
+      139.771063815379
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "シルクハット秋葉原",
+    "address": "東京都千代田区外神田１丁目１０番地９号",
+    "location": [
+      35.698716,
+      139.7710022
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ｎａｍｃｏ秋葉原店",
+    "address": "東京都千代田区外神田１丁目１５番９号",
+    "location": [
+      35.6980094,
+      139.7724164
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ゲームパニック秋葉原",
+    "address": "東京都千代田区外神田1-13-1　Akihabara ex",
+    "location": [
+      35.6988516,
+      139.7716001
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ＧｉＧＯ秋葉原３号館",
+    "address": "東京都千代田区外神田１‐１１‐１１外神田１丁目ビルディング",
+    "location": [
+      35.6992572709625,
+      139.770903803319
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "東京レジャーランド秋葉原2号店",
+    "address": "東京都千代田区外神田4-3-3ミナミビル6F・7F",
+    "location": [
+      35.7008302,
+      139.7718494
+    ],
+    "country": "JP"
+  },
+  {
     "name": "東京レジャーランド秋葉原店",
     "address": "東京都千代田区外神田1-9-5",
     "location": [
@@ -3366,56 +3420,11 @@
     "country": "JP"
   },
   {
-    "name": "東京レジャーランド秋葉原2号店",
-    "address": "東京都千代田区外神田4-3-3ミナミビル6F・7F",
+    "name": "タイトーステーション 渋谷店",
+    "address": "東京都渋谷区渋谷１−２４−１２渋谷東映プラザ",
     "location": [
-      35.7008302,
-      139.7718494
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "ＧｉＧＯ秋葉原３号館",
-    "address": "東京都千代田区外神田１‐１１‐１１外神田１丁目ビルディング",
-    "location": [
-      35.6992572709625,
-      139.770903803319
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "ゲームパニック秋葉原",
-    "address": "東京都千代田区外神田1-13-1　Akihabara ex",
-    "location": [
-      35.6988516,
-      139.7716001
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "ｎａｍｃｏ秋葉原店",
-    "address": "東京都千代田区外神田１丁目１５番９号",
-    "location": [
-      35.6980094,
-      139.7724164
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "シルクハット秋葉原",
-    "address": "東京都千代田区外神田１丁目１０番地９号",
-    "location": [
-      35.698716,
-      139.7710022
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "Ｈｅｙ",
-    "address": "東京都千代田区外神田１−１０−５廣瀬本社ビル１階&#12316;４階",
-    "location": [
-      35.6990241237158,
-      139.771063815379
+      35.6598520400219,
+      139.701992837434
     ],
     "country": "JP"
   },
@@ -3425,15 +3434,6 @@
     "location": [
       35.6600164,
       139.7025897
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "タイトーステーション 渋谷店",
-    "address": "東京都渋谷区渋谷１−２４−１２渋谷東映プラザ",
-    "location": [
-      35.6598520400219,
-      139.701992837434
     ],
     "country": "JP"
   },
@@ -3483,20 +3483,20 @@
     "country": "JP"
   },
   {
-    "name": "ゲームパニック新宿歌舞伎町",
-    "address": "東京都新宿区歌舞伎町1-20-1　ﾋｭｰﾏｯｸｽﾊﾟﾋﾞﾘｵﾝ1階2階",
-    "location": [
-      35.6958088,
-      139.7015128
-    ],
-    "country": "JP"
-  },
-  {
     "name": "タイトーステーション新宿歌舞伎町店",
     "address": "東京都新宿区歌舞伎町１の２３の１",
     "location": [
       0.0,
       0.0
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ゲームパニック新宿歌舞伎町",
+    "address": "東京都新宿区歌舞伎町1-20-1　ﾋｭｰﾏｯｸｽﾊﾟﾋﾞﾘｵﾝ1階2階",
+    "location": [
+      35.6958088,
+      139.7015128
     ],
     "country": "JP"
   },
@@ -3564,20 +3564,20 @@
     "country": "JP"
   },
   {
-    "name": "アドアーズ上野アメ横",
-    "address": "東京都台東区上野４−９−１４上野Ｋ．ＫビルＢ１&#12316;４階",
-    "location": [
-      35.7100380116145,
-      139.774268228224
-    ],
-    "country": "JP"
-  },
-  {
     "name": "タイトーステーション 上野アメ横店",
     "address": "東京都台東区上野４−１０−１７",
     "location": [
       35.7105338482931,
       139.774424171164
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "アドアーズ上野アメ横",
+    "address": "東京都台東区上野４−９−１４上野Ｋ．ＫビルＢ１&#12316;４階",
+    "location": [
+      35.7100380116145,
+      139.774268228224
     ],
     "country": "JP"
   },
@@ -3632,15 +3632,6 @@
     "location": [
       35.6652968451398,
       139.859268782209
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "キャッツアイ西葛西店",
-    "address": "東京都江戸川区西葛西４−２−２８",
-    "location": [
-      35.6683244904302,
-      139.86180171468
     ],
     "country": "JP"
   },
@@ -3780,15 +3771,6 @@
     "country": "JP"
   },
   {
-    "name": "ＧｉＧＯ赤羽駅前",
-    "address": "東京都北区赤羽１−２−４",
-    "location": [
-      35.7782507,
-      139.7215917
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ＧｉＧＯ赤羽",
     "address": "東京都北区赤羽１−７−９赤羽第一葉山ビルＢ１",
     "location": [
@@ -3798,20 +3780,20 @@
     "country": "JP"
   },
   {
+    "name": "ＧｉＧＯ赤羽駅前",
+    "address": "東京都北区赤羽１−２−４",
+    "location": [
+      35.7782507,
+      139.7215917
+    ],
+    "country": "JP"
+  },
+  {
     "name": "ｎａｍｃｏ王子サンスクエア店",
     "address": "東京都北区王子１ー４ー１サンスクエア２階",
     "location": [
       35.7529737,
       139.7389579
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "タイトーステーション 町田店",
-    "address": "東京都町田市原町田６−２１−２３　松山ビル１階",
-    "location": [
-      35.5427132441421,
-      139.448486052779
     ],
     "country": "JP"
   },
@@ -3830,6 +3812,15 @@
     "location": [
       35.5422264,
       139.4471637
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "タイトーステーション 町田店",
+    "address": "東京都町田市原町田６−２１−２３　松山ビル１階",
+    "location": [
+      35.5427132441421,
+      139.448486052779
     ],
     "country": "JP"
   },
@@ -3915,20 +3906,20 @@
     "country": "JP"
   },
   {
-    "name": "ＧｉＧＯ成増",
-    "address": "東京都板橋区成増２ー１７ー２４五曠第６ビル",
-    "location": [
-      35.7774582,
-      139.6312607
-    ],
-    "country": "JP"
-  },
-  {
     "name": "アピナ成増店",
     "address": "東京都板橋区成増二丁目２１番２号　メガドンキホーテ成増店５階",
     "location": [
       35.7781263,
       139.6304404
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ＧｉＧＯ成増",
+    "address": "東京都板橋区成増２ー１７ー２４五曠第６ビル",
+    "location": [
+      35.7774582,
+      139.6312607
     ],
     "country": "JP"
   },
@@ -4041,11 +4032,11 @@
     "country": "JP"
   },
   {
-    "name": "東京レジャーランド吉祥寺店",
-    "address": "東京都武蔵野市吉祥寺本町1-3-7　YSビル地下１階&#12316;4階",
+    "name": "ラウンドワン吉祥寺店",
+    "address": "東京都武蔵野市吉祥寺本町1-11-22",
     "location": [
-      35.703598,
-      139.5787046
+      35.7063019987024,
+      139.580779910555
     ],
     "country": "JP"
   },
@@ -4059,11 +4050,11 @@
     "country": "JP"
   },
   {
-    "name": "ラウンドワン吉祥寺店",
-    "address": "東京都武蔵野市吉祥寺本町1-11-22",
+    "name": "東京レジャーランド吉祥寺店",
+    "address": "東京都武蔵野市吉祥寺本町1-3-7　YSビル地下１階&#12316;4階",
     "location": [
-      35.7063019987024,
-      139.580779910555
+      35.703598,
+      139.5787046
     ],
     "country": "JP"
   },
@@ -9315,15 +9306,6 @@
     "country": "JP"
   },
   {
-    "name": "パスカランドはません",
-    "address": "熊本県熊本市南区田井島1-2-1ゆめタウンはません3F",
-    "location": [
-      32.7716760075067,
-      130.726416541
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ｎａｍｃｏワンダーシティ南熊本店",
     "address": "熊本県熊本市中央区九品寺６−９−１",
     "location": [
@@ -9419,15 +9401,6 @@
     "location": [
       32.458353677585,
       130.188268500139
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "宇土パスカワールド",
-    "address": "熊本県宇土市善道寺町綾織９５",
-    "location": [
-      32.6834753018664,
-      130.668198661099
     ],
     "country": "JP"
   },
@@ -9855,20 +9828,20 @@
     "country": "EN"
   },
   {
-    "name": "VAN'S PARADISE(TAMSUI)",
-    "address": "No.94 Yingzhuan Rd., Tamsui Dist., New Taipei City,Taiwan",
-    "location": [
-      25.1717774,
-      121.4458778
-    ],
-    "country": "EN"
-  },
-  {
     "name": "TOM'S WORLD (CITY PLAZA@TAMSUI)",
     "address": "4F., No.8, Jhongshan Rd., Tamsui Dist., New Taipei City 25151",
     "location": [
       25.2003326,
       121.4799342
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "VAN'S PARADISE(TAMSUI)",
+    "address": "No.94 Yingzhuan Rd., Tamsui Dist., New Taipei City,Taiwan",
+    "location": [
+      25.1717774,
+      121.4458778
     ],
     "country": "EN"
   },
@@ -9887,15 +9860,6 @@
     "location": [
       25.0056896,
       121.455297
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "MAX GAME CENTER",
-    "address": "NO.78, SEC.2, CHONGXIN RD.,SANCHONG DIST., NEW TAIPEI CITY",
-    "location": [
-      25.0618105204994,
-      121.497292077315
     ],
     "country": "EN"
   },
@@ -10017,20 +9981,20 @@
     "country": "EN"
   },
   {
-    "name": "SHIRONEKOYA",
-    "address": "No.127, Fuxing Rd., Taoyuan Dist., TaoyuanCity33066,Taiwan",
-    "location": [
-      24.990303,
-      121.312723
-    ],
-    "country": "EN"
-  },
-  {
     "name": "HALA PLANET(TAOYUAN)",
     "address": "No. 168, Fuxing Rd., Taoyuan Dist., Taoyuan City 330046",
     "location": [
       24.9904077,
       121.312293
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "SHIRONEKOYA",
+    "address": "No.127, Fuxing Rd., Taoyuan Dist., TaoyuanCity33066,Taiwan",
+    "location": [
+      24.990303,
+      121.312723
     ],
     "country": "EN"
   },
@@ -10044,20 +10008,11 @@
     "country": "EN"
   },
   {
-    "name": "NEW CITY(ZHONGLI)",
-    "address": "11F,NO.120,SEC.1,ZHONGYANG W.RD,ZHONGLI CITY, TAOYUAN",
+    "name": "SHIRONEKOYA(ZHONGLI)",
+    "address": "1F., No. 575, Yanping Rd., Zhongli Dist., Taoyuan City 320061",
     "location": [
-      24.9584889,
-      121.2203631
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "TIGER'S WORLD (JC PARK@ZHONGLI)",
-    "address": "4F., No.51, Jhongjheng Rd., Jhongli Dist., Taoyuan City 320001",
-    "location": [
-      24.9541156,
-      121.2240366
+      24.9547944,
+      121.222628
     ],
     "country": "EN"
   },
@@ -10071,11 +10026,20 @@
     "country": "EN"
   },
   {
-    "name": "SHIRONEKOYA(ZHONGLI)",
-    "address": "1F., No. 575, Yanping Rd., Zhongli Dist., Taoyuan City 320061",
+    "name": "TIGER'S WORLD (JC PARK@ZHONGLI)",
+    "address": "4F., No.51, Jhongjheng Rd., Jhongli Dist., Taoyuan City 320001",
     "location": [
-      24.9547944,
-      121.222628
+      24.9541156,
+      121.2240366
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "NEW CITY(ZHONGLI)",
+    "address": "11F,NO.120,SEC.1,ZHONGYANG W.RD,ZHONGLI CITY, TAOYUAN",
+    "location": [
+      24.9584889,
+      121.2203631
     ],
     "country": "EN"
   },
@@ -10764,15 +10728,6 @@
     "country": "EN"
   },
   {
-    "name": "Fun Factory",
-    "address": "Jalan Dulang,Mines Wellness City, 43300 Seri Kembangan, Selangor",
-    "location": [
-      3.0277025,
-      101.7196243
-    ],
-    "country": "EN"
-  },
-  {
     "name": "MOLLY FANTASY AEON BUKIT TINGGI",
     "address": "N0.1,PersiaranBatuNilam,1/KS6,BandarBukitTinggi2,41200 Klang",
     "location": [
@@ -10944,11 +10899,11 @@
     "country": "EN"
   },
   {
-    "name": "FUN SCAPE@LOW YAT",
-    "address": "7, Jalan Bintang, Off Jalan Bukit Bintang,55100 Kuala Lumpur",
+    "name": "PAVILION BUKIT JALIL (GAME ON)",
+    "address": "4.82.00,LEVEL 4,PAVILION BUKIT JALIL,2,PERSIARAN JALIL 8",
     "location": [
-      3.8182407,
-      103.3262695
+      0.0,
+      0.0
     ],
     "country": "EN"
   },
