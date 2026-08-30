@@ -1980,6 +1980,15 @@
     "country": "JP"
   },
   {
+    "name": "ゲームガリバー",
+    "address": "千葉県柏市柏１‐１‐１１",
+    "location": [
+      35.8616855,
+      139.9711177
+    ],
+    "country": "JP"
+  },
+  {
     "name": "タイトーステーション 柏店",
     "address": "千葉県柏市柏２−３−１フーサワビル",
     "location": [
@@ -3510,15 +3519,6 @@
     "country": "JP"
   },
   {
-    "name": "ＦｅｅｄｙＡｒｃａｄｅ新潟亀田インター",
-    "address": "新潟県新潟市江南区下早通柳田１ー１ー１　イオンモール２階",
-    "location": [
-      37.8760671,
-      139.0812391
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ＧｉＧＯイオンモール新発田",
     "address": "新潟県新発田市住吉町５‐１１‐５イオンモール新発田店２Ｆ",
     "location": [
@@ -4127,6 +4127,15 @@
     "location": [
       35.1531225476295,
       138.693812276589
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "モーリーファンタジーｆ富士南",
+    "address": "静岡県富士市鮫島１１８−１０　イオンタウン富士南２Ｆ",
+    "location": [
+      35.1397245587637,
+      138.675802201272
     ],
     "country": "JP"
   },
@@ -4932,15 +4941,6 @@
     "country": "JP"
   },
   {
-    "name": "エースレーン守山",
-    "address": "滋賀県守山市播磨田町２３１−４ＡＣＴ守山３番館内",
-    "location": [
-      35.0678892151174,
-      135.995857709787
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ＧｉＧＯ甲西",
     "address": "滋賀県湖南市夏見字二ツ橋３５６−１",
     "location": [
@@ -5040,20 +5040,20 @@
     "country": "JP"
   },
   {
-    "name": "ＧｉＧＯ難波アビオン",
-    "address": "大阪府大阪市浪速区難波中２−３−１５　ＭＭＯビルＢ１Ｆ&#12316;３Ｆ",
-    "location": [
-      34.6627326708708,
-      135.503311207935
-    ],
-    "country": "JP"
-  },
-  {
     "name": "タイトーステーション大阪日本橋店",
     "address": "大阪府大阪市浪速区日本橋４−９−１４",
     "location": [
       34.6603931124344,
       135.506145557672
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ＧｉＧＯ難波アビオン",
+    "address": "大阪府大阪市浪速区難波中２−３−１５　ＭＭＯビルＢ１Ｆ&#12316;３Ｆ",
+    "location": [
+      34.6627326708708,
+      135.503311207935
     ],
     "country": "JP"
   },
@@ -5067,20 +5067,20 @@
     "country": "JP"
   },
   {
-    "name": "ラウンドワン梅田店",
-    "address": "大阪府大阪市北区小松原町４−１６",
-    "location": [
-      34.7030460353365,
-      135.501068180986
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ＧｉＧＯ東梅田",
     "address": "大阪府大阪市北区堂山町９−２８",
     "location": [
       34.7031007,
       135.5039563
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ラウンドワン梅田店",
+    "address": "大阪府大阪市北区小松原町４−１６",
+    "location": [
+      34.7030460353365,
+      135.501068180986
     ],
     "country": "JP"
   },
@@ -5094,20 +5094,20 @@
     "country": "JP"
   },
   {
-    "name": "ＧｉＧＯ今福",
-    "address": "大阪府大阪市城東区今福東１−９−３４",
-    "location": [
-      34.7009266,
-      135.5574414
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ラウンドワン城東放出店",
     "address": "大阪府大阪市城東区今福南3-4-38",
     "location": [
       34.6964966,
       135.5593162
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ＧｉＧＯ今福",
+    "address": "大阪府大阪市城東区今福東１−９−３４",
+    "location": [
+      34.7009266,
+      135.5574414
     ],
     "country": "JP"
   },
@@ -5369,6 +5369,15 @@
     "location": [
       34.510858318476,
       135.415627198148
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ソユーゲームフィールド泉南店",
+    "address": "大阪府泉南市りんくう南浜３番１２イオンモールりんくう泉南２Ｆ",
+    "location": [
+      34.3817902749917,
+      135.268921992096
     ],
     "country": "JP"
   },
@@ -6435,15 +6444,6 @@
     "country": "JP"
   },
   {
-    "name": "アソビクル新宮店",
-    "address": "福岡県糟屋郡新宮町三代９９９番地１",
-    "location": [
-      33.7031295,
-      130.4559895
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ふぇすたらんど久留米店",
     "address": "福岡県久留米市野中町1411-1",
     "location": [
@@ -6683,6 +6683,15 @@
     "location": [
       32.8114008946313,
       130.761862408321
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "パスカランドはません",
+    "address": "熊本県熊本市南区田井島1-2-1ゆめタウンはません3F",
+    "location": [
+      32.7716760075067,
+      130.726416541
     ],
     "country": "JP"
   },
@@ -7110,15 +7119,6 @@
     "country": "EN"
   },
   {
-    "name": "SHIRONEKOYA(TAIPEI)",
-    "address": "1 F No. 50, Nanyang St., Zhongzheng Dist., Taipei City 100007",
-    "location": [
-      25.0440094,
-      121.5159911
-    ],
-    "country": "EN"
-  },
-  {
     "name": "HALA(XINYANG)",
     "address": "1F., No.2, Xinyang St., Zhongzheng Dist., Taipei City 10047",
     "location": [
@@ -7142,6 +7142,15 @@
     "location": [
       25.0677905,
       121.4820754
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "SHIRONEKOYA(TAIPEI)",
+    "address": "1 F No. 50, Nanyang St., Zhongzheng Dist., Taipei City 100007",
+    "location": [
+      25.0440094,
+      121.5159911
     ],
     "country": "EN"
   },
@@ -7209,6 +7218,33 @@
     "country": "EN"
   },
   {
+    "name": "GiGO METRO WALK",
+    "address": "4F,NO.501 ,SEC.2,JHONGYUAN RD,JHONGLICITY,TAOYUAN COUNTY",
+    "location": [
+      25.0013610040415,
+      121.228575054891
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "SHIRONEKOYA(ZHONGLI)",
+    "address": "1F., No. 575, Yanping Rd., Zhongli Dist., Taoyuan City 320061",
+    "location": [
+      24.9547944,
+      121.222628
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "TIGER'S WORLD-CARREFOUR ZHONGYUAN",
+    "address": "1F.,No.501,Sec.2,Zhonghua Rd.,Zhongli Dist.,Taoyuan City 320021",
+    "location": [
+      24.9721514,
+      121.2053963
+    ],
+    "country": "EN"
+  },
+  {
     "name": "NEW CITY(ZHONGLI)",
     "address": "11F,NO.120,SEC.1,ZHONGYANG W.RD,ZHONGLI CITY, TAOYUAN",
     "location": [
@@ -7223,33 +7259,6 @@
     "location": [
       24.9541156,
       121.2240366
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "TIGER'S WORLD-CARREFOUR ZHONGYUAN",
-    "address": "1F.,No.501,Sec.2,Zhonghua Rd.,Zhongli Dist.,Taoyuan City 320021",
-    "location": [
-      24.9721514,
-      121.2053963
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "SHIRONEKOYA(ZHONGLI)",
-    "address": "1F., No. 575, Yanping Rd., Zhongli Dist., Taoyuan City 320061",
-    "location": [
-      24.9547944,
-      121.222628
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "GiGO METRO WALK",
-    "address": "4F,NO.501 ,SEC.2,JHONGYUAN RD,JHONGLICITY,TAOYUAN COUNTY",
-    "location": [
-      25.0013610040415,
-      121.228575054891
     ],
     "country": "EN"
   },
@@ -7272,15 +7281,6 @@
     "country": "EN"
   },
   {
-    "name": "SHIRONEKOYA(HSINCHU)",
-    "address": "1F., No.76, Xinyi St., East Dist., Hsinchu City 300025, Taiwan",
-    "location": [
-      24.8032086,
-      120.9706468
-    ],
-    "country": "EN"
-  },
-  {
     "name": "TOM'S WORLD(GIANT CITY@HSINCHU)",
     "address": "8F., NO.229, ZHONGYANG RD.,NORTH DIST., HSINCHU CITY",
     "location": [
@@ -7290,11 +7290,20 @@
     "country": "EN"
   },
   {
-    "name": "HALA PLANET(TAICHUNG YIZHONG)",
-    "address": "No.10, Taiping Rd., North Dist., Taichung City 404008, Taiwan",
+    "name": "SHIRONEKOYA(HSINCHU)",
+    "address": "1F., No.76, Xinyi St., East Dist., Hsinchu City 300025, Taiwan",
     "location": [
-      24.1476019,
-      120.6859621
+      24.8032086,
+      120.9706468
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "TOM'S WORLD(CHIN CHIN@TAICHUNG)",
+    "address": "B1F.-2,NO.14, BEITUN RD.,NORTH DISTRICT,TAICHUNG CITY",
+    "location": [
+      24.1601922906738,
+      120.691991665929
     ],
     "country": "EN"
   },
@@ -7308,11 +7317,11 @@
     "country": "EN"
   },
   {
-    "name": "TOM'S WORLD(CHIN CHIN@TAICHUNG)",
-    "address": "B1F.-2,NO.14, BEITUN RD.,NORTH DISTRICT,TAICHUNG CITY",
+    "name": "HALA PLANET(TAICHUNG YIZHONG)",
+    "address": "No.10, Taiping Rd., North Dist., Taichung City 404008, Taiwan",
     "location": [
-      24.1601922906738,
-      120.691991665929
+      24.1476019,
+      120.6859621
     ],
     "country": "EN"
   },
@@ -7884,15 +7893,6 @@
     "country": "EN"
   },
   {
-    "name": "COBAY 1U CROSS FIRE",
-    "address": "5F,1U SC.,1LEBUH BDR UTAMA,BDR UTAMA,PETALING JAYA,SELANGOR",
-    "location": [
-      3.15035380251033,
-      101.615866057672
-    ],
-    "country": "EN"
-  },
-  {
     "name": "PALO Central i-City",
     "address": "L4-18,Persiaran Multimedia,Seksyen 7,40000 Shah Alam,Selangor",
     "location": [
@@ -7947,20 +7947,20 @@
     "country": "EN"
   },
   {
-    "name": "MOLLY FANTASY SHAH ALAM",
-    "address": "13/64,Persiaran Akuatik,Seksyen13,40100 Shah Alam,Selangor",
-    "location": [
-      3.0725063,
-      101.5391023
-    ],
-    "country": "EN"
-  },
-  {
     "name": "MOLLY FANTASY SETIA CITY MALL",
     "address": "Bandar Setia Alam,Seksyen U13,40170 Shah Alam",
     "location": [
       3.0946288,
       101.4455208
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "MOLLY FANTASY SHAH ALAM",
+    "address": "13/64,Persiaran Akuatik,Seksyen13,40100 Shah Alam,Selangor",
+    "location": [
+      3.0725063,
+      101.5391023
     ],
     "country": "EN"
   },
@@ -8226,20 +8226,20 @@
     "country": "EN"
   },
   {
-    "name": "NOLJA GAME",
-    "address": "2F, 18, Jungang-daero 81-gil, Jung-gu, Daegu",
-    "location": [
-      35.8698745,
-      128.5926402
-    ],
-    "country": "EN"
-  },
-  {
     "name": "ROYAL GAME",
     "address": "454-1, Jungang-daero, Jung-gu, Daegu",
     "location": [
       35.8735075,
       128.5948787
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "NOLJA GAME",
+    "address": "2F, 18, Jungang-daero 81-gil, Jung-gu, Daegu",
+    "location": [
+      35.8698745,
+      128.5926402
     ],
     "country": "EN"
   },
@@ -8406,6 +8406,15 @@
     "country": "EN"
   },
   {
+    "name": "CPCM PLUIT VILLAGE MALL",
+    "address": "RW.4,KELURAHAN PLUIT,KECAMATAN PENJARINGAN,JAKARTA UTARA 14450",
+    "location": [
+      -6.1147451,
+      106.7986648
+    ],
+    "country": "EN"
+  },
+  {
     "name": "CPCM ELYSEE",
     "address": "LOT 21, JL. SCBD NO. KAV 52-53,KOTA JAKARTA SELATAN",
     "location": [
@@ -8429,6 +8438,15 @@
     "location": [
       -6.1519684,
       106.9188253
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "CPCM PIK2 (PANTAI INDAH KAPUK)",
+    "address": "Entertainment District PIK 2, Blok A6, Jl. Rasuna Said, PIK 2,",
+    "location": [
+      0.0,
+      0.0
     ],
     "country": "EN"
   },
