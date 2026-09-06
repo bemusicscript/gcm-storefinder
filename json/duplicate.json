@@ -27,6 +27,15 @@
     "country": "JP"
   },
   {
+    "name": "キャッツアイ新川店",
+    "address": "北海道札幌市北区新川二条７丁目１ー７",
+    "location": [
+      43.1007366157603,
+      141.31029544418
+    ],
+    "country": "JP"
+  },
+  {
     "name": "キャッツアイ篠路店",
     "address": "北海道札幌市北区篠路１条４丁目６ー３０",
     "location": [
@@ -45,15 +54,6 @@
     "country": "JP"
   },
   {
-    "name": "キャッツアイ新川店",
-    "address": "北海道札幌市北区新川二条７丁目１ー７",
-    "location": [
-      43.1007366157603,
-      141.31029544418
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ラウンドワン札幌白石本通店",
     "address": "北海道札幌市白石区本通１６丁目北１−５０",
     "location": [
@@ -63,20 +63,20 @@
     "country": "JP"
   },
   {
-    "name": "ゲームランド新さっぽろ",
-    "address": "北海道札幌市厚別区厚別中央２条５丁目７サンピアザ３階",
-    "location": [
-      43.0374407,
-      141.4724783
-    ],
-    "country": "JP"
-  },
-  {
     "name": "キャッツアイ新札幌店",
     "address": "北海道札幌市厚別区厚別東五条１ー２−１０",
     "location": [
       43.0452612290192,
       141.475797
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ゲームランド新さっぽろ",
+    "address": "北海道札幌市厚別区厚別中央２条５丁目７サンピアザ３階",
+    "location": [
+      43.0374407,
+      141.4724783
     ],
     "country": "JP"
   },
@@ -257,15 +257,6 @@
     "location": [
       42.8759049120291,
       141.583504237434
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "ＧｉＧＯ室蘭",
-    "address": "北海道室蘭市東町４丁目３１番２号１階",
-    "location": [
-      42.3421725595211,
-      141.025956625166
     ],
     "country": "JP"
   },
@@ -3519,6 +3510,15 @@
     "country": "JP"
   },
   {
+    "name": "ＦｅｅｄｙＡｒｃａｄｅ新潟亀田インター",
+    "address": "新潟県新潟市江南区下早通柳田１ー１ー１　イオンモール２階",
+    "location": [
+      37.8760671,
+      139.0812391
+    ],
+    "country": "JP"
+  },
+  {
     "name": "ＧｉＧＯイオンモール新発田",
     "address": "新潟県新発田市住吉町５‐１１‐５イオンモール新発田店２Ｆ",
     "location": [
@@ -4937,6 +4937,15 @@
     "location": [
       35.1318688,
       136.1023034
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "エースレーン守山",
+    "address": "滋賀県守山市播磨田町２３１−４ＡＣＴ守山３番館内",
+    "location": [
+      35.0678892151174,
+      135.995857709787
     ],
     "country": "JP"
   },
@@ -6444,6 +6453,15 @@
     "country": "JP"
   },
   {
+    "name": "アソビクル新宮店",
+    "address": "福岡県糟屋郡新宮町三代９９９番地１",
+    "location": [
+      33.7031295,
+      130.4559895
+    ],
+    "country": "JP"
+  },
+  {
     "name": "ふぇすたらんど久留米店",
     "address": "福岡県久留米市野中町1411-1",
     "location": [
@@ -6683,15 +6701,6 @@
     "location": [
       32.8114008946313,
       130.761862408321
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "パスカランドはません",
-    "address": "熊本県熊本市南区田井島1-2-1ゆめタウンはません3F",
-    "location": [
-      32.7716760075067,
-      130.726416541
     ],
     "country": "JP"
   },
@@ -7947,20 +7956,20 @@
     "country": "EN"
   },
   {
-    "name": "MOLLY FANTASY SETIA CITY MALL",
-    "address": "Bandar Setia Alam,Seksyen U13,40170 Shah Alam",
-    "location": [
-      3.0946288,
-      101.4455208
-    ],
-    "country": "EN"
-  },
-  {
     "name": "MOLLY FANTASY SHAH ALAM",
     "address": "13/64,Persiaran Akuatik,Seksyen13,40100 Shah Alam,Selangor",
     "location": [
       3.0725063,
       101.5391023
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "MOLLY FANTASY SETIA CITY MALL",
+    "address": "Bandar Setia Alam,Seksyen U13,40170 Shah Alam",
+    "location": [
+      3.0946288,
+      101.4455208
     ],
     "country": "EN"
   },
@@ -8897,15 +8906,6 @@
     "location": [
       -33.7973628,
       151.1831083
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "ZONE BOWLING TOP RYDE",
-    "address": "GRD M5,Top Ryde City Shopping Centre,Blaxland Rd.&Devlin St.NSW",
-    "location": [
-      -33.8122148,
-      151.1062214
     ],
     "country": "EN"
   },

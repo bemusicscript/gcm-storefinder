@@ -36,6 +36,15 @@
     "country": "JP"
   },
   {
+    "name": "キャッツアイ新川店",
+    "address": "北海道札幌市北区新川二条７丁目１ー７",
+    "location": [
+      43.1007366157603,
+      141.31029544418
+    ],
+    "country": "JP"
+  },
+  {
     "name": "キャッツアイ篠路店",
     "address": "北海道札幌市北区篠路１条４丁目６ー３０",
     "location": [
@@ -54,11 +63,11 @@
     "country": "JP"
   },
   {
-    "name": "キャッツアイ新川店",
-    "address": "北海道札幌市北区新川二条７丁目１ー７",
+    "name": "ラウンドワン札幌白石本通店",
+    "address": "北海道札幌市白石区本通１６丁目北１−５０",
     "location": [
-      43.1007366157603,
-      141.31029544418
+      43.0367922,
+      141.432878088361
     ],
     "country": "JP"
   },
@@ -72,11 +81,11 @@
     "country": "JP"
   },
   {
-    "name": "ラウンドワン札幌白石本通店",
-    "address": "北海道札幌市白石区本通１６丁目北１−５０",
+    "name": "キャッツアイ新札幌店",
+    "address": "北海道札幌市厚別区厚別東五条１ー２−１０",
     "location": [
-      43.0367922,
-      141.432878088361
+      43.0452612290192,
+      141.475797
     ],
     "country": "JP"
   },
@@ -86,15 +95,6 @@
     "location": [
       43.0374407,
       141.4724783
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "キャッツアイ新札幌店",
-    "address": "北海道札幌市厚別区厚別東五条１ー２−１０",
-    "location": [
-      43.0452612290192,
-      141.475797
     ],
     "country": "JP"
   },
@@ -333,15 +333,6 @@
     "country": "JP"
   },
   {
-    "name": "ＭＥＧＡＧＥＴ釧路",
-    "address": "北海道釧路郡釧路町木場２丁目１ー１",
-    "location": [
-      43.0089189731705,
-      144.408003524606
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ＰＡＬＯ釧路",
     "address": "北海道釧路郡釧路町桂木１−１−７　イオン釧路店２F",
     "location": [
@@ -351,20 +342,20 @@
     "country": "JP"
   },
   {
+    "name": "ＭＥＧＡＧＥＴ釧路",
+    "address": "北海道釧路郡釧路町木場２丁目１ー１",
+    "location": [
+      43.0089189731705,
+      144.408003524606
+    ],
+    "country": "JP"
+  },
+  {
     "name": "キャッツアイ恵庭店",
     "address": "北海道恵庭市住吉町２丁目９−１",
     "location": [
       42.8759049120291,
       141.583504237434
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "ＧｉＧＯ室蘭",
-    "address": "北海道室蘭市東町４丁目３１番２号１階",
-    "location": [
-      42.3421725595211,
-      141.025956625166
     ],
     "country": "JP"
   },
@@ -698,6 +689,15 @@
     "location": [
       39.6110711663472,
       141.152680513492
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "キッズランド",
+    "address": "岩手県紫波郡紫波町桜町１丁目１２−１　ナックス内キッズランド",
+    "location": [
+      39.5490768,
+      141.165242
     ],
     "country": "JP"
   },
@@ -8658,15 +8658,6 @@
     "country": "JP"
   },
   {
-    "name": "パスカランドはません",
-    "address": "熊本県熊本市南区田井島1-2-1ゆめタウンはません3F",
-    "location": [
-      32.7716760075067,
-      130.726416541
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ｎａｍｃｏワンダーシティ南熊本店",
     "address": "熊本県熊本市中央区九品寺６−９−１",
     "location": [
@@ -10494,6 +10485,15 @@
     "country": "EN"
   },
   {
+    "name": "FUN SCAPE@PARADIGM MALL JOHOR BAHRU",
+    "address": "4FPARADIGM MALL,JOHOR BAHRU,LEVEL2,JALAN SKUDAI 81200JOHOR",
+    "location": [
+      1.5103164,
+      103.68819
+    ],
+    "country": "EN"
+  },
+  {
     "name": "PALO MidValley Southkey",
     "address": "Lot S-012, Jalan Bakar Batu, Southkey, 81100 Johor Bahru, Johor.",
     "location": [
@@ -10773,20 +10773,20 @@
     "country": "EN"
   },
   {
-    "name": "MOLLY FANTASY SETIA CITY MALL",
-    "address": "Bandar Setia Alam,Seksyen U13,40170 Shah Alam",
-    "location": [
-      3.0946288,
-      101.4455208
-    ],
-    "country": "EN"
-  },
-  {
     "name": "MOLLY FANTASY SHAH ALAM",
     "address": "13/64,Persiaran Akuatik,Seksyen13,40100 Shah Alam,Selangor",
     "location": [
       3.0725063,
       101.5391023
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "MOLLY FANTASY SETIA CITY MALL",
+    "address": "Bandar Setia Alam,Seksyen U13,40170 Shah Alam",
+    "location": [
+      3.0946288,
+      101.4455208
     ],
     "country": "EN"
   },
@@ -11682,20 +11682,20 @@
     "country": "EN"
   },
   {
-    "name": "SEMARANG 23 ARKANA",
-    "address": "Jl.Kawasan POJCity (Pearl of Jav",
-    "location": [
-      0.0,
-      0.0
-    ],
-    "country": "EN"
-  },
-  {
     "name": "TIMEZONE DUTA PERTIWI",
     "address": "Jalan Pemuda No. 150, Semarang 50132",
     "location": [
       -6.9832693,
       110.4121797
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "SEMARANG 23 ARKANA",
+    "address": "Jl.Kawasan POJCity (Pearl of Jav",
+    "location": [
+      0.0,
+      0.0
     ],
     "country": "EN"
   },
@@ -11768,15 +11768,6 @@
     "location": [
       -8.7018086,
       115.1828021
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "TIMEZONE GALERIA BALI",
-    "address": "JI.RayaByPassIGustiNgurahRai,SimpangDewa Ruci,Kuta,Denpasar,Bali",
-    "location": [
-      -8.6985178,
-      115.1708974
     ],
     "country": "EN"
   },
@@ -12024,6 +12015,24 @@
     "country": "EN"
   },
   {
+    "name": "AMUSEMENT 2020",
+    "address": "7350 Bd Taschereau, Brossard, QC J4W 1M9 Canada",
+    "location": [
+      45.4598478,
+      -73.4669186
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "GAMETIME SOCIAL",
+    "address": "2601 Rutherford Rd, Concord, ONL4K 2N6 Canada",
+    "location": [
+      43.8331405,
+      -79.521353
+    ],
+    "country": "EN"
+  },
+  {
     "name": "ROUND1 MORENO VALLEY MALL",
     "address": "22500 Town Circle Suite 2030, Moreno Valley, CA 92553",
     "location": [
@@ -12218,15 +12227,6 @@
     "location": [
       38.2248985,
       -122.1238603
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "ROUND1 PACIFIC VIEW",
-    "address": "3295 East Main Street, Suite 2 Ventura, CA 93003",
-    "location": [
-      34.2684873,
-      -119.2497252
     ],
     "country": "EN"
   },
@@ -12546,15 +12546,6 @@
     "country": "EN"
   },
   {
-    "name": "THE ORLEANS",
-    "address": "The Orleans Hotel Casino,4500 WTropicana Ave,Las Vegas,NV 89103",
-    "location": [
-      36.1026267,
-      -115.200939
-    ],
-    "country": "EN"
-  },
-  {
     "name": "SOUTH POINT",
     "address": "9777 S. Las Vegas Blvd, Las Vegas, NV 89183",
     "location": [
@@ -12780,15 +12771,6 @@
     "country": "EN"
   },
   {
-    "name": "DAVE & BUSTERS BRISTOL",
-    "address": "567 PINNACLE PARKWAY , BRISTOL TN 37620",
-    "location": [
-      36.5924045,
-      -82.2554274
-    ],
-    "country": "EN"
-  },
-  {
     "name": "ROUND1 ARLINGTON PARKS",
     "address": "3811 S. Cooper St., Suite 6004,Arlington TX 76015",
     "location": [
@@ -12821,6 +12803,15 @@
     "location": [
       30.0089636,
       -95.2697497
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "ROUND1 WILLOWBROOK MALL",
+    "address": "3000 WILLOWBROOK MALL, HOUSTON TX 77070",
+    "location": [
+      29.9624184,
+      -95.5399098
     ],
     "country": "EN"
   },
@@ -14189,6 +14180,15 @@
     "location": [
       0.0,
       0.0
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "GAZE AMUSEMENT",
+    "address": "4th Floor, City Square Center, TaungGyi, Shan State",
+    "location": [
+      20.7832527,
+      97.036497
     ],
     "country": "EN"
   },
