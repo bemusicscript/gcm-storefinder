@@ -6705,6 +6705,15 @@
     "country": "JP"
   },
   {
+    "name": "パスカランドはません",
+    "address": "熊本県熊本市南区田井島1-2-1ゆめタウンはません3F",
+    "location": [
+      32.7716760075067,
+      130.726416541
+    ],
+    "country": "JP"
+  },
+  {
     "name": "ｎａｍｃｏワンダーシティ南熊本店",
     "address": "熊本県熊本市中央区九品寺６−９−１",
     "location": [
@@ -7128,6 +7137,15 @@
     "country": "EN"
   },
   {
+    "name": "SHIRONEKOYA(TAIPEI)",
+    "address": "1 F No. 50, Nanyang St., Zhongzheng Dist., Taipei City 100007",
+    "location": [
+      25.0440094,
+      121.5159911
+    ],
+    "country": "EN"
+  },
+  {
     "name": "HALA(XINYANG)",
     "address": "1F., No.2, Xinyang St., Zhongzheng Dist., Taipei City 10047",
     "location": [
@@ -7151,15 +7169,6 @@
     "location": [
       25.0677905,
       121.4820754
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "SHIRONEKOYA(TAIPEI)",
-    "address": "1 F No. 50, Nanyang St., Zhongzheng Dist., Taipei City 100007",
-    "location": [
-      25.0440094,
-      121.5159911
     ],
     "country": "EN"
   },
@@ -7227,33 +7236,6 @@
     "country": "EN"
   },
   {
-    "name": "GiGO METRO WALK",
-    "address": "4F,NO.501 ,SEC.2,JHONGYUAN RD,JHONGLICITY,TAOYUAN COUNTY",
-    "location": [
-      25.0013610040415,
-      121.228575054891
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "SHIRONEKOYA(ZHONGLI)",
-    "address": "1F., No. 575, Yanping Rd., Zhongli Dist., Taoyuan City 320061",
-    "location": [
-      24.9547944,
-      121.222628
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "TIGER'S WORLD-CARREFOUR ZHONGYUAN",
-    "address": "1F.,No.501,Sec.2,Zhonghua Rd.,Zhongli Dist.,Taoyuan City 320021",
-    "location": [
-      24.9721514,
-      121.2053963
-    ],
-    "country": "EN"
-  },
-  {
     "name": "NEW CITY(ZHONGLI)",
     "address": "11F,NO.120,SEC.1,ZHONGYANG W.RD,ZHONGLI CITY, TAOYUAN",
     "location": [
@@ -7268,6 +7250,24 @@
     "location": [
       24.9541156,
       121.2240366
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "SHIRONEKOYA(ZHONGLI)",
+    "address": "1F., No. 575, Yanping Rd., Zhongli Dist., Taoyuan City 320061",
+    "location": [
+      24.9547944,
+      121.222628
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "GiGO METRO WALK",
+    "address": "4F,NO.501 ,SEC.2,JHONGYUAN RD,JHONGLICITY,TAOYUAN COUNTY",
+    "location": [
+      25.0013610040415,
+      121.228575054891
     ],
     "country": "EN"
   },
@@ -7290,15 +7290,6 @@
     "country": "EN"
   },
   {
-    "name": "TOM'S WORLD(GIANT CITY@HSINCHU)",
-    "address": "8F., NO.229, ZHONGYANG RD.,NORTH DIST., HSINCHU CITY",
-    "location": [
-      24.8103598821181,
-      120.975195775424
-    ],
-    "country": "EN"
-  },
-  {
     "name": "SHIRONEKOYA(HSINCHU)",
     "address": "1F., No.76, Xinyi St., East Dist., Hsinchu City 300025, Taiwan",
     "location": [
@@ -7308,11 +7299,20 @@
     "country": "EN"
   },
   {
-    "name": "TOM'S WORLD(CHIN CHIN@TAICHUNG)",
-    "address": "B1F.-2,NO.14, BEITUN RD.,NORTH DISTRICT,TAICHUNG CITY",
+    "name": "TOM'S WORLD(GIANT CITY@HSINCHU)",
+    "address": "8F., NO.229, ZHONGYANG RD.,NORTH DIST., HSINCHU CITY",
     "location": [
-      24.1601922906738,
-      120.691991665929
+      24.8103598821181,
+      120.975195775424
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "HALA PLANET(TAICHUNG YIZHONG)",
+    "address": "No.10, Taiping Rd., North Dist., Taichung City 404008, Taiwan",
+    "location": [
+      24.1476019,
+      120.6859621
     ],
     "country": "EN"
   },
@@ -7326,11 +7326,11 @@
     "country": "EN"
   },
   {
-    "name": "HALA PLANET(TAICHUNG YIZHONG)",
-    "address": "No.10, Taiping Rd., North Dist., Taichung City 404008, Taiwan",
+    "name": "TOM'S WORLD(CHIN CHIN@TAICHUNG)",
+    "address": "B1F.-2,NO.14, BEITUN RD.,NORTH DISTRICT,TAICHUNG CITY",
     "location": [
-      24.1476019,
-      120.6859621
+      24.1601922906738,
+      120.691991665929
     ],
     "country": "EN"
   },
@@ -8454,8 +8454,8 @@
     "name": "CPCM PIK2 (PANTAI INDAH KAPUK)",
     "address": "Entertainment District PIK 2, Blok A6, Jl. Rasuna Said, PIK 2,",
     "location": [
-      0.0,
-      0.0
+      -6.047212999999999,
+      106.7046377
     ],
     "country": "EN"
   },
@@ -8913,8 +8913,8 @@
     "name": "TIMEZONE ERINA",
     "address": "SHOP H09, Terrigal Dr, Erina NSW 2250",
     "location": [
-      0.0,
-      0.0
+      -33.43756270349177,
+      151.3916931146161
     ],
     "country": "EN"
   },

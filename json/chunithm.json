@@ -9261,6 +9261,15 @@
     "country": "JP"
   },
   {
+    "name": "パスカランドはません",
+    "address": "熊本県熊本市南区田井島1-2-1ゆめタウンはません3F",
+    "location": [
+      32.7716760075067,
+      130.726416541
+    ],
+    "country": "JP"
+  },
+  {
     "name": "ｎａｍｃｏワンダーシティ南熊本店",
     "address": "熊本県熊本市中央区九品寺６−９−１",
     "location": [
@@ -9765,20 +9774,20 @@
     "country": "EN"
   },
   {
-    "name": "HALA PLANET (XIMEN)",
-    "address": "No.11, Ln.144, Sec.1,Zhonghua Rd.Wanhua Dist., Taipei City 108",
-    "location": [
-      25.0436445,
-      121.508661
-    ],
-    "country": "EN"
-  },
-  {
     "name": "X50 MGS TAIPEI",
     "address": "No.49, Emei St., Wanhua Dist., Taipei City 108, Taiwan (R.O.C.)",
     "location": [
       25.0329694,
       121.5654177
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "HALA PLANET (XIMEN)",
+    "address": "No.11, Ln.144, Sec.1,Zhonghua Rd.Wanhua Dist., Taipei City 108",
+    "location": [
+      25.0436445,
+      121.508661
     ],
     "country": "EN"
   },
@@ -9801,20 +9810,20 @@
     "country": "EN"
   },
   {
-    "name": "INFINITY WORLD",
-    "address": "No.22-50-1 Zhongshan Rd. Banqiao Dist. New Taipei City 220073",
-    "location": [
-      25.0093347,
-      121.4611035
-    ],
-    "country": "EN"
-  },
-  {
     "name": "HALA PLANET (NANYA)",
     "address": "1F,No31-5,Nanya E Rd.Banqiao Dist.New Taipei City 220053",
     "location": [
       25.0056896,
       121.455297
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "INFINITY WORLD",
+    "address": "No.22-50-1 Zhongshan Rd. Banqiao Dist. New Taipei City 220073",
+    "location": [
+      25.0093347,
+      121.4611035
     ],
     "country": "EN"
   },
@@ -9846,15 +9855,6 @@
     "country": "EN"
   },
   {
-    "name": "HALA(XINYANG)",
-    "address": "1F., No.2, Xinyang St., Zhongzheng Dist., Taipei City 10047",
-    "location": [
-      25.0445923,
-      121.5167157
-    ],
-    "country": "EN"
-  },
-  {
     "name": "HALA PLANET",
     "address": "130,Sec.4,RooseveltRd.Zhongzheng Dist., Taipei City 100, Taiwan",
     "location": [
@@ -9864,20 +9864,29 @@
     "country": "EN"
   },
   {
-    "name": "SHIRONEKOYA(TAIPEI)",
-    "address": "1 F No. 50, Nanyang St., Zhongzheng Dist., Taipei City 100007",
-    "location": [
-      25.0440094,
-      121.5159911
-    ],
-    "country": "EN"
-  },
-  {
     "name": "LIBAO COMPANY",
     "address": "NO.50-1,SEC.1,ZHONGXIAO W.RD.,ZHONGZHENG DIST., TAIPEI CITY100",
     "location": [
       25.0677905,
       121.4820754
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "HALA(XINYANG)",
+    "address": "1F., No.2, Xinyang St., Zhongzheng Dist., Taipei City 10047",
+    "location": [
+      25.0445923,
+      121.5167157
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "SHIRONEKOYA(TAIPEI)",
+    "address": "1 F No. 50, Nanyang St., Zhongzheng Dist., Taipei City 100007",
+    "location": [
+      25.0440094,
+      121.5159911
     ],
     "country": "EN"
   },
@@ -9936,20 +9945,20 @@
     "country": "EN"
   },
   {
-    "name": "HALA PLANET(TAOYUAN)",
-    "address": "No. 168, Fuxing Rd., Taoyuan Dist., Taoyuan City 330046",
-    "location": [
-      24.9904077,
-      121.312293
-    ],
-    "country": "EN"
-  },
-  {
     "name": "SHIRONEKOYA",
     "address": "No.127, Fuxing Rd., Taoyuan Dist., TaoyuanCity33066,Taiwan",
     "location": [
       24.990303,
       121.312723
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "HALA PLANET(TAOYUAN)",
+    "address": "No. 168, Fuxing Rd., Taoyuan Dist., Taoyuan City 330046",
+    "location": [
+      24.9904077,
+      121.312293
     ],
     "country": "EN"
   },
@@ -9963,20 +9972,11 @@
     "country": "EN"
   },
   {
-    "name": "SHIRONEKOYA(ZHONGLI)",
-    "address": "1F., No. 575, Yanping Rd., Zhongli Dist., Taoyuan City 320061",
+    "name": "NEW CITY(ZHONGLI)",
+    "address": "11F,NO.120,SEC.1,ZHONGYANG W.RD,ZHONGLI CITY, TAOYUAN",
     "location": [
-      24.9547944,
-      121.222628
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "TIGER'S WORLD-CARREFOUR ZHONGYUAN",
-    "address": "1F.,No.501,Sec.2,Zhonghua Rd.,Zhongli Dist.,Taoyuan City 320021",
-    "location": [
-      24.9721514,
-      121.2053963
+      24.9584889,
+      121.2203631
     ],
     "country": "EN"
   },
@@ -9990,11 +9990,11 @@
     "country": "EN"
   },
   {
-    "name": "NEW CITY(ZHONGLI)",
-    "address": "11F,NO.120,SEC.1,ZHONGYANG W.RD,ZHONGLI CITY, TAOYUAN",
+    "name": "SHIRONEKOYA(ZHONGLI)",
+    "address": "1F., No. 575, Yanping Rd., Zhongli Dist., Taoyuan City 320061",
     "location": [
-      24.9584889,
-      121.2203631
+      24.9547944,
+      121.222628
     ],
     "country": "EN"
   },
@@ -10004,15 +10004,6 @@
     "location": [
       25.0462073,
       121.2953089
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "TOM'S WORLD(JHONGSING@HSINCHU)",
-    "address": "1F.,NO.32, LINSEN RD.,HSINCHU CITY,",
-    "location": [
-      24.801872,
-      120.9689311
     ],
     "country": "EN"
   },
@@ -10031,6 +10022,15 @@
     "location": [
       24.8103598821181,
       120.975195775424
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "TOM'S WORLD(JHONGSING@HSINCHU)",
+    "address": "1F.,NO.32, LINSEN RD.,HSINCHU CITY,",
+    "location": [
+      24.801872,
+      120.9689311
     ],
     "country": "EN"
   },
@@ -11235,8 +11235,8 @@
     "name": "CPCM PIK2 (PANTAI INDAH KAPUK)",
     "address": "Entertainment District PIK 2, Blok A6, Jl. Rasuna Said, PIK 2,",
     "location": [
-      0.0,
-      0.0
+      -6.047212999999999,
+      106.7046377
     ],
     "country": "EN"
   },
@@ -11721,8 +11721,8 @@
     "name": "TIMEZONE ERINA",
     "address": "SHOP H09, Terrigal Dr, Erina NSW 2250",
     "location": [
-      0.0,
-      0.0
+      -33.43756270349177,
+      151.3916931146161
     ],
     "country": "EN"
   },
