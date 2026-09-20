@@ -1,14 +1,5 @@
 [
   {
-    "name": "ＧｉＧＯすすきの",
-    "address": "北海道札幌市中央区南３条西４丁目１ー１",
-    "location": [
-      43.0564347,
-      141.3528307
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ラウンドワン札幌すすきの店",
     "address": "北海道札幌市中央区南五条西3-6-1",
     "location": [
@@ -3506,15 +3497,6 @@
     "location": [
       37.7605971339601,
       139.022213941833
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "ＦｅｅｄｙＡｒｃａｄｅ新潟亀田インター",
-    "address": "新潟県新潟市江南区下早通柳田１ー１ー１　イオンモール２階",
-    "location": [
-      37.8760671,
-      139.0812391
     ],
     "country": "JP"
   },
@@ -8112,8 +8094,8 @@
     "name": "PAVILION BUKIT JALIL (GAME ON)",
     "address": "4.82.00,LEVEL 4,PAVILION BUKIT JALIL,2,PERSIARAN JALIL 8",
     "location": [
-      0.0,
-      0.0
+      3.0502304,
+      101.6709761
     ],
     "country": "EN"
   },
@@ -8906,15 +8888,6 @@
     "location": [
       -33.7973628,
       151.1831083
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "TIMEZONE ERINA",
-    "address": "SHOP H09, Terrigal Dr, Erina NSW 2250",
-    "location": [
-      -33.43756270349177,
-      151.3916931146161
     ],
     "country": "EN"
   },

@@ -8910,15 +8910,6 @@
     "country": "JP"
   },
   {
-    "name": "ドリームランド宮崎ナナイロ",
-    "address": "宮崎県宮崎市橘通西３−１０−３２宮崎ナナイロ西館３F",
-    "location": [
-      31.9160367,
-      131.4227644
-    ],
-    "country": "JP"
-  },
-  {
     "name": "楽市楽座イオンモール都城駅前店",
     "address": "宮崎県都城市栄町４６７２−５ｲｵﾝﾓｰﾙ都城駅前店2階",
     "location": [
@@ -9032,15 +9023,6 @@
     "location": [
       31.7323151190014,
       130.626592057117
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "ｎａｍｃｏサンエー浦添西海岸パルコシティ",
-    "address": "沖縄県浦添市西洲３ー１ー１サンエー浦添西海岸パルコシティ３Ｆ",
-    "location": [
-      26.2617727,
-      127.6978482
     ],
     "country": "JP"
   },
@@ -10530,6 +10512,15 @@
     "country": "EN"
   },
   {
+    "name": "AURORA GAMES",
+    "address": "No4F63&63A, Lv4, Paradigm Mall,Skudai Hwy, Taman Bukit Merah",
+    "location": [
+      1.5156318,
+      103.6857437
+    ],
+    "country": "EN"
+  },
+  {
     "name": "MOLLY FANTASY AEON BUKIT INDAH",
     "address": "N0.8,Jalan Indah,15/2,81200 Johor Bahru",
     "location": [
@@ -11028,8 +11019,8 @@
     "name": "PAVILION BUKIT JALIL (GAME ON)",
     "address": "4.82.00,LEVEL 4,PAVILION BUKIT JALIL,2,PERSIARAN JALIL 8",
     "location": [
-      0.0,
-      0.0
+      3.0502304,
+      101.6709761
     ],
     "country": "EN"
   },
@@ -12672,6 +12663,15 @@
     "country": "EN"
   },
   {
+    "name": "GATCHA BOWERY",
+    "address": "138 Bowery, New York, NY 10013",
+    "location": [
+      40.7191675,
+      -73.9948755
+    ],
+    "country": "EN"
+  },
+  {
     "name": "CLAW CADE",
     "address": "630 OLD COUNTRY RD GARDEN CITY NY11530",
     "location": [
@@ -12807,15 +12807,6 @@
     "country": "EN"
   },
   {
-    "name": "DAVE & BUSTERS BRISTOL",
-    "address": "567 PINNACLE PARKWAY , BRISTOL TN 37620",
-    "location": [
-      36.5924045,
-      -82.2554274
-    ],
-    "country": "EN"
-  },
-  {
     "name": "ROUND1 ARLINGTON PARKS",
     "address": "3811 S. Cooper St., Suite 6004,Arlington TX 76015",
     "location": [
@@ -12906,6 +12897,15 @@
     "country": "EN"
   },
   {
+    "name": "GAMESCAPE BY CINEMARK",
+    "address": "3800 Ablowich drive, Greenville, TX 75402",
+    "location": [
+      33.0952191,
+      -96.16125960000001
+    ],
+    "country": "EN"
+  },
+  {
     "name": "DAVE & BUSTER'S MCKINNEY",
     "address": "4064 WEST UNIVERSITY DRIVE , Mckinney TX 75071",
     "location": [
@@ -12987,15 +12987,6 @@
     "country": "EN"
   },
   {
-    "name": "QUANTUM(SM STA.MESA)",
-    "address": "3FSMCitySta.Mesa,RamonMagsaysayBoulevard cor.AranetaAve,QuenzonC",
-    "location": [
-      14.6055525,
-      121.0186901
-    ],
-    "country": "EN"
-  },
-  {
     "name": "QUANTUM SM NORTH EDSA",
     "address": "SM NORHT EDSA, QUEZON CITY",
     "location": [
@@ -13010,6 +13001,15 @@
     "location": [
       14.708228,
       121.0373958
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "QUANTUM(SM STA.MESA)",
+    "address": "3FSMCitySta.Mesa,RamonMagsaysayBoulevard cor.AranetaAve,QuenzonC",
+    "location": [
+      14.6055525,
+      121.0186901
     ],
     "country": "EN"
   },
@@ -13059,20 +13059,20 @@
     "country": "EN"
   },
   {
-    "name": "CLUB SYNERGY SM MEGAMALL",
-    "address": "LGF SM MEGAMALL, JULIA VARGAS COR EDSA, MANDALUYONG CITY",
-    "location": [
-      14.5851052,
-      121.0569621
-    ],
-    "country": "EN"
-  },
-  {
     "name": "Q POWER STATION SHANGRILA",
     "address": "EASTWING EDSA CORNER SHAW BOULEVARD, MANDALUYONG CITY",
     "location": [
       14.5812818,
       121.0538687
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "CLUB SYNERGY SM MEGAMALL",
+    "address": "LGF SM MEGAMALL, JULIA VARGAS COR EDSA, MANDALUYONG CITY",
+    "location": [
+      14.5851052,
+      121.0569621
     ],
     "country": "EN"
   },
@@ -13167,20 +13167,20 @@
     "country": "EN"
   },
   {
-    "name": "TIMEZONE TIMEZONE GATEWAY",
-    "address": "L3 GatewayMall 2 General Araneta Av, Araneta City, Brgy. Socorro",
-    "location": [
-      0.0,
-      0.0
-    ],
-    "country": "EN"
-  },
-  {
     "name": "TIMEZONE UP TOWN CENTER",
     "address": "2F UP Town Center Phase 2 Katipunan Ave. U.P. Campus, Diliman",
     "location": [
       14.6507347,
       121.0746778
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "TIMEZONE TIMEZONE GATEWAY",
+    "address": "L3 GatewayMall 2 General Araneta Av, Araneta City, Brgy. Socorro",
+    "location": [
+      0.0,
+      0.0
     ],
     "country": "EN"
   },
@@ -13230,20 +13230,20 @@
     "country": "EN"
   },
   {
-    "name": "Q POWER STATION-PARKTRIANGLE MALL-BGC",
-    "address": "4F Park Triangle Mall, Fort Bonifacio Global City, Taguig, 1634",
-    "location": [
-      0.0,
-      0.0
-    ],
-    "country": "EN"
-  },
-  {
     "name": "QUANTUM UPTOWN MALL BGC",
     "address": "Uptown Mall,9th Ave cor36th St,Fort Bonifacio,Taguig,MetroManila",
     "location": [
       14.5565479,
       121.054103
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "Q POWER STATION-PARKTRIANGLE MALL-BGC",
+    "address": "4F Park Triangle Mall, Fort Bonifacio Global City, Taguig, 1634",
+    "location": [
+      0.0,
+      0.0
     ],
     "country": "EN"
   },
@@ -13406,6 +13406,15 @@
     "location": [
       0.0,
       0.0
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "QUANTUM SM GENERAL SANTOS",
+    "address": "2nd Floor SM General Santos Santiago Blvd General Santos City",
+    "location": [
+      6.1154774,
+      125.1810148
     ],
     "country": "EN"
   },
@@ -13883,15 +13892,6 @@
     "location": [
       -33.9448896,
       151.2243238
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "TIMEZONE ERINA",
-    "address": "SHOP H09, Terrigal Dr, Erina NSW 2250",
-    "location": [
-      -33.43756270349177,
-      151.3916931146161
     ],
     "country": "EN"
   },
