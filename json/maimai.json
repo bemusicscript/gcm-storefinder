@@ -2007,15 +2007,6 @@
     "country": "JP"
   },
   {
-    "name": "シルクハット川口",
-    "address": "埼玉県川口市栄町３−１−１６イート川口ビル４Ｆ",
-    "location": [
-      35.8030674709039,
-      139.717445211639
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ゲームシティ川口店",
     "address": "埼玉県川口市栄町1-10-5",
     "location": [
@@ -2025,20 +2016,20 @@
     "country": "JP"
   },
   {
+    "name": "シルクハット川口",
+    "address": "埼玉県川口市栄町３−１−１６イート川口ビル４Ｆ",
+    "location": [
+      35.8030674709039,
+      139.717445211639
+    ],
+    "country": "JP"
+  },
+  {
     "name": "楽市楽座イオンモール川口前川店",
     "address": "埼玉県川口市前川1-1-11イオンモール川口前川店3F",
     "location": [
       35.8341858,
       139.707058
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "ソユーゲームフィールド川口店",
-    "address": "埼玉県川口市並木元町１−７９　アリオ川口３Ｆ",
-    "location": [
-      35.8071180742279,
-      139.714134922754
     ],
     "country": "JP"
   },
@@ -2115,20 +2106,20 @@
     "country": "JP"
   },
   {
-    "name": "ＧｉＧＯアトレ川越",
-    "address": "埼玉県川越市脇田町１０５番地１Ｆ",
-    "location": [
-      35.9099983,
-      139.4828345
-    ],
-    "country": "JP"
-  },
-  {
     "name": "テクモピア川越店",
     "address": "埼玉県川越市脇田町４ー２ドンキホーテ川越東口店３Ｆ",
     "location": [
       35.9090606,
       139.4829145
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ＧｉＧＯアトレ川越",
+    "address": "埼玉県川越市脇田町１０５番地１Ｆ",
+    "location": [
+      35.9099983,
+      139.4828345
     ],
     "country": "JP"
   },
@@ -2142,20 +2133,20 @@
     "country": "JP"
   },
   {
-    "name": "タイトーＦステーションＡＳ大宮西口駅前店",
-    "address": "埼玉県さいたま市大宮区桜木町２‐３　イオンスタイル大宮西７Ｆ",
-    "location": [
-      35.9068898,
-      139.6217932
-    ],
-    "country": "JP"
-  },
-  {
     "name": "タイトーステーション 大宮店",
     "address": "埼玉県さいたま市大宮区大門町１−１",
     "location": [
       35.9074466762351,
       139.625597394477
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "タイトーＦステーションＡＳ大宮西口駅前店",
+    "address": "埼玉県さいたま市大宮区桜木町２‐３　イオンスタイル大宮西７Ｆ",
+    "location": [
+      35.9068898,
+      139.6217932
     ],
     "country": "JP"
   },
@@ -2376,20 +2367,20 @@
     "country": "JP"
   },
   {
-    "name": "ＳＯＹＵＧａｍｅＦｅｉｌｄ熊谷",
-    "address": "埼玉県熊谷市銀座2-245ﾆｯﾄﾓｰﾙ4F",
-    "location": [
-      36.1387884,
-      139.3937695
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ｎａｍｃｏ熊谷店",
     "address": "埼玉県熊谷市銀座２ー９７ＣＡＲＰＡ１階",
     "location": [
       36.1391162,
       139.3949055
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ＳＯＹＵＧａｍｅＦｅｉｌｄ熊谷",
+    "address": "埼玉県熊谷市銀座2-245ﾆｯﾄﾓｰﾙ4F",
+    "location": [
+      36.1387884,
+      139.3937695
     ],
     "country": "JP"
   },
@@ -6867,6 +6858,24 @@
     "country": "JP"
   },
   {
+    "name": "ＧｉＧＯ神戸ｕｍｉｅサウスモール",
+    "address": "兵庫県神戸市中央区東川崎町１ー７−２ダイヤニッセイビル４Ｆ",
+    "location": [
+      34.6792583231072,
+      135.182707914294
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "遊スペース マジカル",
+    "address": "兵庫県神戸市中央区琴ノ緒町５−２−３",
+    "location": [
+      34.6955046,
+      135.1950389
+    ],
+    "country": "JP"
+  },
+  {
     "name": "ＧｉＧＯ三宮北口",
     "address": "兵庫県神戸市中央区北長狭通一丁目８番１号",
     "location": [
@@ -6885,29 +6894,11 @@
     "country": "JP"
   },
   {
-    "name": "遊スペース マジカル",
-    "address": "兵庫県神戸市中央区琴ノ緒町５−２−３",
-    "location": [
-      34.6955046,
-      135.1950389
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ＧｉＧＯ神戸ｕｍｉｅモザイク",
     "address": "兵庫県神戸市中央区東川崎町１ー６ー１神戸モザイク３Ｆ",
     "location": [
       34.6799071,
       135.1844019
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "ＧｉＧＯ神戸ｕｍｉｅサウスモール",
-    "address": "兵庫県神戸市中央区東川崎町１ー７−２ダイヤニッセイビル４Ｆ",
-    "location": [
-      34.6792583231072,
-      135.182707914294
     ],
     "country": "JP"
   },
@@ -7038,15 +7029,6 @@
     "country": "JP"
   },
   {
-    "name": "ＧｉＧＯ明石",
-    "address": "兵庫県明石市魚住町清水２４６４−１",
-    "location": [
-      34.7200565342468,
-      134.896832046033
-    ],
-    "country": "JP"
-  },
-  {
     "name": "モーリーファンタジー明石店",
     "address": "兵庫県明石市大久保町ゆりのき通り３−３−１イオン明石３番街３Ｆ",
     "location": [
@@ -7074,20 +7056,20 @@
     "country": "JP"
   },
   {
-    "name": "ラウンドワン加古川店",
-    "address": "兵庫県加古川市尾上町安田325番6号",
-    "location": [
-      34.7470428,
-      134.8369253
-    ],
-    "country": "JP"
-  },
-  {
     "name": "遊スペース　スプラ",
     "address": "兵庫県加古川市尾上町安田３５１−１",
     "location": [
       34.7456374,
       134.8356588
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ラウンドワン加古川店",
+    "address": "兵庫県加古川市尾上町安田325番6号",
+    "location": [
+      34.7470428,
+      134.8369253
     ],
     "country": "JP"
   },
@@ -7277,15 +7259,6 @@
     "location": [
       35.5118559,
       134.2105547
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "ＰＡＬＯ鳥取店",
-    "address": "鳥取県鳥取市天神町1　2F",
-    "location": [
-      35.493514,
-      134.2219484
     ],
     "country": "JP"
   },
@@ -7799,6 +7772,15 @@
     "location": [
       34.0611124073728,
       134.572775418875
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "アミューズメントパフェパレパレ田宮店",
+    "address": "徳島県徳島市南田宮２−２−４６",
+    "location": [
+      34.0861319,
+      134.5427222
     ],
     "country": "JP"
   },
@@ -10638,6 +10620,15 @@
     "country": "EN"
   },
   {
+    "name": "WONDER ZONNE",
+    "address": "LOT T19, Tingkat3, Ipoh Parade shopping mall, 30450 Ipoh,",
+    "location": [
+      4.595682,
+      101.0898842
+    ],
+    "country": "EN"
+  },
+  {
     "name": "MOLLY FANTASY IPOH PARADE",
     "address": "105,Jalan Sultan Abdul Jalil,Greentown,30450 Ipoh,Perak",
     "location": [
@@ -10746,20 +10737,20 @@
     "country": "EN"
   },
   {
-    "name": "MOLLY FANTASY SHAH ALAM",
-    "address": "13/64,Persiaran Akuatik,Seksyen13,40100 Shah Alam,Selangor",
-    "location": [
-      3.0725063,
-      101.5391023
-    ],
-    "country": "EN"
-  },
-  {
     "name": "MOLLY FANTASY SETIA CITY MALL",
     "address": "Bandar Setia Alam,Seksyen U13,40170 Shah Alam",
     "location": [
       3.0946288,
       101.4455208
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "MOLLY FANTASY SHAH ALAM",
+    "address": "13/64,Persiaran Akuatik,Seksyen13,40100 Shah Alam,Selangor",
+    "location": [
+      3.0725063,
+      101.5391023
     ],
     "country": "EN"
   },
@@ -11574,6 +11565,15 @@
     "country": "EN"
   },
   {
+    "name": "TIMEZONE PASCAL BANDUNG",
+    "address": "Jl. Pasir Kaliki No. 25-27 Kel.Kebon Jeruk  Kec. Andir. Bandung",
+    "location": [
+      -6.9152932,
+      107.5941588
+    ],
+    "country": "EN"
+  },
+  {
     "name": "TIMEZONE SUMMARECON BEKASI",
     "address": "SUMARECONMAL BEKASI.JL.BOULEVARDAHMAD YANI BLOKM-BEKASI-17142",
     "location": [
@@ -11795,15 +11795,6 @@
     "location": [
       1.4723227,
       124.8319485
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "TIMEZONE BENCOOLEN",
-    "address": "JL.Pariwisata No.1 Penurunan Kec. Ratu Samban, Bengkulu",
-    "location": [
-      -3.8148175,
-      102.270578
     ],
     "country": "EN"
   },
@@ -12204,20 +12195,20 @@
     "country": "EN"
   },
   {
-    "name": "CAMELOT GOLFLAND",
-    "address": "3200 Carpenter Ave. Anaheim, CA",
-    "location": [
-      33.8503993,
-      -117.8513949
-    ],
-    "country": "EN"
-  },
-  {
     "name": "FAIRFIELD GOLFLAND",
     "address": "4300 Central Place Fairfield, CA 94534",
     "location": [
       38.2248985,
       -122.1238603
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "ROUND1 PACIFIC VIEW",
+    "address": "3295 East Main Street, Suite 2 Ventura, CA 93003",
+    "location": [
+      34.2684873,
+      -119.2497252
     ],
     "country": "EN"
   },
@@ -12263,6 +12254,15 @@
     "location": [
       26.010591,
       -80.307858
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "H MART ORLANDO",
+    "address": "7501 W Colonial Dr, Orlando, FL32818",
+    "location": [
+      28.5533009,
+      -81.4852217
     ],
     "country": "EN"
   },
@@ -12762,6 +12762,15 @@
     "country": "EN"
   },
   {
+    "name": "DAVE & BUSTERS BRISTOL",
+    "address": "567 PINNACLE PARKWAY , BRISTOL TN 37620",
+    "location": [
+      36.5924045,
+      -82.2554274
+    ],
+    "country": "EN"
+  },
+  {
     "name": "ROUND1 ARLINGTON PARKS",
     "address": "3811 S. Cooper St., Suite 6004,Arlington TX 76015",
     "location": [
@@ -12942,6 +12951,24 @@
     "country": "EN"
   },
   {
+    "name": "METROPOLIS RESORT",
+    "address": "2402 Lorch ave, Eau Claire, Wi 54701",
+    "location": [
+      44.7645095,
+      -91.4668045
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "QUANTUM(SM STA.MESA)",
+    "address": "3FSMCitySta.Mesa,RamonMagsaysayBoulevard cor.AranetaAve,QuenzonC",
+    "location": [
+      14.6055525,
+      121.0186901
+    ],
+    "country": "EN"
+  },
+  {
     "name": "QUANTUM SM NORTH EDSA",
     "address": "SM NORHT EDSA, QUEZON CITY",
     "location": [
@@ -12956,15 +12983,6 @@
     "location": [
       14.708228,
       121.0373958
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "QUANTUM(SM STA.MESA)",
-    "address": "3FSMCitySta.Mesa,RamonMagsaysayBoulevard cor.AranetaAve,QuenzonC",
-    "location": [
-      14.6055525,
-      121.0186901
     ],
     "country": "EN"
   },
@@ -13014,20 +13032,20 @@
     "country": "EN"
   },
   {
-    "name": "Q POWER STATION SHANGRILA",
-    "address": "EASTWING EDSA CORNER SHAW BOULEVARD, MANDALUYONG CITY",
-    "location": [
-      14.5812818,
-      121.0538687
-    ],
-    "country": "EN"
-  },
-  {
     "name": "CLUB SYNERGY SM MEGAMALL",
     "address": "LGF SM MEGAMALL, JULIA VARGAS COR EDSA, MANDALUYONG CITY",
     "location": [
       14.5851052,
       121.0569621
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "Q POWER STATION SHANGRILA",
+    "address": "EASTWING EDSA CORNER SHAW BOULEVARD, MANDALUYONG CITY",
+    "location": [
+      14.5812818,
+      121.0538687
     ],
     "country": "EN"
   },
@@ -13122,20 +13140,20 @@
     "country": "EN"
   },
   {
-    "name": "TIMEZONE UP TOWN CENTER",
-    "address": "2F UP Town Center Phase 2 Katipunan Ave. U.P. Campus, Diliman",
-    "location": [
-      14.6507347,
-      121.0746778
-    ],
-    "country": "EN"
-  },
-  {
     "name": "TIMEZONE TIMEZONE GATEWAY",
     "address": "L3 GatewayMall 2 General Araneta Av, Araneta City, Brgy. Socorro",
     "location": [
       0.0,
       0.0
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "TIMEZONE UP TOWN CENTER",
+    "address": "2F UP Town Center Phase 2 Katipunan Ave. U.P. Campus, Diliman",
+    "location": [
+      14.6507347,
+      121.0746778
     ],
     "country": "EN"
   },
@@ -13185,20 +13203,20 @@
     "country": "EN"
   },
   {
-    "name": "QUANTUM UPTOWN MALL BGC",
-    "address": "Uptown Mall,9th Ave cor36th St,Fort Bonifacio,Taguig,MetroManila",
-    "location": [
-      14.5565479,
-      121.054103
-    ],
-    "country": "EN"
-  },
-  {
     "name": "Q POWER STATION-PARKTRIANGLE MALL-BGC",
     "address": "4F Park Triangle Mall, Fort Bonifacio Global City, Taguig, 1634",
     "location": [
       0.0,
       0.0
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "QUANTUM UPTOWN MALL BGC",
+    "address": "Uptown Mall,9th Ave cor36th St,Fort Bonifacio,Taguig,MetroManila",
+    "location": [
+      14.5565479,
+      121.054103
     ],
     "country": "EN"
   },
@@ -13289,15 +13307,6 @@
     "location": [
       15.1690253,
       120.580085
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "QUANTUM SM BATAAN",
-    "address": "2nd Level, Sm City Bataan, Balanga, Bataan",
-    "location": [
-      14.6824965,
-      120.5381408
     ],
     "country": "EN"
   },
