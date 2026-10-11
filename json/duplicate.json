@@ -981,15 +981,6 @@
     "country": "JP"
   },
   {
-    "name": "スタジオプリモ水戸店",
-    "address": "茨城県水戸市宮町１−２−４マイム１F",
-    "location": [
-      36.3714779,
-      140.4774261
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ＧｉＧＯ水戸",
     "address": "茨城県水戸市宮町１−７−４４コムボックス３１０",
     "location": [
@@ -1953,20 +1944,20 @@
     "country": "JP"
   },
   {
-    "name": "ゲームガリバー",
-    "address": "千葉県柏市柏１‐１‐１１",
-    "location": [
-      35.8616855,
-      139.9711177
-    ],
-    "country": "JP"
-  },
-  {
     "name": "タイトーステーション 柏店",
     "address": "千葉県柏市柏２−３−１フーサワビル",
     "location": [
       35.8613823,
       139.9727044
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ゲームガリバー",
+    "address": "千葉県柏市柏１‐１‐１１",
+    "location": [
+      35.8616855,
+      139.9711177
     ],
     "country": "JP"
   },
@@ -1989,20 +1980,20 @@
     "country": "JP"
   },
   {
-    "name": "ＧｉＧＯ千葉",
-    "address": "千葉県千葉市中央区富士見２−４−１",
-    "location": [
-      35.6115641,
-      140.1158508
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ラッキー中央店・フェリシダ",
     "address": "千葉県千葉市中央区富士見2-8-1",
     "location": [
       35.6102534,
       140.1182646
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ＧｉＧＯ千葉",
+    "address": "千葉県千葉市中央区富士見２−４−１",
+    "location": [
+      35.6115641,
+      140.1158508
     ],
     "country": "JP"
   },
@@ -2016,20 +2007,20 @@
     "country": "JP"
   },
   {
-    "name": "パレパレ稲毛長沼店",
-    "address": "千葉県千葉市稲毛区長沼原町731-17フレスポ稲毛Ａ２棟４",
-    "location": [
-      35.6575891,
-      140.1277036
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ＧｉＧＯ稲毛オーツーパーク",
     "address": "千葉県千葉市稲毛区園生町３８０−１",
     "location": [
       35.6505316705029,
       140.119112209054
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "パレパレ稲毛長沼店",
+    "address": "千葉県千葉市稲毛区長沼原町731-17フレスポ稲毛Ａ２棟４",
+    "location": [
+      35.6575891,
+      140.1277036
     ],
     "country": "JP"
   },
@@ -2133,20 +2124,20 @@
     "country": "JP"
   },
   {
-    "name": "テクモピア船橋南口店",
-    "address": "千葉県船橋市本町１ー７ー６ドリーム船橋ビル３Ｆ",
-    "location": [
-      35.6990191,
-      139.9858078
-    ],
-    "country": "JP"
-  },
-  {
     "name": "タイトーステーション 船橋店",
     "address": "千葉県船橋市本町１−６−１",
     "location": [
       35.6998912,
       139.9859705
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "テクモピア船橋南口店",
+    "address": "千葉県船橋市本町１ー７ー６ドリーム船橋ビル３Ｆ",
+    "location": [
+      35.6990191,
+      139.9858078
     ],
     "country": "JP"
   },
@@ -3632,6 +3623,15 @@
     "location": [
       36.542063,
       136.6259888
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "バイパスレジャーランド加賀店",
+    "address": "石川県加賀市箱宮町ヲ1-1",
+    "location": [
+      36.3251943937006,
+      136.411386633135
     ],
     "country": "JP"
   },
@@ -6876,6 +6876,15 @@
     "country": "JP"
   },
   {
+    "name": "サープラ天文館あそびタウン",
+    "address": "鹿児島県鹿児島市千日町５ー６",
+    "location": [
+      31.5892294,
+      130.5557189
+    ],
+    "country": "JP"
+  },
+  {
     "name": "ゲームセンター電撃ベイサイド",
     "address": "鹿児島県鹿児島市浜町2-2",
     "location": [
@@ -7401,8 +7410,8 @@
     "name": "X50 MGS KAOHSIUNG",
     "address": "No.1-12, Chongcing St., Sanmin Dist., Kaohsiung City 807010",
     "location": [
-      0.0,
-      0.0
+      22.641157,
+      120.301696
     ],
     "country": "EN"
   },
@@ -8598,8 +8607,8 @@
     "name": "Q POWER STATION-PARKTRIANGLE MALL-BGC",
     "address": "4F Park Triangle Mall, Fort Bonifacio Global City, Taguig, 1634",
     "location": [
-      0.0,
-      0.0
+      14.5525369,
+      121.0549717
     ],
     "country": "EN"
   },
@@ -8715,8 +8724,8 @@
     "name": "GIGO AEON MALL HA DONG",
     "address": "Lot T325, 3F, AEON MALL HA DONG, Duong Noi Ward, Ha Noi City",
     "location": [
-      0.0,
-      0.0
+      20.9895625,
+      105.7513125
     ],
     "country": "EN"
   },
@@ -8843,6 +8852,15 @@
     "location": [
       -33.7973628,
       151.1831083
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "TIMEZONE ERINA",
+    "address": "SHOP H09, Terrigal Dr, Erina NSW 2250",
+    "location": [
+      -33.43756270349177,
+      151.3916931146161
     ],
     "country": "EN"
   },

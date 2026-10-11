@@ -513,15 +513,6 @@
     "country": "JP"
   },
   {
-    "name": "ゆりの木ボウル",
-    "address": "青森県八戸市鷹匠小路１０",
-    "location": [
-      40.5066344149301,
-      141.493240556414
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ファンタジードーム八戸",
     "address": "青森県八戸市江陽２−１４−１",
     "location": [
@@ -1391,15 +1382,6 @@
     "location": [
       37.6468071697725,
       139.85959210629
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "スタジオプリモ水戸店",
-    "address": "茨城県水戸市宮町１−２−４マイム１F",
-    "location": [
-      36.3714779,
-      140.4774261
     ],
     "country": "JP"
   },
@@ -2601,20 +2583,20 @@
     "country": "JP"
   },
   {
-    "name": "ゲームガリバー",
-    "address": "千葉県柏市柏１‐１‐１１",
-    "location": [
-      35.8616855,
-      139.9711177
-    ],
-    "country": "JP"
-  },
-  {
     "name": "タイトーステーション 柏店",
     "address": "千葉県柏市柏２−３−１フーサワビル",
     "location": [
       35.8613823,
       139.9727044
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ゲームガリバー",
+    "address": "千葉県柏市柏１‐１‐１１",
+    "location": [
+      35.8616855,
+      139.9711177
     ],
     "country": "JP"
   },
@@ -2646,11 +2628,11 @@
     "country": "JP"
   },
   {
-    "name": "ＧｉＧＯ千葉",
-    "address": "千葉県千葉市中央区富士見２−４−１",
+    "name": "ラッキー中央店・フェリシダ",
+    "address": "千葉県千葉市中央区富士見2-8-1",
     "location": [
-      35.6115641,
-      140.1158508
+      35.6102534,
+      140.1182646
     ],
     "country": "JP"
   },
@@ -2664,11 +2646,11 @@
     "country": "JP"
   },
   {
-    "name": "ラッキー中央店・フェリシダ",
-    "address": "千葉県千葉市中央区富士見2-8-1",
+    "name": "ＧｉＧＯ千葉",
+    "address": "千葉県千葉市中央区富士見２−４−１",
     "location": [
-      35.6102534,
-      140.1182646
+      35.6115641,
+      140.1158508
     ],
     "country": "JP"
   },
@@ -2678,15 +2660,6 @@
     "location": [
       35.5541062,
       140.1260538
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "パレパレ稲毛長沼店",
-    "address": "千葉県千葉市稲毛区長沼原町731-17フレスポ稲毛Ａ２棟４",
-    "location": [
-      35.6575891,
-      140.1277036
     ],
     "country": "JP"
   },
@@ -2705,6 +2678,15 @@
     "location": [
       35.6505316705029,
       140.119112209054
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "パレパレ稲毛長沼店",
+    "address": "千葉県千葉市稲毛区長沼原町731-17フレスポ稲毛Ａ２棟４",
+    "location": [
+      35.6575891,
+      140.1277036
     ],
     "country": "JP"
   },
@@ -2826,11 +2808,11 @@
     "country": "JP"
   },
   {
-    "name": "アドアーズ船橋",
-    "address": "千葉県船橋市本町１−３１−２６セブン船橋Ｂ１Ｆ&#12316;３Ｆ",
+    "name": "タイトーステーション 船橋店",
+    "address": "千葉県船橋市本町１−６−１",
     "location": [
-      35.7005813221414,
-      139.984490289619
+      35.6998912,
+      139.9859705
     ],
     "country": "JP"
   },
@@ -2844,11 +2826,11 @@
     "country": "JP"
   },
   {
-    "name": "タイトーステーション 船橋店",
-    "address": "千葉県船橋市本町１−６−１",
+    "name": "アドアーズ船橋",
+    "address": "千葉県船橋市本町１−３１−２６セブン船橋Ｂ１Ｆ&#12316;３Ｆ",
     "location": [
-      35.6998912,
-      139.9859705
+      35.7005813221414,
+      139.984490289619
     ],
     "country": "JP"
   },
@@ -3011,6 +2993,15 @@
     "location": [
       35.6602102317515,
       140.022610035582
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "アミュージアム茂原店",
+    "address": "千葉県茂原市高師１６１９−１",
+    "location": [
+      35.4367764131115,
+      140.284405734796
     ],
     "country": "JP"
   },
@@ -7263,6 +7254,15 @@
     "country": "JP"
   },
   {
+    "name": "ＰＡＬＯ鳥取店",
+    "address": "鳥取県鳥取市天神町1　2F",
+    "location": [
+      35.493514,
+      134.2219484
+    ],
+    "country": "JP"
+  },
+  {
     "name": "ｙｏｕｍｅ　ＣＩＲＣＵＳ出雲店",
     "address": "島根県出雲市大塚町６５０−１ゆめタウン出雲店　東館３Ｆ",
     "location": [
@@ -9795,8 +9795,8 @@
     "name": "X50 MGS KAOHSIUNG",
     "address": "No.1-12, Chongcing St., Sanmin Dist., Kaohsiung City 807010",
     "location": [
-      0.0,
-      0.0
+      22.641157,
+      120.301696
     ],
     "country": "EN"
   },
@@ -10290,8 +10290,8 @@
     "name": "COW PLAY COW MOO SELETAR MALL",
     "address": "33 Sengkang W Ave, #04-28 Singapore 797653",
     "location": [
-      0.0,
-      0.0
+      1.3915208,
+      103.8760834
     ],
     "country": "EN"
   },
@@ -10353,8 +10353,8 @@
     "name": "COW PLAY COW MOO WEST MALL",
     "address": "1 Bukit Batok Central #05-01B, Singapore 658713",
     "location": [
-      0.0,
-      0.0
+      1.3500419,
+      103.7492281
     ],
     "country": "EN"
   },
@@ -10512,7 +10512,7 @@
     "country": "EN"
   },
   {
-    "name": "FUN SCAPE@TESCO MERGONG",
+    "name": "FUN SCAPE@LOTUS'S MERGONG",
     "address": "Tesco Mergong jalan Lencong Barat 05050Alorstetar Kedah",
     "location": [
       6.1287788,
@@ -10575,7 +10575,7 @@
     "country": "EN"
   },
   {
-    "name": "FUN SCAPE@TESCO BAGAN AJAM",
+    "name": "FUN SCAPE@LOTUS'S BAGAN AJAM",
     "address": "G3,TESCO BAGAN AJAM ,LOT 2816,12300 BUTTERWORTH PULAU PINANG",
     "location": [
       5.4396,
@@ -10602,7 +10602,7 @@
     "country": "EN"
   },
   {
-    "name": "FUN SCAPE@TESCO IPOH KINTA CITY",
+    "name": "FUN SCAPE@LOTUS'SIPOH KINTA CITY",
     "address": "2 Jalan Lambu Taman Teh Teng Seng 31400 Ipoh Perak",
     "location": [
       4.6167149,
@@ -10965,8 +10965,8 @@
     "name": "FUN SCAPE PUBLIKA",
     "address": "Lot 72, UG, Publika Shopping Gallery, Solaris Dutamas, 50480",
     "location": [
-      0.0,
-      0.0
+      3.1714242,
+      101.6642001
     ],
     "country": "EN"
   },
@@ -11631,8 +11631,8 @@
     "name": "FESTIVAL CITYLINK BANDUNG",
     "address": "Jl.Peta, No.241, Suka Asih, Kec.Bojongloa Kaler, Kota Bandung",
     "location": [
-      0.0,
-      0.0
+      -6.9296962,
+      107.5862425
     ],
     "country": "EN"
   },
@@ -11658,8 +11658,8 @@
     "name": "SEMARANG 23 ARKANA",
     "address": "Jl.Kawasan POJCity (Pearl of Jav",
     "location": [
-      0.0,
-      0.0
+      -6.953488117556648,
+      110.38057815924681
     ],
     "country": "EN"
   },
@@ -12006,6 +12006,15 @@
     "country": "EN"
   },
   {
+    "name": "GAME TIME SOCIAL",
+    "address": "3330 S Service Rd, Burlington, ON L7N 3M6, Canada",
+    "location": [
+      43.360208,
+      -79.7932873
+    ],
+    "country": "EN"
+  },
+  {
     "name": "ROUND1 MORENO VALLEY MALL",
     "address": "22500 Town Circle Suite 2030, Moreno Valley, CA 92553",
     "location": [
@@ -12195,6 +12204,15 @@
     "country": "EN"
   },
   {
+    "name": "CAMELOT GOLFLAND",
+    "address": "3200 Carpenter Ave. Anaheim, CA",
+    "location": [
+      33.8503993,
+      -117.8513949
+    ],
+    "country": "EN"
+  },
+  {
     "name": "FAIRFIELD GOLFLAND",
     "address": "4300 Central Place Fairfield, CA 94534",
     "location": [
@@ -12227,6 +12245,24 @@
     "location": [
       37.388206,
       -122.0896655
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "GAMEPLAY ARCADE",
+    "address": "250 town center E, Santa Maria Ca 93454",
+    "location": [
+      34.9513524,
+      -120.4342086
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "39 AI PAGE HILL",
+    "address": "195 Page Mill Rd #107, Palo Alto, CA 94306",
+    "location": [
+      37.4264599,
+      -122.1387031
     ],
     "country": "EN"
   },
@@ -12762,7 +12798,7 @@
     "country": "EN"
   },
   {
-    "name": "DAVE & BUSTERS BRISTOL",
+    "name": "DAVE & BUSTER'S BRISTOL",
     "address": "567 PINNACLE PARKWAY , BRISTOL TN 37620",
     "location": [
       36.5924045,
@@ -12884,6 +12920,15 @@
     "location": [
       32.8255914,
       -97.20275559999999
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "DAVE & BUSTER'S COLLEGE STATION",
+    "address": "1502 Harvey Rd, 100 Oak Mall, College Station, TX 77840",
+    "location": [
+      30.6261845,
+      -96.3038492
     ],
     "country": "EN"
   },
@@ -13140,11 +13185,11 @@
     "country": "EN"
   },
   {
-    "name": "TIMEZONE TIMEZONE GATEWAY",
+    "name": "TIMEZONE GATEWAY MALL",
     "address": "L3 GatewayMall 2 General Araneta Av, Araneta City, Brgy. Socorro",
     "location": [
-      0.0,
-      0.0
+      14.621692093455858,
+      121.05305972432859
     ],
     "country": "EN"
   },
@@ -13161,8 +13206,8 @@
     "name": "TIMEZONE ROBINSONS MAGNOLIA",
     "address": "4F RobinsonsMagnolia, Aurora Blvd, Dona Hemady St, New Manila",
     "location": [
-      0.0,
-      0.0
+      14.61494,
+      121.0376436
     ],
     "country": "EN"
   },
@@ -13206,8 +13251,8 @@
     "name": "Q POWER STATION-PARKTRIANGLE MALL-BGC",
     "address": "4F Park Triangle Mall, Fort Bonifacio Global City, Taguig, 1634",
     "location": [
-      0.0,
-      0.0
+      14.5525369,
+      121.0549717
     ],
     "country": "EN"
   },
@@ -13242,8 +13287,8 @@
     "name": "TIMEZONE MANILA BAY",
     "address": "3rd Floor Ayala Malls Manila Bay, Macapagal Blvd., Brgy. Tambo,",
     "location": [
-      0.0,
-      0.0
+      14.5227313,
+      120.9873857
     ],
     "country": "EN"
   },
@@ -13251,8 +13296,8 @@
     "name": "TIMEZONE AYALA MALLS FELIZ",
     "address": "5F Ayala Malls Feliz, Marcos Hwy & Amang Rodriguez Av,",
     "location": [
-      0.0,
-      0.0
+      14.6197791,
+      121.0932076
     ],
     "country": "EN"
   },
@@ -13260,8 +13305,8 @@
     "name": "TIMEZONE SM MALL OF ASIA",
     "address": "3rd Level SM Mall of Asia Bldg., J.W Diokno Blvd., Barangay 76",
     "location": [
-      0.0,
-      0.0
+      14.5355337,
+      120.9801944
     ],
     "country": "EN"
   },
@@ -13269,8 +13314,8 @@
     "name": "TIMEZONE AYALA MALLS VERMOSA",
     "address": "2F Ayala Malls Vermosa, Daang Hari Road Cor. Vermosa Blvd",
     "location": [
-      0.0,
-      0.0
+      14.3843003,
+      120.9598265
     ],
     "country": "EN"
   },
@@ -13368,8 +13413,8 @@
     "name": "TIMEZONE AYALA CENTER CEBU",
     "address": "2nd Floor Ayala Center Cebu, Cebu Business Park, Cebu City",
     "location": [
-      0.0,
-      0.0
+      10.3208414,
+      123.9043381
     ],
     "country": "EN"
   },
@@ -13449,8 +13494,8 @@
     "name": "TIMEZONE AEON MALL THANH KHE",
     "address": "Dien Bien Phu, Thanh Khe District, Da Nang city ,Viet Nam",
     "location": [
-      0.0,
-      0.0
+      16.0663765,
+      108.2043841
     ],
     "country": "EN"
   },
@@ -13557,8 +13602,8 @@
     "name": "GIGO AEON MALL HA DONG",
     "address": "Lot T325, 3F, AEON MALL HA DONG, Duong Noi Ward, Ha Noi City",
     "location": [
-      0.0,
-      0.0
+      20.9895625,
+      105.7513125
     ],
     "country": "EN"
   },
@@ -13719,8 +13764,8 @@
     "name": "KOKO AMUSEMENTS DIXON",
     "address": "Level 1 & 2/1 Dixon Street, Haymerket, Sydney",
     "location": [
-      0.0,
-      0.0
+      -33.8773532,
+      151.2037999
     ],
     "country": "EN"
   },
@@ -13818,8 +13863,8 @@
     "name": "TIMEZONE BANKSTOWN",
     "address": "Bankstown Central Shopping Centre, Shop MM022 North Terrace",
     "location": [
-      0.0,
-      0.0
+      -33.9160562,
+      151.0379731
     ],
     "country": "EN"
   },
@@ -13865,6 +13910,15 @@
     "location": [
       -33.9448896,
       151.2243238
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "TIMEZONE ERINA",
+    "address": "SHOP H09, Terrigal Dr, Erina NSW 2250",
+    "location": [
+      -33.43756270349177,
+      151.3916931146161
     ],
     "country": "EN"
   },
@@ -14061,8 +14115,8 @@
     "name": "PLAYit",
     "address": "Shop 14-22 Southgate Shopping Centre3 Southgate Ave",
     "location": [
-      0.0,
-      0.0
+      -37.820556,
+      144.965833
     ],
     "country": "EN"
   },
@@ -14205,8 +14259,8 @@
     "name": "ALIBABA AMUSEMENT",
     "address": "No.401-403, 4F, Food Planet, Time City, Kamaryut Township",
     "location": [
-      0.0,
-      0.0
+      16.8163686,
+      96.1286337
     ],
     "country": "EN"
   },
