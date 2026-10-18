@@ -1944,20 +1944,20 @@
     "country": "JP"
   },
   {
-    "name": "タイトーステーション 柏店",
-    "address": "千葉県柏市柏２−３−１フーサワビル",
-    "location": [
-      35.8613823,
-      139.9727044
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ゲームガリバー",
     "address": "千葉県柏市柏１‐１‐１１",
     "location": [
       35.8616855,
       139.9711177
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "タイトーステーション 柏店",
+    "address": "千葉県柏市柏２−３−１フーサワビル",
+    "location": [
+      35.8613823,
+      139.9727044
     ],
     "country": "JP"
   },
@@ -1980,20 +1980,20 @@
     "country": "JP"
   },
   {
-    "name": "ラッキー中央店・フェリシダ",
-    "address": "千葉県千葉市中央区富士見2-8-1",
-    "location": [
-      35.6102534,
-      140.1182646
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ＧｉＧＯ千葉",
     "address": "千葉県千葉市中央区富士見２−４−１",
     "location": [
       35.6115641,
       140.1158508
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ラッキー中央店・フェリシダ",
+    "address": "千葉県千葉市中央区富士見2-8-1",
+    "location": [
+      35.6102534,
+      140.1182646
     ],
     "country": "JP"
   },
@@ -2007,20 +2007,20 @@
     "country": "JP"
   },
   {
-    "name": "ＧｉＧＯ稲毛オーツーパーク",
-    "address": "千葉県千葉市稲毛区園生町３８０−１",
-    "location": [
-      35.6505316705029,
-      140.119112209054
-    ],
-    "country": "JP"
-  },
-  {
     "name": "パレパレ稲毛長沼店",
     "address": "千葉県千葉市稲毛区長沼原町731-17フレスポ稲毛Ａ２棟４",
     "location": [
       35.6575891,
       140.1277036
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "ＧｉＧＯ稲毛オーツーパーク",
+    "address": "千葉県千葉市稲毛区園生町３８０−１",
+    "location": [
+      35.6505316705029,
+      140.119112209054
     ],
     "country": "JP"
   },
@@ -2124,20 +2124,20 @@
     "country": "JP"
   },
   {
-    "name": "タイトーステーション 船橋店",
-    "address": "千葉県船橋市本町１−６−１",
-    "location": [
-      35.6998912,
-      139.9859705
-    ],
-    "country": "JP"
-  },
-  {
     "name": "テクモピア船橋南口店",
     "address": "千葉県船橋市本町１ー７ー６ドリーム船橋ビル３Ｆ",
     "location": [
       35.6990191,
       139.9858078
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "タイトーステーション 船橋店",
+    "address": "千葉県船橋市本町１−６−１",
+    "location": [
+      35.6998912,
+      139.9859705
     ],
     "country": "JP"
   },
@@ -5526,15 +5526,6 @@
     "country": "JP"
   },
   {
-    "name": "ハローズガーデン新三田",
-    "address": "兵庫県三田市けやき台１‐６‐２イオン三田２番街",
-    "location": [
-      34.9081575,
-      135.1861575
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ＧｉＧＯコロワ甲子園",
     "address": "兵庫県西宮市甲子園高潮町３−３Ｃｒｏｗａ甲子園３Ｆ",
     "location": [
@@ -7902,20 +7893,20 @@
     "country": "EN"
   },
   {
-    "name": "MOLLY FANTASY SETIA CITY MALL",
-    "address": "Bandar Setia Alam,Seksyen U13,40170 Shah Alam",
-    "location": [
-      3.0946288,
-      101.4455208
-    ],
-    "country": "EN"
-  },
-  {
     "name": "MOLLY FANTASY SHAH ALAM",
     "address": "13/64,Persiaran Akuatik,Seksyen13,40100 Shah Alam,Selangor",
     "location": [
       3.0725063,
       101.5391023
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "MOLLY FANTASY SETIA CITY MALL",
+    "address": "Bandar Setia Alam,Seksyen U13,40170 Shah Alam",
+    "location": [
+      3.0946288,
+      101.4455208
     ],
     "country": "EN"
   },
@@ -8636,6 +8627,15 @@
     "location": [
       13.9540966,
       121.1635398
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "DREAM GAMES THANH HOA",
+    "address": "No.88, National Highway1, Ward 6, Lot16, South Urban Area",
+    "location": [
+      -17.2670371,
+      145.47541
     ],
     "country": "EN"
   },

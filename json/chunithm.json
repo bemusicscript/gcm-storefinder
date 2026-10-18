@@ -6255,6 +6255,15 @@
     "country": "JP"
   },
   {
+    "name": "ｎａｍｃｏエアポートウォーク名古屋店",
+    "address": "愛知県西春日井郡豊山町大字豊場字林先１ー８エアポートＷ３Ｆ",
+    "location": [
+      35.2462056,
+      136.9248662
+    ],
+    "country": "JP"
+  },
+  {
     "name": "ソユーゲームフィールド赤池店",
     "address": "愛知県日進市赤池町箕ノ手１番プライムツリー赤池３階",
     "location": [
@@ -11390,6 +11399,15 @@
     "location": [
       13.9540966,
       121.1635398
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "DREAM GAMES THANH HOA",
+    "address": "No.88, National Highway1, Ward 6, Lot16, South Urban Area",
+    "location": [
+      -17.2670371,
+      145.47541
     ],
     "country": "EN"
   },

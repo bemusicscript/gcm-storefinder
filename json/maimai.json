@@ -2583,20 +2583,20 @@
     "country": "JP"
   },
   {
-    "name": "タイトーステーション 柏店",
-    "address": "千葉県柏市柏２−３−１フーサワビル",
-    "location": [
-      35.8613823,
-      139.9727044
-    ],
-    "country": "JP"
-  },
-  {
     "name": "ゲームガリバー",
     "address": "千葉県柏市柏１‐１‐１１",
     "location": [
       35.8616855,
       139.9711177
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "タイトーステーション 柏店",
+    "address": "千葉県柏市柏２−３−１フーサワビル",
+    "location": [
+      35.8613823,
+      139.9727044
     ],
     "country": "JP"
   },
@@ -2628,11 +2628,11 @@
     "country": "JP"
   },
   {
-    "name": "ラッキー中央店・フェリシダ",
-    "address": "千葉県千葉市中央区富士見2-8-1",
+    "name": "ＧｉＧＯ千葉",
+    "address": "千葉県千葉市中央区富士見２−４−１",
     "location": [
-      35.6102534,
-      140.1182646
+      35.6115641,
+      140.1158508
     ],
     "country": "JP"
   },
@@ -2646,11 +2646,11 @@
     "country": "JP"
   },
   {
-    "name": "ＧｉＧＯ千葉",
-    "address": "千葉県千葉市中央区富士見２−４−１",
+    "name": "ラッキー中央店・フェリシダ",
+    "address": "千葉県千葉市中央区富士見2-8-1",
     "location": [
-      35.6115641,
-      140.1158508
+      35.6102534,
+      140.1182646
     ],
     "country": "JP"
   },
@@ -2660,6 +2660,15 @@
     "location": [
       35.5541062,
       140.1260538
+    ],
+    "country": "JP"
+  },
+  {
+    "name": "パレパレ稲毛長沼店",
+    "address": "千葉県千葉市稲毛区長沼原町731-17フレスポ稲毛Ａ２棟４",
+    "location": [
+      35.6575891,
+      140.1277036
     ],
     "country": "JP"
   },
@@ -2678,15 +2687,6 @@
     "location": [
       35.6505316705029,
       140.119112209054
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "パレパレ稲毛長沼店",
-    "address": "千葉県千葉市稲毛区長沼原町731-17フレスポ稲毛Ａ２棟４",
-    "location": [
-      35.6575891,
-      140.1277036
     ],
     "country": "JP"
   },
@@ -2808,11 +2808,11 @@
     "country": "JP"
   },
   {
-    "name": "タイトーステーション 船橋店",
-    "address": "千葉県船橋市本町１−６−１",
+    "name": "アドアーズ船橋",
+    "address": "千葉県船橋市本町１−３１−２６セブン船橋Ｂ１Ｆ&#12316;３Ｆ",
     "location": [
-      35.6998912,
-      139.9859705
+      35.7005813221414,
+      139.984490289619
     ],
     "country": "JP"
   },
@@ -2826,11 +2826,11 @@
     "country": "JP"
   },
   {
-    "name": "アドアーズ船橋",
-    "address": "千葉県船橋市本町１−３１−２６セブン船橋Ｂ１Ｆ&#12316;３Ｆ",
+    "name": "タイトーステーション 船橋店",
+    "address": "千葉県船橋市本町１−６−１",
     "location": [
-      35.7005813221414,
-      139.984490289619
+      35.6998912,
+      139.9859705
     ],
     "country": "JP"
   },
@@ -2993,15 +2993,6 @@
     "location": [
       35.6602102317515,
       140.022610035582
-    ],
-    "country": "JP"
-  },
-  {
-    "name": "アミュージアム茂原店",
-    "address": "千葉県茂原市高師１６１９−１",
-    "location": [
-      35.4367764131115,
-      140.284405734796
     ],
     "country": "JP"
   },
@@ -10737,20 +10728,20 @@
     "country": "EN"
   },
   {
-    "name": "MOLLY FANTASY SETIA CITY MALL",
-    "address": "Bandar Setia Alam,Seksyen U13,40170 Shah Alam",
-    "location": [
-      3.0946288,
-      101.4455208
-    ],
-    "country": "EN"
-  },
-  {
     "name": "MOLLY FANTASY SHAH ALAM",
     "address": "13/64,Persiaran Akuatik,Seksyen13,40100 Shah Alam,Selangor",
     "location": [
       3.0725063,
       101.5391023
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "MOLLY FANTASY SETIA CITY MALL",
+    "address": "Bandar Setia Alam,Seksyen U13,40170 Shah Alam",
+    "location": [
+      3.0946288,
+      101.4455208
     ],
     "country": "EN"
   },
@@ -10976,6 +10967,15 @@
     "location": [
       3.0502304,
       101.6709761
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "BERJAYA TIME SQUARE (SEMICO)",
+    "address": "LOT 14-15 NO1,JLN IMBI,BUKIT BINTANG,55100 KUALA LUMPUR WILAYAH",
+    "location": [
+      3.1435975,
+      101.7121799
     ],
     "country": "EN"
   },
@@ -11943,7 +11943,7 @@
     "country": "EN"
   },
   {
-    "name": "CLAW PLANET",
+    "name": "CLAW PLANET LAVAL",
     "address": "563 boul des laurentides , laval quebec h7g2v3 canada",
     "location": [
       45.5719876,
@@ -11979,7 +11979,7 @@
     "country": "EN"
   },
   {
-    "name": "CLAW PLANET PLATEAU",
+    "name": "CLAW PLANET MONTREAL",
     "address": "4526 R. Saint-Denis, Montreal, QC H2J 2L3 Canada",
     "location": [
       45.5240521,
@@ -12245,24 +12245,6 @@
     "location": [
       37.388206,
       -122.0896655
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "GAMEPLAY ARCADE",
-    "address": "250 town center E, Santa Maria Ca 93454",
-    "location": [
-      34.9513524,
-      -120.4342086
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "39 AI PAGE HILL",
-    "address": "195 Page Mill Rd #107, Palo Alto, CA 94306",
-    "location": [
-      37.4264599,
-      -122.1387031
     ],
     "country": "EN"
   },
@@ -13230,15 +13212,6 @@
     "country": "EN"
   },
   {
-    "name": "TIMEZONE GREENHILLS MALL",
-    "address": "Greenhills Mall Phase 1Greenhills Center,Greenhills,SanJuan City",
-    "location": [
-      14.6013406,
-      121.048813
-    ],
-    "country": "EN"
-  },
-  {
     "name": "QUANTUM SM FAIRVIEW",
     "address": "UGF/GF/FF, ANNEX 2, SM City Fairview",
     "location": [
@@ -13280,15 +13253,6 @@
     "location": [
       14.7537754,
       120.9553142
-    ],
-    "country": "EN"
-  },
-  {
-    "name": "TIMEZONE MANILA BAY",
-    "address": "3rd Floor Ayala Malls Manila Bay, Macapagal Blvd., Brgy. Tambo,",
-    "location": [
-      14.5227313,
-      120.9873857
     ],
     "country": "EN"
   },
@@ -13428,6 +13392,24 @@
     "country": "EN"
   },
   {
+    "name": "GIGO THANH HOA",
+    "address": "Lot 16 Southern Urban Area of Thanh Hoa City,Quang Phu Ward",
+    "location": [
+      19.7723143,
+      105.8378366
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "DREAM GAMES THANH HOA",
+    "address": "No.88, National Highway1, Ward 6, Lot16, South Urban Area",
+    "location": [
+      -17.2670371,
+      145.47541
+    ],
+    "country": "EN"
+  },
+  {
     "name": "DREAM KIDS SU VAN HANH",
     "address": "11 SU VAN HANH PHUONG 12 QUAN 10",
     "location": [
@@ -13446,20 +13428,20 @@
     "country": "EN"
   },
   {
-    "name": "MOLLY FANTASY AEON CANARY",
-    "address": "Lot S20 2F, No.01 Binh Duong blv, Binh Giao quarter, Thuan Giao",
-    "location": [
-      10.9400153,
-      106.7088775
-    ],
-    "country": "EN"
-  },
-  {
     "name": "TIMEZONE(AEON BINH DUONG)",
     "address": "Aeon Mall Binh Duong Canary,Binh Giao,Thuan Giao,Thuan An City",
     "location": [
       10.9323347,
       106.7119938
+    ],
+    "country": "EN"
+  },
+  {
+    "name": "MOLLY FANTASY AEON CANARY",
+    "address": "Lot S20 2F, No.01 Binh Duong blv, Binh Giao quarter, Thuan Giao",
+    "location": [
+      10.9400153,
+      106.7088775
     ],
     "country": "EN"
   },
